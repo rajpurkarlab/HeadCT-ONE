@@ -1,0 +1,927 @@
+{
+    "5 lesions": [
+        "quantity",
+        "numeric",
+        "numeric"
+    ],
+    "3 fractures": [
+        "quantity",
+        "numeric",
+        "numeric"
+    ],
+    "isolated": [
+        "quantity",
+        "qualitative",
+        "single"
+    ],
+    "solitary": [
+        "quantity",
+        "qualitative",
+        "single"
+    ],
+    "single": [
+        "quantity",
+        "qualitative",
+        "single"
+    ],
+    "several": [
+        "quantity",
+        "qualitative",
+        "multiple"
+    ],
+    "multiple": [
+        "quantity",
+        "qualitative",
+        "multiple"
+    ],
+    "numerous": [
+        "quantity",
+        "qualitative",
+        "multiple"
+    ],
+    "a few": [
+        "quantity",
+        "qualitative",
+        "multiple"
+    ],
+    "5 mm": [
+        "size",
+        "numeric",
+        "numeric"
+    ],
+    "10cm": [
+        "size",
+        "numeric",
+        "numeric"
+    ],
+    "tiny": [
+        "size",
+        "qualitative",
+        "very_small"
+    ],
+    "microscopic": [
+        "size",
+        "qualitative",
+        "very_small"
+    ],
+    "small": [
+        "size",
+        "qualitative",
+        "small"
+    ],
+    "moderate": [
+        "severity",
+        "moderate",
+        "moderate"
+    ],
+    "average": [
+        "size",
+        "qualitative",
+        "medium"
+    ],
+    "medium size": [
+        "size",
+        "qualitative",
+        "medium"
+    ],
+    "normal size": [
+        "size",
+        "qualitative",
+        "medium"
+    ],
+    "large": [
+        "size",
+        "qualitative",
+        "large"
+    ],
+    "big": [
+        "size",
+        "qualitative",
+        "large"
+    ],
+    "enlarged": [
+        "size",
+        "qualitative",
+        "large"
+    ],
+    "enormous": [
+        "size",
+        "qualitative",
+        "very_large"
+    ],
+    "huge": [
+        "size",
+        "qualitative",
+        "very_large"
+    ],
+    "very large": [
+        "size",
+        "qualitative",
+        "very_large"
+    ],
+    "gigantic": [
+        "size",
+        "qualitative",
+        "very_large"
+    ],
+    "very enlarged": [
+        "size",
+        "qualitative",
+        "very_large"
+    ],
+    "round": [
+        "shape",
+        "regular",
+        "spherical"
+    ],
+    "oval": [
+        "shape",
+        "regular",
+        "spherical"
+    ],
+    "ovoid": [
+        "shape",
+        "regular",
+        "spherical"
+    ],
+    "laminar": [
+        "shape",
+        "regular",
+        "laminar"
+    ],
+    "sheet-like": [
+        "shape",
+        "regular",
+        "laminar"
+    ],
+    "layer": [
+        "shape",
+        "regular",
+        "laminar"
+    ],
+    "tubular": [
+        "shape",
+        "regular",
+        "tubular"
+    ],
+    "cylindrical": [
+        "shape",
+        "regular",
+        "tubular"
+    ],
+    "fusiform": [
+        "shape",
+        "regular",
+        "fusiform"
+    ],
+    "lobulated": [
+        "shape",
+        "irregular",
+        "lobulated"
+    ],
+    "spiculated": [
+        "shape",
+        "irregular",
+        "spiculated"
+    ],
+    "amorphous": [
+        "shape",
+        "irregular",
+        "amorphous"
+    ],
+    "homogeneous": [
+        "homogeneity",
+        "homogeneous",
+        "homogeneous"
+    ],
+    "heterogeneous": [
+        "homogeneity",
+        "heterogeneous",
+        "heterogeneous"
+    ],
+    "hypodense": [
+        "density",
+        "hypodense",
+        "hypodense"
+    ],
+    "hypoattenuation": [
+        "density",
+        "hypodense",
+        "hypodense"
+    ],
+    "hypodensity": [
+        "density",
+        "hypodense",
+        "hypodense"
+    ],
+    "isodense": [
+        "density",
+        "isodense",
+        "isodense"
+    ],
+    "hyperdense": [
+        "density",
+        "hyperdense",
+        "hyperdense"
+    ],
+    "hyperattenuation": [
+        "density",
+        "hyperdense",
+        "hyperdense"
+    ],
+    "hyperdensity": [
+        "density",
+        "hyperdense",
+        "hyperdense"
+    ],
+    "mixed density": [
+        "density",
+        "mixed",
+        "mixed"
+    ],
+    "circumscribed": [
+        "margin",
+        "well_defined",
+        "well_defined"
+    ],
+    "well defined": [
+        "margin",
+        "well_defined",
+        "well_defined"
+    ],
+    "well circumscribed": [
+        "margin",
+        "well_defined",
+        "well_defined"
+    ],
+    "well delimited": [
+        "margin",
+        "well_defined",
+        "well_defined"
+    ],
+    "ill-defined": [
+        "margin",
+        "poorly_defined",
+        "poorly_defined"
+    ],
+    "poorly circumscribed": [
+        "margin",
+        "poorly_defined",
+        "poorly_defined"
+    ],
+    "minimal": [
+        "severity",
+        "minimal",
+        "minimal"
+    ],
+    "mild": [
+        "severity",
+        "mild",
+        "mild"
+    ],
+    "severe": [
+        "severity",
+        "severe",
+        "severe"
+    ],
+    "acute": [
+        "temporality",
+        "acute",
+        "acute"
+    ],
+    "new": [
+        "change",
+        "appearance",
+        "appearance"
+    ],
+    "subacute": [
+        "temporality",
+        "subacute",
+        "subacute"
+    ],
+    "chronic": [
+        "temporality",
+        "chronic",
+        "chronic"
+    ],
+    "old": [
+        "temporality",
+        "chronic",
+        "chronic"
+    ],
+    "remote": [
+        "temporality",
+        "chronic",
+        "chronic"
+    ],
+    "acute on chronic": [
+        "temporality",
+        "acute_on_chronic",
+        "acute_on_chronic"
+    ],
+    "age-indeterminate": [
+        "temporality",
+        "age_indeterminate",
+        "age_indeterminate"
+    ],
+    "indeterminate age": [
+        "temporality",
+        "age_indeterminate",
+        "age_indeterminate"
+    ],
+    "focal": [
+        "distribution",
+        "localized",
+        "localized"
+    ],
+    "localized": [
+        "distribution",
+        "localized",
+        "localized"
+    ],
+    "diffuse": [
+        "distribution",
+        "diffuse",
+        "diffuse"
+    ],
+    "confluent": [
+        "distribution",
+        "confluent",
+        "confluent"
+    ],
+    "scattered": [
+        "distribution",
+        "scattered",
+        "scattered"
+    ],
+    "petechial": [
+        "distribution",
+        "petechial",
+        "petechial"
+    ],
+    "multifocal": [
+        "distribution",
+        "multifocal",
+        "multifocal"
+    ],
+    "homogeneous enhancement": [
+        "enhancement",
+        "present",
+        "homogeneous"
+    ],
+    "heterogeneous enhancement": [
+        "enhancement",
+        "present",
+        "heterogeneous"
+    ],
+    "peripheral enhancement": [
+        "enhancement",
+        "present",
+        "peripheral"
+    ],
+    "central enhancement": [
+        "enhancement",
+        "present",
+        "central"
+    ],
+    "rim-like enhancement": [
+        "enhancement",
+        "present",
+        "rim"
+    ],
+    "patchy enhancement": [
+        "enhancement",
+        "present",
+        "patchy"
+    ],
+    "no enhancement": [
+        "enhancement",
+        "absent",
+        "absent"
+    ],
+    "resolution": [
+        "change",
+        "resolution",
+        "resolution"
+    ],
+    "resolved": [
+        "change",
+        "resolution",
+        "resolution"
+    ],
+    "cleared": [
+        "change",
+        "resolution",
+        "resolution"
+    ],
+    "dissapeared": [
+        "change",
+        "resolution",
+        "resolution"
+    ],
+    "improved": [
+        "change",
+        "improvement",
+        "improvement"
+    ],
+    "improving": [
+        "change",
+        "improvement",
+        "improvement"
+    ],
+    "increased": [
+        "change",
+        "increase",
+        "increase"
+    ],
+    "increase in size": [
+        "change",
+        "increase",
+        "increase"
+    ],
+    "larger": [
+        "change",
+        "increase",
+        "increase"
+    ],
+    "increasing": [
+        "change",
+        "increase",
+        "increase"
+    ],
+    "decreaed": [
+        "change",
+        "decrease",
+        "decrease"
+    ],
+    "decrease in size": [
+        "change",
+        "decrease",
+        "decrease"
+    ],
+    "decreasing": [
+        "change",
+        "decrease",
+        "decrease"
+    ],
+    "smaller": [
+        "change",
+        "decrease",
+        "decrease"
+    ],
+    "worsened": [
+        "change",
+        "worsening",
+        "worsening"
+    ],
+    "worsening": [
+        "change",
+        "worsening",
+        "worsening"
+    ],
+    "appeared": [
+        "change",
+        "appearance",
+        "appearance"
+    ],
+    "is now present": [
+        "change",
+        "appearance",
+        "appearance"
+    ],
+    "one metastasis increased in size and the other one resolved": [
+        "change",
+        "mixed_change",
+        "mixed_change"
+    ],
+    "stable": [
+        "change",
+        "stable",
+        "stable"
+    ],
+    "unchanged": [
+        "change",
+        "stable",
+        "stable"
+    ],
+    "similar": [
+        "change",
+        "stable",
+        "stable"
+    ],
+    "similar in appareance": [
+        "change",
+        "stable",
+        "stable"
+    ],
+    "there is": [
+        "certainty",
+        "definitely_present",
+        "definitely_present"
+    ],
+    "there are": [
+        "certainty",
+        "definitely_present",
+        "definitely_present"
+    ],
+    "with": [
+        "certainty",
+        "definitely_present",
+        "definitely_present"
+    ],
+    "probably": [
+        "certainty",
+        "probably_present",
+        "probably_present"
+    ],
+    "likely": [
+        "certainty",
+        "probably_present",
+        "probably_present"
+    ],
+    "possibly": [
+        "certainty",
+        "possibly_present",
+        "possibly_present"
+    ],
+    "cannot rule out": [
+        "certainty",
+        "uncertain",
+        "uncertain"
+    ],
+    "no": [
+        "certainty",
+        "definitely_absent",
+        "definitely_absent"
+    ],
+    "no evidence of": [
+        "certainty",
+        "definitely_absent",
+        "definitely_absent"
+    ],
+    "there is no": [
+        "certainty",
+        "definitely_absent",
+        "definitely_absent"
+    ],
+    "without": [
+        "certainty",
+        "definitely_absent",
+        "definitely_absent"
+    ],
+    "gas": [
+        "composition",
+        "gas",
+        "gas"
+    ],
+    "gaseous": [
+        "composition",
+        "gas",
+        "gas"
+    ],
+    "air": [
+        "composition",
+        "gas",
+        "gas"
+    ],
+    "fluid-like": [
+        "composition",
+        "fluid",
+        "simple_fluid"
+    ],
+    "simple fluid": [
+        "composition",
+        "fluid",
+        "simple_fluid"
+    ],
+    "csf": [
+        "composition",
+        "fluid",
+        "csf"
+    ],
+    "serous": [
+        "composition",
+        "fluid",
+        "serous"
+    ],
+    "hemorrhagic": [
+        "composition",
+        "fluid",
+        "hemorrhagic"
+    ],
+    "mucinous": [
+        "composition",
+        "fluid",
+        "mucinous"
+    ],
+    "colloid": [
+        "composition",
+        "fluid",
+        "mucinous"
+    ],
+    "soft-tissue density": [
+        "composition",
+        "solid",
+        "soft_tissue"
+    ],
+    "fatty": [
+        "composition",
+        "solid",
+        "fatty"
+    ],
+    "fibrous": [
+        "composition",
+        "solid",
+        "fibrous"
+    ],
+    "calcific density": [
+        "composition",
+        "solid",
+        "calcified"
+    ],
+    "calcified": [
+        "composition",
+        "solid",
+        "calcified"
+    ],
+    "sclerotic": [
+        "composition",
+        "solid",
+        "sclerotic"
+    ],
+    "mixed": [
+        "composition",
+        "mixed",
+        "mixed"
+    ],
+    "semisolid": [
+        "composition",
+        "mixed",
+        "mixed"
+    ],
+    "fluid and solid components": [
+        "composition",
+        "mixed",
+        "mixed"
+    ],
+    "solid with hemorrhagic components": [
+        "composition",
+        "mixed",
+        "mixed"
+    ],
+    "simple": [
+        "complexity",
+        "simple",
+        "simple"
+    ],
+    "complex": [
+        "complexity",
+        "complex",
+        "complex"
+    ],
+    "normal": [
+        "normalcy",
+        "normal",
+        "normal"
+    ],
+    "abnormal": [
+        "normalcy",
+        "abnormal",
+        "abnormal"
+    ],
+    "dilated ventricles": [
+        "caliber",
+        "dilated",
+        "dilated"
+    ],
+    "dilated vessels": [
+        "caliber",
+        "dilated",
+        "dilated"
+    ],
+    "average lumen": [
+        "caliber",
+        "normal",
+        "normal"
+    ],
+    "normal cavity": [
+        "caliber",
+        "normal",
+        "normal"
+    ],
+    "normal calibre": [
+        "caliber",
+        "normal",
+        "normal"
+    ],
+    "narrowed artery": [
+        "caliber",
+        "reduced",
+        "reduced"
+    ],
+    "collapsed veins": [
+        "caliber",
+        "reduced",
+        "reduced"
+    ],
+    "collapsed ventricles": [
+        "caliber",
+        "reduced",
+        "reduced"
+    ],
+    "benign": [
+        "malignancy_status",
+        "definitely_benign",
+        "definitely_benign"
+    ],
+    "probably benign lesion": [
+        "malignancy_status",
+        "probably_benign",
+        "probably_benign"
+    ],
+    "indeterminate hypodensity": [
+        "malignancy_status",
+        "indeterminate",
+        "indeterminate"
+    ],
+    "probably malignant": [
+        "malignancy_status",
+        "probably_malignant",
+        "probably_malignant"
+    ],
+    "suspicious": [
+        "malignancy_status",
+        "probably_malignant",
+        "probably_malignant"
+    ],
+    "cancerous": [
+        "malignancy_status",
+        "definitely_malignant",
+        "definitely_malignant"
+    ],
+    "malignant": [
+        "malignancy_status",
+        "definitely_malignant",
+        "definitely_malignant"
+    ],
+    "patent": [
+        "patency",
+        "patent",
+        "patent"
+    ],
+    "clear": [
+        "occupancy",
+        "empty",
+        "empty"
+    ],
+    "mostly patent": [
+        "patency",
+        "mostly_patent",
+        "mostly_patent"
+    ],
+    "obstruction": [
+        "patency",
+        "obstructed",
+        "obstructed"
+    ],
+    "obstructed": [
+        "patency",
+        "obstructed",
+        "obstructed"
+    ],
+    "occlusion": [
+        "patency",
+        "occluded",
+        "occluded"
+    ],
+    "empty": [
+        "occupancy",
+        "empty",
+        "empty"
+    ],
+    "well-aereated": [
+        "occupancy",
+        "empty",
+        "empty"
+    ],
+    "partially filled with..": [
+        "occupancy",
+        "partially_filled",
+        "partially_filled"
+    ],
+    "full": [
+        "occupancy",
+        "fully_filled",
+        "fully_filled"
+    ],
+    "fully filled": [
+        "occupancy",
+        "fully_filled",
+        "fully_filled"
+    ],
+    "engorged": [
+        "occupancy",
+        "engorged",
+        "engorged"
+    ],
+    "intact": [
+        "integrity",
+        "intact",
+        "intact"
+    ],
+    "unruptured": [
+        "integrity",
+        "intact",
+        "intact"
+    ],
+    "partially ruptured": [
+        "integrity",
+        "partially_compromised",
+        "partially_compromised"
+    ],
+    "partially disrupted": [
+        "integrity",
+        "partially_compromised",
+        "partially_compromised"
+    ],
+    "ruptured": [
+        "integrity",
+        "compromised",
+        "compromised"
+    ],
+    "disrupted": [
+        "integrity",
+        "compromised",
+        "compromised"
+    ],
+    "disruption": [
+        "integrity",
+        "compromised",
+        "compromised"
+    ],
+    "left-to-right": [
+        "direction",
+        "left_to_right",
+        "left_to_right"
+    ],
+    "right-to-left": [
+        "direction",
+        "right_to_left",
+        "right_to_left"
+    ],
+    "anterior-to-posterior": [
+        "direction",
+        "anterior_to_posterior",
+        "anterior_to_posterior"
+    ],
+    "posterior-to-anterior": [
+        "direction",
+        "posterior_to_anterior",
+        "posterior_to_anterior"
+    ],
+    "upwards": [
+        "direction",
+        "upwards",
+        "upwards"
+    ],
+    "downwards": [
+        "direction",
+        "downwards",
+        "downwards"
+    ],
+    "mucosal": [
+        "component_involved",
+        "mucosal",
+        "mucosal"
+    ],
+    "muscular": [
+        "component_involved",
+        "muscular",
+        "muscular"
+    ],
+    "osseous": [
+        "component_involved",
+        "osseous",
+        "osseous"
+    ],
+    "bony": [
+        "component_involved",
+        "osseous",
+        "osseous"
+    ],
+    "normal position": [
+        "position",
+        "normal_position",
+        "normal_position"
+    ],
+    "displaced": [
+        "position",
+        "abnormal_position",
+        "abnormal_position"
+    ],
+    "abnormal position": [
+        "position",
+        "abnormal_position",
+        "abnormal_position"
+    ]
+}

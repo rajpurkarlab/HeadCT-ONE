@@ -1,0 +1,2385 @@
+Entity,Entity Type,Count,Mapped Entity,Similarity
+skull,anatomy,52877,Skull,0.9917632136624682
+brain,anatomy,49008,Brain,0.9914507348979584
+intracranial,anatomy,48454,Cranial cavity,0.8182837098572205
+paranasal sinuses,anatomy,41884,Paranasal sinus,0.9751493540949911
+vascular,anatomy,39385,Systemic artery,0.7259340238354524
+mastoid air cells,anatomy,36199,Mastoid air cell,0.9643078534683635
+orbits,anatomy,32172,Orbital compartment,0.8460260693880186
+sinuses,anatomy,25223,Paranasal sinus,0.8224106350944664
+ventricles,anatomy,25101,Cerebral ventricle,0.7448617670957496
+other,anatomy,23831,Eye,0.45711860742910326
+extra-axial,anatomy,23662,Axial skeletal system,0.5410908293624681
+white matter,anatomy,17565,White matter of neuraxis,0.9172163918989201
+sinuses / orbits,anatomy,16758,Orbital cavity,0.7548329979369843
+periventricular,anatomy,15845,Cerebral ventricle,0.7386511533969723
+calvarium,anatomy,13339,Calvarium,0.9922298560141091
+sulci,anatomy,12620,Central sulcus,0.7559665469804315
+cerebral,anatomy,10947,Brain,0.931676809493474
+cortical,anatomy,10562,Cerebral cortex,0.7426145905065177
+mastoids,anatomy,9431,Mastoid part of head,0.8346467462224034
+calvarial,anatomy,8226,Calvarium,0.8711565622160554
+ventricular,anatomy,8025,Cerebral ventricle,0.641570016286931
+basal ganglia,anatomy,7580,Nucleus of brain,0.7235307542487226
+basal cisterns,anatomy,7276,Interpeduncular cistern,0.7760755091160519
+brainstem,anatomy,7254,Brainstem,0.981558964611878
+cerebellum,anatomy,7085,Cerebellum,0.9789225673487423
+periventricular white matter,anatomy,7033,White matter of metencephalon,0.8198968784713803
+subcortical,anatomy,6058,Subcortical gray matter,0.7717983813535777
+basilar cisterns,anatomy,5748,Basal cistern,0.7892287997578907
+bony calvarium,anatomy,5722,Calvarium,0.8734887034836296
+skull base,anatomy,5365,Skull,0.8723589631216953
+midline,anatomy,4856,Midface,0.5903774179961735
+osseous structures,anatomy,4496,Bony part of bone organ,0.7800009461496791
+globes,anatomy,4484,Eyeball,0.9140323698472449
+vessel,anatomy,4354,Wall of artery,0.5728760007458256
+scalp,anatomy,4329,Scalp,0.9900720760668184
+deep white matter,anatomy,4180,White matter of neuraxis,0.8445915901483594
+mastoid,anatomy,4163,Left mastoid process,0.8472552932388733
+cerebellar,anatomy,4066,Cerebellum,0.9329171499108629
+parenchymal,anatomy,3992,Nonparenchymatous organ,0.7005917757623573
+right,anatomy,3953,Right side of head,0.6423782855879758
+cervical spine,anatomy,3928,Axial skeletal system,0.7200767501090715
+left maxillary sinus,anatomy,3675,Left maxillary sinus,0.9305198902308216
+right maxillary sinus,anatomy,3649,Right maxillary sinus,0.9650207653128916
+carotid siphons,anatomy,3648,Carotid siphon,0.899089794715956
+cerebral hemispheres,anatomy,3505,Cerebral hemisphere,0.936058949435476
+fourth ventricle,anatomy,3489,Fourth ventricle,0.9646249425815797
+osseous,anatomy,3461,Irregular bone,0.8258626017041659
+visualized orbits,anatomy,3339,Orbital cavity,0.7483933235466684
+ethmoid air cells,anatomy,3284,Left anterior ethmoidal cell,0.7709924468705353
+left,anatomy,3165,Left side of head,0.6004737030223894
+lateral ventricles,anatomy,3118,Lateral ventricle,0.9524289490803163
+orbital soft tissues,anatomy,3041,Superficial fascia of orbital part of face,0.7629252522924483
+scalp soft tissues,anatomy,3018,Integument of scalp,0.8452298069601473
+ventricular system,anatomy,2995,Ventricular system of brain,0.8032473625707579
+right frontal,anatomy,2863,Right side of frontal bone,0.8628496172016844
+intra-axial,anatomy,2844,Vasculature of left maxilla,0.5796113378665003
+gray-white matter differentiation,anatomy,2674,Gray matter of neuraxis,0.6474152600053038
+vascular territory,anatomy,2376,Wall of artery,0.6165657617750161
+visualized paranasal sinuses,anatomy,2368,Paranasal sinus,0.7209274756605227
+bony,anatomy,2358,Bony part of bone organ,0.8323804722660936
+left basal ganglia,anatomy,2291,Left thalamus,0.7245978149364674
+brain parenchyma,anatomy,2275,Cardinal segment of brain,0.7809406235958429
+subcortical white matter,anatomy,2251,White matter of neuraxis,0.8362265942730255
+visualized osseous structures,anatomy,2224,Flat bone,0.5855026268580183
+posterior fossa,anatomy,2191,Subarachnoid fossa,0.8119323546410546
+right basal ganglia,anatomy,2179,Right thalamus,0.7214758748919382
+cerebral volume,anatomy,2130,Cavity of brain,0.7292984179806951
+left frontal,anatomy,2124,Left side of frontal bone,0.8551604838919626
+internal capsule,anatomy,2057,Capsule of lens,0.7920558940592616
+insula,anatomy,2053,Left insula,0.84738743719418
+middle ears,anatomy,2049,Middle ear,0.9490330576667542
+cerebral white matter,anatomy,2032,White matter of neuraxis,0.8941892562224297
+cisterns,anatomy,1973,Superior cistern,0.8701160113994166
+lentiform nuclei,anatomy,1957,Linear nucleus,0.7520955156995813
+paranasal sinus,anatomy,1950,Paranasal sinus,0.979547759182011
+orbital contents,anatomy,1946,Orbital content,0.9289462010994428
+caudate,anatomy,1936,Wall of cerebral aqueduct,0.5036349841207653
+ocular globes,anatomy,1929,Eyeball,0.8794247550291873
+ventricle,anatomy,1922,Cerebral ventricle,0.7296934047028895
+right lateral ventricle,anatomy,1909,Right lateral ventricle,0.9478997222454373
+right frontal lobe,anatomy,1887,Right frontal lobe,0.9837869269139693
+m4-m6 cortex,anatomy,1875,Medial segment of cerebral hemisphere,0.4989567145118573
+m1-m3 cortex,anatomy,1874,Medial segment of cerebral hemisphere,0.641432576057815
+maxillary sinuses,anatomy,1870,Maxillary sinus,0.9577632517752118
+bones,anatomy,1866,Irregular bone,0.8707598509878633
+centra semiovale,anatomy,1684,Third ventricle,0.4994590830814827
+left lateral ventricle,anatomy,1657,Left lateral ventricle,0.9481232007597509
+bone windows,anatomy,1636,Irregular bone,0.6883168621918059
+left frontal lobe,anatomy,1598,Left frontal lobe,0.9819592156654897
+subarachnoid spaces,anatomy,1576,Subarachnoid space,0.9297318678176614
+visualized portions of the orbits,anatomy,1542,Orbital cavity,0.6211414791931037
+intraventricular,anatomy,1540,Cerebral ventricle,0.6272584058881382
+subarachnoid,anatomy,1466,Subarachnoid space of neuraxis,0.7954007787599093
+orbit,anatomy,1412,Orbital compartment,0.8306072267366363
+extracranial soft tissues,anatomy,1412,Subdivision of cranial dura mater,0.6376625633639885
+soft tissues,anatomy,1398,Superficial fascia,0.7032839557197773
+left sphenoid sinus,anatomy,1371,Left sphenoidal sinus,0.9518505723138911
+gray-white matter junctions,anatomy,1362,Set of gray matter structures of neuraxis,0.6673099209162745
+middle ear cavities,anatomy,1345,Tympanic cavity,0.8501095600688126
+orbital,anatomy,1345,Orbital cavity,0.8309722615679206
+cerebrovascular,anatomy,1341,Posterior cerebral artery,0.6889287625589847
+deep cerebral white matter,anatomy,1326,White matter of neuraxis,0.8174795588539248
+subdural,anatomy,1317,Subdural space,0.8683886487732753
+ethmoid,anatomy,1285,Ethmoid,0.9781507447368138
+sphenoid sinus,anatomy,1282,Sphenoidal sinus,0.9357179197832319
+carotid siphon,anatomy,1278,Carotid siphon,0.9545001108540822
+both cerebral hemispheres,anatomy,1277,Cerebral hemisphere,0.8048881178889481
+middle ear,anatomy,1247,Middle ear,0.9875216681457237
+sinus,anatomy,1218,Paranasal sinus,0.8214001103937236
+deep,anatomy,1216,Subdivision of deep fascial system,0.4551480358098072
+right sphenoid sinus,anatomy,1149,Right sphenoidal sinus,0.9439790993676537
+supratentorial,anatomy,1118,Oral mucosa of hard palate,0.7783837044425119
+internal carotid arteries,anatomy,1111,Internal carotid artery,0.9529359742634452
+left thalamus,anatomy,1106,Left thalamus,0.9831320138940826
+thalami,anatomy,1097,Thalamic complex,0.8144731638012925
+base of the brain,anatomy,1090,Cardinal segment of brain,0.8127081218072474
+right parietal,anatomy,1070,Right parietal part of head,0.8278746535346747
+ethmoid sinuses,anatomy,1042,Ethmoidal sinus,0.9667705736881477
+major vessels,anatomy,1033,Systemic artery,0.7025513006322812
+extraaxial,anatomy,1029,Organ cluster,0.5558700394390614
+sphenoid sinuses,anatomy,1027,Sphenoidal sinus,0.9266250450202311
+right thalamus,anatomy,1003,Right thalamus,0.9664722427073693
+gray-white compartments,anatomy,998,Reticular formation,0.6268793068262968
+osseous skull,anatomy,983,Set of bones of skull,0.8877994426671451
+gray-white differentiation,anatomy,982,Reticular formation,0.5288904241554265
+pons,anatomy,941,Pons,0.9496188831909346
+frontal sinuses,anatomy,939,Frontal sinus,0.9595565781168777
+skullbase,anatomy,932,Skull,0.8488255578798745
+csf spaces,anatomy,920,Cerebral epidural space,0.8114082308380002
+visualized sinuses,anatomy,917,Confluence of sinuses,0.6579307909257837
+vertex,anatomy,910,Crown of head,0.683899508497782
+left mastoid air cells,anatomy,907,Mastoid air cell of left temporal bone,0.9163268729352779
+dural venous sinuses,anatomy,897,Dural venous sinus,0.9478279637719417
+vertebral arteries,anatomy,894,Vertebral artery,0.9687066080432997
+left occipital lobe,anatomy,863,Left occipital lobe,0.962038094266973
+large vessel territory,anatomy,862,Systemic artery,0.5090364782449954
+right mastoid air cells,anatomy,855,Mastoid air cell of right temporal bone,0.9283910078506309
+cerebral peduncles,anatomy,847,Cerebral peduncle,0.9625148785823985
+major intracranial arteries,anatomy,847,Anterior cerebral artery,0.8177729843647429
+sulcal,anatomy,833,Olfactory sulcus,0.5387309518882765
+gray-white matter,anatomy,818,Subcortical gray matter,0.8155339878956303
+left parietal,anatomy,811,Left parietal part of head,0.8399910538440883
+midline structures,anatomy,801,Midline region of external nose,0.5795993455580979
+right frontal scalp,anatomy,798,Frontal zone of scalp,0.8192919852497508
+right parietal lobe,anatomy,797,Right parietal lobe,0.9817273981653207
+soft tissue,anatomy,789,Superficial fascia,0.7141666776208537
+right occipital lobe,anatomy,782,Right occipital lobe,0.9666379844251238
+vessels,anatomy,761,Wall of artery,0.6325377832023857
+ethmoid sinus,anatomy,756,Ethmoidal sinus,0.9822573832344835
+visualized skull base,anatomy,744,Skull,0.706207684554673
+left frontal scalp,anatomy,739,Frontal zone of scalp,0.8111478864031025
+right temporal lobe,anatomy,729,Right temporal lobe,0.9863439265951603
+cavernous internal carotid arteries,anatomy,728,Cavernous branch of internal carotid artery,0.9393877777519706
+corona radiata,anatomy,728,Neocortex,0.4833856203736948
+bone,anatomy,711,Irregular bone,0.8894202397866884
+maxillary sinus,anatomy,702,Maxillary sinus,0.9819998544021893
+hemispheric,anatomy,702,Segment of forebrain,0.6389438870593589
+left temporal lobe,anatomy,688,Left temporal lobe,0.9885155852166093
+left parietal lobe,anatomy,684,Left parietal lobe,0.9838558520678168
+skullbase vasculature,anatomy,672,Vasculature of skull bone,0.8590321351860114
+cortical sulci,anatomy,668,Interlobar cerebral sulcus,0.7868755582140861
+carotid siphon region,anatomy,664,Left carotid siphon,0.7889209907965531
+left cerebellar,anatomy,655,Left hemisphere of cerebellum,0.8553322209049448
+intraparenchymal,anatomy,637,Lobule,0.5355194311503071
+frontal,anatomy,631,Frontal part of head,0.8131944753173491
+left frontal sinus,anatomy,626,Left frontal sinus,0.9758967145657913
+extra axial,anatomy,623,Axial skeletal system,0.4905518145791321
+right frontal sinus,anatomy,623,Right frontal sinus,0.9684537086917677
+third ventricle,anatomy,615,Third ventricle,0.9720707771356273
+falx,anatomy,605,Falx cerebri,0.5655415779506766
+epidural,anatomy,597,Spinal epidural space,0.7945300158872122
+septum,anatomy,596,Nasal septum,0.7030289632164933
+right cerebellum,anatomy,596,Right hemisphere of cerebellum,0.9082542620250348
+gray-white compartment,anatomy,593,Central gray substance of medulla,0.5797809734364215
+orbital structures,anatomy,585,Orbital cavity,0.8650014414724903
+right mastoid,anatomy,579,Right mastoid process,0.9505537843253629
+left occipital,anatomy,578,Left occipitalis,0.856046859363583
+brain stem,anatomy,577,Brainstem,0.882090627449346
+left mastoid,anatomy,561,Left mastoid process,0.9527278993282372
+left cerebellum,anatomy,560,Left hemisphere of cerebellum,0.8546490992411925
+head,anatomy,556,Head,0.9855378662266789
+cavernous carotid arteries,anatomy,548,Cavernous branch of internal carotid artery,0.8860025016031445
+right cerebellar,anatomy,545,Right hemisphere of cerebellum,0.8881285276106122
+skull / soft tissues,anatomy,544,Deep fascial system of head,0.6281938485335516
+left cerebellar hemisphere,anatomy,532,Left hemisphere of cerebellum,0.8849901181717821
+deep hemispheric,anatomy,532,Vasculature of telencephalon,0.5877631763826835
+bony structures,anatomy,530,Bony part of bone organ,0.8831720154976287
+right occipital,anatomy,522,Right occipitalis,0.8592224432719505
+frontal lobes,anatomy,521,Frontal lobe,0.9722611426345004
+brain parenchymal,anatomy,520,Cardinal segment of brain,0.7868157314868506
+right cerebellar hemisphere,anatomy,518,Right hemisphere of cerebellum,0.9352567823474446
+thalamus,anatomy,511,Thalamic complex,0.8624702054531433
+bilateral basal ganglia,anatomy,500,Left thalamus,0.6151794941101693
+bifrontal,anatomy,495,Frontal zone of longitudinal fissure,0.6234574668388109
+extra-axial spaces,anatomy,492,Subarachnoid space,0.7189536040931082
+extra-axial csf spaces,anatomy,489,Subarachnoid space of spinal cord,0.7859429645701774
+parietal lobes,anatomy,472,Parietal lobe,0.9554630792499028
+sphenoid,anatomy,468,Zone of sphenoid,0.8982950327629032
+mastoid air-cells,anatomy,462,Mastoid air cell,0.968759765172715
+nasal bone,anatomy,458,Nasal bone,0.9990945356478758
+mastoid aircells,anatomy,455,Mastoid air cell,0.8659151479111439
+csf containing spaces,anatomy,452,Subarachnoid space,0.8154034761532316
+right frontal region,anatomy,451,Right frontalis,0.8645526124892192
+vessel skull,anatomy,430,Vasculature of skull bone,0.846057186217039
+cavum septum pellucidum,anatomy,429,Left half of septum pellucidum,0.7717210786753618
+sella,anatomy,424,Sella turcica,0.9441602733668949
+carotid,anatomy,424,Common carotid artery,0.7979470834686277
+central,anatomy,423,Central zone of nerve,0.6883332682187941
+left frontal region,anatomy,422,Left frontalis,0.8637175387221501
+orbit soft tissues,anatomy,419,Superficial fascia of orbital part of face,0.7549810511563959
+subcortical white matter regions,anatomy,418,Segment of white matter of neuraxis,0.831539573440144
+right mca territory,anatomy,416,Right precentral sulcus,0.6182274204960085
+right parietal scalp,anatomy,407,Right parietal zone of scalp,0.9330078021253763
+tentorium,anatomy,402,Tentorium cerebelli,0.7235921685079267
+dural,anatomy,401,Region of dura mater,0.7239342491062313
+subfalcine,anatomy,399,Amiculum,0.43280722567170526
+spinal canal,anatomy,399,Spinal epidural space,0.7867459178081028
+left thalamic,anatomy,398,Left thalamus,0.9779773202702041
+left parietal scalp,anatomy,394,Left parietal zone of scalp,0.9336273056918244
+hemispheric white matter,anatomy,392,Segment of white matter of neuraxis,0.8380709154330214
+temporal lobes,anatomy,391,Temporal lobe,0.9844118358112111
+bilateral mastoid air cells,anatomy,385,Mastoid air cell,0.8951239746498416
+scalp soft tissue,anatomy,382,Integument of scalp,0.8341948731561544
+nasal septum,anatomy,378,Nasal septum,0.9986488097953481
+tonsillar,anatomy,375,Palatine tonsil,0.9421504487956953
+left maxillary,anatomy,367,Left maxilla,0.9517591340378078
+right maxillary,anatomy,364,Right maxilla,0.9421901520729536
+right thalamic,anatomy,363,Right thalamus,0.945110133626863
+intraorbital fat,anatomy,357,Orbital fat body,0.6521082870130238
+ventricle size,anatomy,355,Cerebral ventricle,0.6162880513163747
+intraorbital,anatomy,352,Orbital cavity,0.5994058116064978
+right temporal,anatomy,352,Right temporal part of head,0.8700814696266469
+left hemisphere,anatomy,351,Left cerebral hemisphere,0.9143922559626323
+cranium,anatomy,344,Neurocranium,0.8881878005876427
+cerebral cortical,anatomy,344,Cerebral cortex,0.8936331620781114
+tympanic cavities,anatomy,339,Tympanic cavity,0.8881366635839764
+white matter regions,anatomy,338,Segment of white matter of neuraxis,0.8795332729976104
+extracranial,anatomy,335,Cranial cavity,0.609396296798511
+left temporal,anatomy,334,Left temporal part of head,0.8905008115300463
+right mca,anatomy,334,Right occipitalis,0.6629403719884936
+right hemisphere,anatomy,331,Right cerebral hemisphere,0.9243402210185432
+bilateral middle ear cavities,anatomy,331,Right tympanic cavity,0.7632607013695938
+right cerebral hemisphere,anatomy,329,Right cerebral hemisphere,0.9919565994167886
+left cerebral hemisphere,anatomy,326,Left cerebral hemisphere,0.9890854941580134
+occipital horns,anatomy,326,Occipital protuberance,0.7161661357933435
+large vessels,anatomy,321,Systemic artery,0.5733789190376636
+supratentorial white matter,anatomy,319,White matter of metencephalon,0.8295979623243795
+ethmoid air cell,anatomy,318,Left anterior ethmoidal cell,0.8107449574357101
+ventricular size,anatomy,314,Cerebral ventricle,0.5582372337700575
+carotid artery,anatomy,310,External carotid artery,0.9051118773042365
+right caudate head,anatomy,309,Right occipital pole,0.5204156907811431
+left mca territory,anatomy,307,Left precentral sulcus,0.6231344237856976
+vertebral artery,anatomy,306,Vertebral artery,0.98318777434321
+parietal,anatomy,300,Parietal tuber,0.6600343627212877
+bony skeleton,anatomy,296,Heterogeneous set of bones,0.8325291873188276
+occipital lobes,anatomy,295,Occipital lobe,0.9350702146045837
+posterior fossa structures,anatomy,294,Subarachnoid fossa,0.7698474506876068
+supratentorial brain,anatomy,294,Oral mucosa of hard palate,0.8124493629182207
+mastoid sinuses,anatomy,289,Mastoid antrum,0.8474291333829858
+white matter tracts,anatomy,288,Set of white matter structures of neuraxis,0.8257385198296389
+cerebellar hemispheres,anatomy,287,Cerebellar cortex,0.8531012279256899
+internal carotid,anatomy,287,Internal carotid artery,0.8977419775792329
+convexity,anatomy,285,Anatomical orifice,0.5510406429275434
+right globe,anatomy,283,Right eyeball,0.9467487225896453
+temporal horns,anatomy,283,Zone of temporal bone,0.7274609356388875
+right maxillary antrum,anatomy,282,Right maxillary sinus,0.86439708647117
+left mca,anatomy,281,Left mammillary artery,0.6834007835533614
+basilar artery,anatomy,281,Basilar artery,0.9902560577217077
+right-sided,anatomy,280,Right side of head,0.6339197142390349
+frontal sinus,anatomy,279,Frontal sinus,0.9780624172204038
+right parietal region,anatomy,274,Right parietal part of head,0.8927217405879194
+right frontal bone,anatomy,273,Right side of frontal bone,0.9272323616109871
+left caudate head,anatomy,273,Occipital horn of left lateral ventricle,0.5005726854996189
+left globe,anatomy,271,Left eyeball,0.9302290688717322
+cortex,anatomy,268,Cerebral cortex,0.7572322522708698
+distal vertebral arteries,anatomy,267,Segment of vertebral artery,0.8432683755018274
+right caudate,anatomy,267,Right lateral lacuna,0.5659362074717295
+left frontal bone,anatomy,264,Left side of frontal bone,0.9303235282359011
+left parietal region,anatomy,262,Left parietal part of head,0.8903204108352971
+left orbit,anatomy,259,Left orbital compartment,0.862665705887136
+occipital horn,anatomy,259,Occipital horn of lateral ventricle,0.745524863616611
+temporal lobe,anatomy,258,Temporal lobe,0.9745665249637395
+ethmoidal air cells,anatomy,256,Left anterior ethmoidal cell,0.7612715968718617
+external auditory canal,anatomy,255,External ear,0.8733957035324359
+upper chest,anatomy,254,Content of superior mediastinum,0.553780636638263
+frontal horn,anatomy,253,Frontal pole,0.8110860630776717
+lung apices,anatomy,253,Lobule,0.42191466599031313
+left maxillary antrum,anatomy,252,Left maxillary sinus,0.8395048242330546
+maxillary,anatomy,252,Maxilla,0.9236366216512871
+carotid arteries,anatomy,247,Internal carotid artery,0.8951505162133266
+left lentiform nucleus,anatomy,247,Nucleus of left lens,0.7587109991375836
+right corona radiata,anatomy,245,Iridial part of right retina,0.5564815590469245
+posterior scalp,anatomy,245,Scalp,0.8696287998754607
+bilateral maxillary sinuses,anatomy,242,Left maxillary sinus,0.8688550480682266
+extra-axial structures,anatomy,240,Axial skeletal system,0.6315898793244284
+maxillary antra,anatomy,237,Maxillary sinus,0.8326206522654245
+left corona radiata,anatomy,237,Artery of left tuber cinereum,0.5296816038678692
+foramen magnum,anatomy,237,Neurocranium,0.6952581681803361
+intracranial arterial,anatomy,235,Anterior cerebral artery,0.837877234754072
+external capsule,anatomy,234,Capsule,0.8069482317802449
+left caudate,anatomy,234,Left lateral lacuna,0.5808929691390382
+right orbit,anatomy,233,Right orbital cavity,0.8695440944345209
+vertebrae,anatomy,233,Axial skeletal system,0.7902269099654161
+basal ganglial,anatomy,232,Nucleus of brain,0.7072114937278887
+corpus callosum,anatomy,229,White matter of telencephalon,0.6851585732754032
+carotid siphon regions,anatomy,228,Carotid siphon,0.7900463476135351
+parietal lobe,anatomy,227,Parietal lobe,0.9831055674163107
+cerebral hemispheric white matter,anatomy,227,White matter of telencephalon,0.8135086647576524
+left frontoparietal,anatomy,226,Left frontal lobe,0.653301851928064
+left-sided,anatomy,225,Left side of head,0.5641396709485275
+right frontoparietal,anatomy,225,Right ventrolateral prefrontal cortex,0.6532212401033327
+external auditory canals,anatomy,223,External ear,0.8776335527461784
+left external capsule,anatomy,223,Capsule of left lens,0.8310264340165651
+disc levels,anatomy,218,Decussation,0.48891092558661264
+nasopharynx,anatomy,217,Nasopharynx,0.9716839899657805
+frontal lobe,anatomy,216,Frontal lobe,0.9924203496226969
+frontal scalp,anatomy,214,Scalp,0.8807198029161569
+left vertebral artery,anatomy,214,Left vertebral artery,0.9727075547693782
+left convexity,anatomy,212,Left angle of mouth,0.5867382730888413
+orbits soft tissues,anatomy,211,Lateral wall of orbit,0.7362478902311028
+imaged paranasal sinuses,anatomy,210,Paranasal sinus,0.7528801440346432
+anterior falx,anatomy,209,Falx cerebri,0.6973791488612532
+septum pellucidum,anatomy,209,Left half of septum pellucidum,0.8215578776369982
+fourth ventricles,anatomy,208,Fourth ventricle,0.9707402515231925
+temporal,anatomy,204,Temporal part of head,0.6503300854687281
+visualized globes,anatomy,204,Eyeball,0.7757808277025441
+right sphenoid,anatomy,204,Right sphenoidal sinus,0.8985655484992807
+cisterna magna,anatomy,202,Superior cistern,0.9063457336046414
+right sylvian fissure,anatomy,200,Subarachnoid fissure,0.7647210346503573
+gray matter,anatomy,199,Subcortical gray matter,0.8885155335744656
+right cerebral convexity,anatomy,198,Right cerebral crus,0.7884106539559357
+third ventricles,anatomy,198,Third ventricle,0.9695893833291274
+remaining sinuses,anatomy,198,Paranasal sinus,0.844340940785267
+prevertebral,anatomy,197,Prevertebral part of vertebral artery,0.6484093618868974
+right middle cerebral artery,anatomy,196,Right middle cerebral artery,0.9926822361767659
+distal vertebral artery,anatomy,195,Vertebral artery,0.8765434388459362
+left sphenoid,anatomy,195,Left greater wing of sphenoid,0.9041721017667667
+vertebral body heights,anatomy,194,Axial skeletal system,0.4646227746448133
+parenchymal brain,anatomy,193,Cardinal segment of brain,0.8290947242022224
+left cerebral convexity,anatomy,193,Left cerebral crus,0.7898007930797379
+occipital,anatomy,192,Occipital part of head,0.8456584590011389
+intraaxial,anatomy,191,Anatomical compartment space,0.5708425209121901
+interhemispheric fissure,anatomy,191,Cerebrocerebellar fissure,0.8532625984273023
+sylvian fissures,anatomy,191,Subarachnoid fissure,0.776472439637281
+frontal horn of the right lateral ventricle,anatomy,190,Frontal horn of right lateral ventricle,0.9424968884913902
+insular ribbon,anatomy,189,Solitary tract,0.6145694512557254
+left pons,anatomy,187,Pons,0.8307411363671977
+right lentiform nucleus,anatomy,186,Nucleus of right lens,0.7888651626895203
+intracranial vessels,anatomy,184,Cerebral vein,0.8262657639709818
+configuration,anatomy,184,Organ cluster,0.5490749675002236
+right external auditory canal,anatomy,182,Right external ear,0.8985460511059562
+right side,anatomy,181,Right side of head,0.7041176190196122
+cerebellar tonsils,anatomy,181,Vallecula of cerebellum,0.7181553157547841
+left sylvian fissure,anatomy,181,Cerebrocerebellar fissure,0.7623914346396287
+right tentorium,anatomy,180,Tentorium cerebelli,0.6505866954031909
+large vessels of the skull base,anatomy,178,Vasculature of skull bone,0.7017142704380914
+right ethmoid air cells,anatomy,176,Right posterior ethmoidal cell,0.8846926818344603
+temporal horn,anatomy,176,Temporal horn of lateral ventricle,0.7650285805763445
+right forehead,anatomy,176,Forehead,0.8177637887722143
+bilateral periventricular,anatomy,173,Lateral ventricle,0.6030772148570189
+intracranial contents,anatomy,172,Cavity of brain,0.7813645519752733
+suprasellar cistern,anatomy,172,Basal cistern,0.7936281252402433
+vertebral,anatomy,171,Axial skeletal system,0.7750856784415511
+anterior limb of the right internal capsule,anatomy,170,Branch of right anterior choroidal artery to retrolentiform limb of right internal capsule,0.6380275114980036
+right convexity,anatomy,170,Right angle of mouth,0.5871161459171892
+forehead,anatomy,169,Forehead,0.9814497766006524
+left ethmoid air cells,anatomy,169,Left posterior ethmoidal cell,0.8801301423851495
+thalamic,anatomy,168,Thalamic complex,0.8751100851056484
+right posterior parietal,anatomy,166,Right parietal part of head,0.7914989807082808
+left external auditory canal,anatomy,166,Left external ear,0.8802811181782391
+sylvian fissure,anatomy,165,Subarachnoid fissure,0.8025330814908859
+intracranial structures,anatomy,165,Cranial cavity,0.8702121988264122
+occipital lobe,anatomy,164,Occipital lobe,0.9557729504811895
+right external capsule,anatomy,163,Capsule of right lens,0.8397659341399533
+perivascular space,anatomy,163,White matter of left inferior transverse frontopolar gyrus,0.8132760358216123
+nasal septal,anatomy,162,Nasal septum,0.9658183066747587
+left frontal convexity,anatomy,162,Left side of frontal bone,0.7640217748356544
+csf-containing spaces,anatomy,162,Subarachnoid space,0.7811260497661513
+right pons,anatomy,161,Pons,0.7874410229808733
+left forehead,anatomy,160,Forehead,0.8138897006729577
+midline fourth ventricle,anatomy,160,Fourth ventricle,0.7989067632426777
+cortical based,anatomy,159,Cerebral cortex,0.6194969837605094
+right temporal bone,anatomy,159,Right temporal bone,0.9893273153874603
+left tentorium,anatomy,158,Tentorium cerebelli,0.6483717263785813
+right frontal convexity,anatomy,157,Right side of frontal bone,0.7907189392845979
+frontal region,anatomy,157,Frontal part of head,0.9015603199928663
+atlanto-occipital,anatomy,157,Occipitalis,0.6513764535624186
+right frontal horn,anatomy,156,Right frontal pole,0.8567849563633652
+left frontotemporal,anatomy,156,Left lateral frontobasal artery,0.7326919158172641
+sella turcica,anatomy,156,Sella turcica,0.9956656677575234
+cerebellopontine angle,anatomy,155,Horizontal fissure of cerebellum,0.7381697317053166
+gray and white-matter differentiation,anatomy,154,Gray matter of neuraxis,0.6418000587249422
+right frontotemporal,anatomy,152,Right frontalis,0.7233676426455814
+left posterior parietal,anatomy,152,Left parietal part of head,0.7981733481845354
+intradural vertebral arteries,anatomy,152,Intracranial part of vertebral artery,0.9056443961922263
+subcutaneous scalp,anatomy,152,Subdivision of scalp,0.8750643732386019
+midbrain,anatomy,152,Midbrain,0.9918981658870833
+left temporal bone,anatomy,151,Left temporal bone,0.991136406555147
+right mca distribution,anatomy,151,Right mammillary artery,0.5644257937729661
+temporal bones,anatomy,150,Temporal bone,0.9851890012826469
+thoracic inlet,anatomy,150,Vena comitantes of internal thoracic artery,0.5823949512834437
+right middle cranial fossa,anatomy,149,Right temporal fossa,0.7989024898942506
+regional soft tissues,anatomy,147,Organ region cluster,0.7445242087461093
+pontine,anatomy,147,Brainstem,0.8315008876605717
+cerebral ventricle,anatomy,146,Cerebral ventricle,0.9923295594952126
+large vessel distribution,anatomy,145,Systemic artery,0.5908902986686168
+left scalp,anatomy,145,Scalp,0.8496628016822625
+frontal horn of the left lateral ventricle,anatomy,145,Frontal horn of left lateral ventricle,0.9573459162908062
+left middle cranial fossa,anatomy,145,Left infratemporal fossa,0.7903615417373194
+deep gray nuclei,anatomy,144,Gracile nucleus,0.7487886084610408
+lateral ventricle,anatomy,144,Lateral ventricle,0.9963305155472657
+extraocular muscles,anatomy,143,Extra-ocular muscle,0.9515355491231865
+suboccipital,anatomy,143,Craniocervical region,0.7146449690278125
+periorbital,anatomy,142,Peri-orbital region of face,0.862570966150314
+both maxillary sinuses,anatomy,142,Left maxillary sinus,0.8732864437172895
+distal left vertebral artery,anatomy,142,Left vertebral artery,0.8928249588467585
+nasal bones,anatomy,140,Nasal bone,0.9893778188060769
+soft tissue windows,anatomy,139,Anatomical orifice,0.6721747435393054
+left internal capsule,anatomy,138,Capsule of left lens,0.8169340932419692
+posterior right frontal lobe,anatomy,138,Right frontal lobe,0.9476838430636144
+cerebral ventricle sizes,anatomy,137,Cerebral ventricle,0.7079773527870182
+frontal horns,anatomy,137,Frontal bone,0.789776120576641
+occipital horn of the left lateral ventricle,anatomy,136,Occipital horn of left lateral ventricle,0.9764442410101185
+left middle cerebral artery,anatomy,135,Left middle cerebral artery,0.9980257379493808
+grey-white matter junction,anatomy,133,White matter of telencephalon,0.6728988266692106
+left frontal horn,anatomy,133,Left frontal pole,0.8525500183175102
+ossicles,anatomy,133,Set of auditory ossicles,0.8894890580888277
+right centrum semiovale,anatomy,133,Right arcuate eminence,0.6160502440701565
+subarachnoid space,anatomy,129,Subarachnoid space,0.9984247427020263
+face,anatomy,128,Face,0.999078527668609
+intracranial vasculature,anatomy,128,Vasculature of brain,0.9267199516964318
+right scalp,anatomy,127,Right occipital zone of scalp,0.8583599659850178
+bilateral frontal,anatomy,127,Frontal part of head,0.7471014067090656
+dural margin,anatomy,127,Region of dura mater,0.7706055939260472
+ethmoid sinus air cells,anatomy,126,Left anterior ethmoidal cell,0.7698859773310914
+cerebellar folia,anatomy,126,Cerebellar cortex,0.8292146596104137
+left side,anatomy,126,Left side of head,0.6891585603248723
+posterior left frontal lobe,anatomy,126,Left frontal lobe,0.9298993817942405
+craniotomy site,anatomy,125,Cranial cavity,0.6950943193231063
+temporomandibular,anatomy,125,Jaw,0.7960613876707858
+anterior left frontal lobe,anatomy,124,Left frontal lobe,0.9525333966762993
+gantry,anatomy,124,Crista galli,0.5420709083474368
+right pca territory,anatomy,124,Right paracentral lobule,0.5463677779992345
+right parietal bone,anatomy,123,Right parietal bone,0.9942962717440942
+pituitary,anatomy,122,Hypothalamus,0.7476512068425589
+intracranial carotids,anatomy,122,Internal carotid artery,0.869727509013386
+left putamen,anatomy,121,Left half of hypothalamus,0.6705604465939335
+c5-c6,anatomy,121,Craniocervical region,0.5939776921503178
+extra-axial space,anatomy,120,Subarachnoid space,0.7148663062892842
+anterior limb of the left internal capsule,anatomy,119,Capsule of left lens,0.6639611978177671
+zygomatic arches,anatomy,118,Zygomatic arch,0.9133893904272283
+right putamen,anatomy,118,Right half of hypothalamus,0.6935760916569791
+anterior ethmoid air cells,anatomy,118,Left anterior ethmoidal cell,0.840775647336998
+anterior right frontal lobe,anatomy,117,Right frontal lobe,0.9582719229616941
+left posterior scalp,anatomy,117,Left occipital zone of scalp,0.8417956458623138
+globe,anatomy,117,Eyeball,0.9230682433634904
+left zygomatic arch,anatomy,116,Left zygomatic arch,0.9970006129636784
+centrum semiovale,anatomy,115,Right arcuate eminence,0.53660250898308
+limited intracranial,anatomy,114,Cranial cavity,0.6163431277167993
+head of the caudate nucleus,anatomy,114,Sublentiform nucleus,0.6401931671830696
+remaining bones,anatomy,114,Irregular bone,0.8165770284424921
+bilateral orbits,anatomy,114,Right orbital cavity,0.7755630495577956
+right posterior parietal region,anatomy,114,Right parietal part of head,0.8516941903657986
+contents,anatomy,113,Capsule,0.5878393251395712
+right internal capsule,anatomy,113,Capsule of right lens,0.8008478348805969
+brain volume,anatomy,113,Cavity of brain,0.7596010713357544
+left posterior parietal region,anatomy,113,Left parietal part of head,0.8236570345201462
+right posterior scalp,anatomy,112,Right occipital zone of scalp,0.8458835170276062
+left frontoparietal region,anatomy,111,Left prefrontal cortex,0.7949049565380376
+right periorbital,anatomy,110,Right peri-orbital region of face,0.8877704876362058
+left occipital region,anatomy,110,Left occipitalis,0.8781715314175328
+left ethmoid sinus,anatomy,110,Left ethmoidal sinus,0.9878774912305477
+right vertebral artery,anatomy,108,Right vertebral artery,0.9958003335130636
+external capsules,anatomy,108,Capsule,0.8248373496039144
+bilateral ethmoid air cells,anatomy,108,Left anterior ethmoidal cell,0.8517986801429273
+occipital horns of the lateral ventricles,anatomy,108,Occipital horn of lateral ventricle,0.8996538465102494
+convexities,anatomy,108,Angle of mouth,0.5950489252811735
+cerebral sulci,anatomy,108,Interlobar cerebral sulcus,0.9177923479815738
+csf,anatomy,107,Cerebral epidural space,0.6827571579611111
+left periorbital,anatomy,107,Left peri-orbital region of face,0.8800062797533622
+right ethmoid sinus,anatomy,107,Right ethmoidal sinus,0.9899873994515767
+sinuses / soft tissues,anatomy,107,Superficial fascia,0.5784220951773422
+parafalcine,anatomy,106,Amiculum,0.40546684566095814
+occipital horn of the right lateral ventricle,anatomy,106,Occipital horn of right lateral ventricle,0.9520243854034507
+left caudate nucleus,anatomy,106,Sublentiform nucleus,0.6742451567197457
+tentorial,anatomy,106,Tentorium cerebelli,0.6560494189477509
+frontal bone,anatomy,106,Frontal bone,0.9984787927740333
+intracranial carotid arteries,anatomy,105,Internal carotid artery,0.9293454848150093
+subdural space,anatomy,105,Subdural space,0.999599543659078
+left parietal bone,anatomy,105,Left parietal bone,0.9998001243062322
+parietal region,anatomy,104,Parietal part of head,0.8516448151984342
+nasal cavity,anatomy,104,Nasal cavity,0.999789783195101
+optic nerves,anatomy,104,Optic nerve,0.9901324715317705
+canal,anatomy,104,Anatomical conduit space,0.7302214310522313
+left nasal bone,anatomy,103,Left nasal bone,0.9991400887007438
+right frontal calvarium,anatomy,103,Right temporal part of frontal bone,0.8115779963188459
+right posterior frontal,anatomy,103,Right frontal pole,0.8627736974741445
+facial,anatomy,103,Face,0.9691861079029186
+pterygoid plates,anatomy,102,Pterygoid process,0.7825236115783398
+dura,anatomy,102,Dura mater,0.873196197712088
+right frontoparietal region,anatomy,102,Right prefrontal cortex,0.8062834947737983
+arterial,anatomy,101,Systemic artery,0.79895700434815
+underlying calvarium,anatomy,101,Calvarium,0.910064790198245
+left frontal calvarium,anatomy,101,Left temporal part of frontal bone,0.820117567005999
+gray-white junction,anatomy,101,Posterior commissure,0.6913911969160671
+left middle ear,anatomy,101,Left middle ear,0.9990723882843109
+insular cortex,anatomy,101,Cerebral cortex,0.7991993091214936
+cavernous sinus,anatomy,100,Cavernous sinus,0.9955490431843265
+bilateral carotid siphon,anatomy,100,Left carotid siphon,0.937702153341263
+left insula,anatomy,100,Left insula,0.9999999999999998
+right caudate nucleus,anatomy,99,Sublentiform nucleus,0.6566408919035958
+inferior right frontal lobe,anatomy,99,Right frontal lobe,0.9347492539381687
+posterior falx,anatomy,99,Falx cerebri,0.7136378425946095
+temporal bone,anatomy,98,Temporal bone,0.9897900538510044
+parenchyma,anatomy,98,Nonparenchymatous organ,0.7526125749962123
+hemispheric deep white matter,anatomy,98,Segment of white matter of neuraxis,0.7567816713654726
+left mca distribution,anatomy,98,Left mammillary artery,0.5494765901539053
+left hemispheric,anatomy,96,Left cerebral hemisphere,0.6936030036467588
+remaining paranasal sinuses,anatomy,96,Set of paranasal sinuses,0.8888529937403405
+caudate head,anatomy,96,Wall of cerebral aqueduct,0.5473170818433112
+left occipital horn,anatomy,96,Left occipital pole,0.7746936473664354
+paranasal,anatomy,96,Paranasal sinus,0.7916176973546695
+mastoid air cell,anatomy,96,Mastoid air cell,0.9846895107777669
+right occipital region,anatomy,95,Right occipitalis,0.8498390856459357
+right temporal horn,anatomy,95,Right temporal fossa,0.7855108557436224
+bilateral ethmoid sinuses,anatomy,95,Left ethmoidal sinus,0.8576933365230082
+tympanic membrane,anatomy,93,Tympanic membrane,0.9701712552460103
+right posterior parietal scalp,anatomy,93,Right parietal zone of scalp,0.8965433419591694
+left ethmoid,anatomy,91,Left ethmoidal sinus,0.9045984060910903
+middle cranial fossa,anatomy,91,Temporal fossa,0.7757547206326306
+perivascular spaces,anatomy,91,White matter of left inferior transverse frontopolar gyrus,0.7644966347158876
+deep gray matter nuclei,anatomy,91,Set of gray matter structures of neuraxis,0.7409406452683077
+interventricular,anatomy,90,Third ventricle,0.5369672975728116
+left centrum semiovale,anatomy,90,Left arcuate eminence,0.57819031021636
+falx cerebri,anatomy,90,Falx cerebri,0.9491162407552244
+posterior limb of the left internal capsule,anatomy,89,Posterior segment of left paracentral lobule,0.61899818416169
+parietal regions,anatomy,89,Parietal part of head,0.8306311787564903
+left pca territory,anatomy,89,White matter of left parietal lobe,0.5786746037269794
+bilateral cerebral white matter,anatomy,88,White matter of left cerebral hemisphere,0.8468227556220537
+pharynx,anatomy,88,Oropharynx,0.8598259245242841
+mandible,anatomy,88,Mandible,0.9876099810488351
+right temporal region,anatomy,88,Right temporal part of head,0.9370889694533934
+cerebrum,anatomy,87,Cerebral hemisphere,0.8440552383888613
+both globes,anatomy,87,Left eyeball,0.7930903108173408
+overlying calvarium,anatomy,87,Calvarium,0.7213860138147515
+vertebrobasilar,anatomy,87,Spinal branch of vertebral artery,0.6620860844482117
+subcortical deep,anatomy,86,Subcortical gray matter,0.6944182539870415
+superior sagittal sinus,anatomy,86,Superior sagittal sinus,0.989880069590292
+left frontal white matter,anatomy,86,White matter of left frontal lobe,0.904189693874357
+left occipital scalp,anatomy,86,Left occipital zone of scalp,0.9451404177781573
+right occipital scalp,anatomy,86,Right occipital zone of scalp,0.9541883241487736
+left posterior frontal,anatomy,86,Left frontal pole,0.8528527389868626
+right zygomatic arch,anatomy,85,Right zygomatic arch,0.9742807405348798
+right hemispheric,anatomy,85,Right cerebral hemisphere,0.7313616348210658
+gray-white interface,anatomy,84,Reticular formation,0.5873578172326562
+anterior right temporal lobe,anatomy,84,Right temporal lobe,0.9286697003455081
+right vertex,anatomy,84,Right temple,0.6729302648908574
+right nasal bone,anatomy,83,Right nasal bone,0.9930726500268268
+left lenticular nucleus,anatomy,83,Nucleus of left lens,0.8226346107901789
+left posterior parietal scalp,anatomy,83,Left parietal zone of scalp,0.9047924473052185
+temporomandibular joints,anatomy,83,Temporomandibular joint,0.9726312407439883
+white matters,anatomy,83,White matter of neuraxis,0.8180873900879251
+intracerebral,anatomy,82,Cavity of brain,0.7846422895577957
+frontal horns of the lateral ventricles,anatomy,82,Frontal horn of lateral ventricle,0.8801362186641247
+cavernous carotid,anatomy,82,Cavernous branch of internal carotid artery,0.8011020740956427
+gray and white matters,anatomy,82,White matter of neuraxis,0.791164236755587
+circle of willis,anatomy,81,Cerebral arterial circle,0.8128069181547272
+posterior arch of c1,anatomy,81,Cervical part of vertebral artery,0.6601554770420143
+left lamina papyracea,anatomy,81,Left salpingopharyngeal fold,0.617879029730755
+right ethmoid,anatomy,81,Right ethmoidal sinus,0.9181071397331211
+anterior left temporal lobe,anatomy,81,Left temporal lobe,0.9199773440953687
+posterior right temporal lobe,anatomy,81,Right temporal lobe,0.9211125181374726
+remaining midline structures,anatomy,81,Zone of continuity,0.5852860518419427
+basilar tip,anatomy,81,Spine of helix,0.6182561500328653
+distal internal carotid arteries,anatomy,80,Segment of internal carotid artery,0.8543047238192005
+vasculature,anatomy,80,Vasculature of cardinal body part,0.6882146312593045
+overlying scalp,anatomy,80,Subdivision of scalp,0.8195548361306694
+occiput,anatomy,80,Head,0.756525180317129
+left orbital floor,anatomy,80,Floor of left orbit,0.9007464232140519
+right posterior parietal lobe,anatomy,80,Right parietal lobe,0.9060287604735902
+cavernous segment,anatomy,80,Cavernous artery,0.7539386569621817
+suprasellar,anatomy,80,Suprasellar part of cranial cavity,0.7283780163433702
+choroid plexus,anatomy,79,Choroid plexus of third ventricle,0.834169689506889
+vascular structures,anatomy,79,Systemic artery,0.6763182927820607
+inferior mastoid air cells,anatomy,79,Mastoid air cell,0.8802573641833846
+right periventricular white matter,anatomy,79,White matter of right precuneus,0.6827696177158101
+posterior limb of the right internal capsule,anatomy,79,Posterior segment of right paracentral lobule,0.6428494585933756
+right insula,anatomy,79,Right insula,0.9930621800316548
+calvaria,anatomy,78,Calvarium,0.8878715237433105
+internal carotid artery,anatomy,78,Internal carotid artery,0.9748435864492291
+medial left occipital lobe,anatomy,78,Left medial occipitotemporal gyrus,0.8652044654218717
+left temporal horn,anatomy,78,Left temporal fossa,0.7814691300843515
+anterior communicating artery,anatomy,78,Anterior communicating artery,0.992598500676817
+both frontal lobes,anatomy,78,Frontal lobe,0.90406137177918
+operculum,anatomy,78,Precuneus,0.5856005911336889
+occipital bone,anatomy,78,Occipital bone,0.9800859515919285
+bilateral cerebellar,anatomy,77,Cerebellum,0.8028869575627225
+right temporoparietal,anatomy,77,Right temporoparietalis,0.9001419765656478
+left posterior parietal lobe,anatomy,77,Left parietal lobe,0.9022036743782031
+left posterior fossa,anatomy,77,Subarachnoid fossa,0.7193845178683588
+left sided,anatomy,77,Left side of head,0.5881193786237903
+left temporal region,anatomy,77,Left temporal part of head,0.9391244485726368
+alignment,anatomy,77,Skeletal muscle tissue of frontalis,0.4884730305693614
+left periventricular white matter,anatomy,76,White matter of left cerebral hemisphere,0.7313477946357241
+bilateral thalami,anatomy,76,Left thalamus,0.9018384646730564
+posterior left temporal lobe,anatomy,76,Left temporal lobe,0.9019974498065008
+posterior parietal region,anatomy,76,Parietal part of head,0.7973858560504021
+intracranial arteries,anatomy,76,Anterior cerebral artery,0.8403450341868919
+intracranial vascular structures,anatomy,75,Vasculature of brain,0.8123273699312162
+atrium of the right lateral ventricle,anatomy,75,Atrium of right lateral ventricle,0.946206404284643
+vestibular aqueduct,anatomy,75,Vein of vestibular aqueduct,0.7952896356894221
+bilateral frontal lobes,anatomy,75,Left frontal lobe,0.9042857724247354
+right middle ear,anatomy,75,Right middle ear,0.9921681582687237
+left vertex,anatomy,74,Left side of frontal bone,0.660748267921864
+subcutaneous,anatomy,74,Superficial fascia,0.7776370753221313
+clivus,anatomy,73,Left anterior clinoid process,0.6977391010113965
+ethmoids,anatomy,73,Ethmoid,0.9633739045632789
+right frontal white matter,anatomy,73,White matter of right frontal lobe,0.9052211340353655
+right pontine,anatomy,73,Right side of brainstem,0.8195651609502967
+left pontine,anatomy,72,Left inferior pontine sulcus,0.7461614453725858
+facial bone,anatomy,72,Bone of skull bone,0.8135899071456523
+dural sinuses,anatomy,72,Dural venous sinus,0.9241181135574608
+skull base skull,anatomy,72,Skull,0.8467644430116151
+putamen,anatomy,72,Sublentiform nucleus,0.6061317281388375
+bilateral cerebellar hemispheres,anatomy,72,Right hemisphere of cerebellum,0.8362930332237155
+mandibular condyles,anatomy,72,Left condylar process of mandible,0.7808154139028785
+frontal regions,anatomy,72,Frontal part of head,0.886879551904327
+periventricular deep white matter,anatomy,72,White matter of metencephalon,0.7496588893137474
+superficial soft tissues,anatomy,71,Superficial fascia,0.8614550676122148
+ventricular sulcal,anatomy,71,Central sulcus,0.6255515988721281
+left frontal parietal,anatomy,71,Left parietal part of head,0.8000371110139359
+right medial orbital wall,anatomy,70,Medial wall of right orbit,0.9384873771199694
+posterior circulation,anatomy,70,Vertebral vein,0.6242792055514492
+vessels skull,anatomy,70,Vasculature of skull bone,0.8443887886401096
+orbital fat,anatomy,70,Orbital fat body,0.8727531656047569
+right orbital floor,anatomy,69,Floor of right orbit,0.9122036078973181
+right lamina papyracea,anatomy,69,Right salpingopharyngeal fold,0.6162611178704778
+cavernous,anatomy,69,Cavernous artery,0.6702432640141978
+interhemispheric,anatomy,69,Segment of forebrain,0.6740473214909604
+right parafalcine,anatomy,69,Right calcarine artery,0.52710578034012
+left maxillary sinuses,anatomy,69,Left maxillary sinus,0.9450669480688958
+posterior aspect,anatomy,69,Posterior pole of eyeball,0.6510427748163016
+4th ventricle,anatomy,69,Fourth ventricle,0.9279433061627321
+high right frontal lobe,anatomy,69,Right frontal lobe,0.8801674157739137
+cochlea,anatomy,68,Ear,0.8025157520903147
+intra cavernous carotid arteries,anatomy,68,Cavernous branch of internal carotid artery,0.9113970066764384
+posterior right ethmoid air cell,anatomy,68,Right posterior ethmoidal cell,0.9179771778555036
+csf space,anatomy,68,Cerebral epidural space,0.8148977362923482
+right supraorbital,anatomy,68,Right peri-orbital region of face,0.6952016219374925
+neck,anatomy,68,Craniocervical region,0.7336096564219181
+intracranial artery,anatomy,68,Anterior cerebral artery,0.8436024932322048
+inner table,anatomy,67,Reticular formation,0.39189456703567727
+both lateral ventricles,anatomy,67,Left lateral ventricle,0.8498388310100975
+internal auditory canal,anatomy,67,Internal acoustic meatus,0.8740525966887477
+distal right vertebral artery,anatomy,67,Right vertebral artery,0.9017079679252611
+intracranial portions,anatomy,67,Cranial cavity,0.8341704517295462
+posterior ethmoid air cells,anatomy,67,Right posterior ethmoidal cell,0.8086727079516952
+occipital region,anatomy,66,Occipital part of head,0.9087874695792297
+bilateral thalamus,anatomy,66,Left thalamus,0.8900128142782
+globus pallidus,anatomy,66,Pallidotegmental fasciculus,0.6972327616824883
+high left parietal lobe,anatomy,66,Left parietal lobe,0.8186705942014864
+mca territory,anatomy,66,Marginal sulcus,0.4630188343756392
+left parafalcine,anatomy,66,Left calcarine artery,0.5118204359106764
+posterior left ethmoid air cell,anatomy,66,Left posterior ethmoidal cell,0.9177900662862061
+maxillary antrum,anatomy,66,Maxillary sinus,0.8478209835126845
+dens,anatomy,66,Set of teeth,0.5062269393318671
+maxilla,anatomy,66,Maxilla,0.9822945314109506
+lacrimal glands,anatomy,66,Lacrimal gland,0.9793413883298673
+inferior left frontal lobe,anatomy,65,Left frontal lobe,0.9043043068745238
+upper paranasal sinuses,anatomy,65,Paranasal sinus,0.8981743167412937
+transcortical,anatomy,65,Neocortex,0.5795495044739487
+high left frontal lobe,anatomy,65,Left frontal lobe,0.8705007684800776
+bilateral frontal sinuses,anatomy,65,Left frontal sinus,0.8935070917782032
+deep periventricular white matter,anatomy,64,White matter of metencephalon,0.7652663866089716
+high right parietal lobe,anatomy,64,Right parietal lobe,0.8453567450562927
+white-matter,anatomy,64,White matter of neuraxis,0.9279949027357739
+basal ganglia region,anatomy,64,Forebrain,0.7158337846948793
+left medial orbital wall,anatomy,63,Medial wall of left orbit,0.9311114412808595
+right lenticular nucleus,anatomy,63,Nucleus of right lens,0.8540510968000916
+major dural sinuses,anatomy,63,Dural venous sinus,0.8889110393812195
+centrum ovale,anatomy,63,Right foramen ovale,0.604001067514528
+genu of the left internal capsule,anatomy,63,Capsule of left lens,0.6472962023748905
+vertebrobasilar system,anatomy,63,Axial skeletal system,0.6809093999929725
+petrous apices,anatomy,62,Petrous part proper of temporal bone,0.7747105622070107
+middle cerebral artery,anatomy,62,Middle cerebral artery,0.9961382000735841
+skeletal,anatomy,62,Heterogeneous set of bones,0.7467017422877364
+left parietal convexity,anatomy,61,Left parietal tuber,0.6967920570975524
+right cerebral peduncle,anatomy,61,Right base of midbrain peduncle,0.820954681353918
+lateral ventricular,anatomy,61,Lateral ventricle,0.9393052058799171
+c6-c7,anatomy,61,Craniocervical region,0.6107452793711802
+left ethmoid air cell,anatomy,61,Left posterior ethmoidal cell,0.9152224359021947
+middle cerebral arteries,anatomy,61,Middle cerebral artery,0.989719421043527
+intracranial portions of the carotid arteries,anatomy,61,Subdivision of internal carotid artery,0.8685019752687116
+periventricular white-matter,anatomy,61,White matter of metencephalon,0.8352758414928566
+basilar cistern,anatomy,61,Chiasmatic cistern,0.8149744857935892
+vestibule,anatomy,61,Vestibule of mouth,0.7876089860824594
+base of the skull,anatomy,60,Subdivision of skull,0.826550136746004
+semicircular canals,anatomy,60,Bony labyrinth,0.7942189959480004
+right ventricle,anatomy,60,Right lateral ventricle,0.7468293893559216
+subgaleal,anatomy,60,Floor of left orbit,0.5487791289305021
+cerebral convexities,anatomy,60,Cerebral crus,0.7818844334212093
+medial right occipital lobe,anatomy,60,Right occipital lobe,0.8878505326851176
+temporal regions,anatomy,60,Temporal part of head,0.8710468722354278
+anterior interhemispheric fissure,anatomy,60,Cerebrocerebellar fissure,0.7893725025805808
+medial wall,anatomy,59,Wall of organ,0.6954748939653259
+occipital scalp,anatomy,59,Occipital part of scalp,0.9316927117069576
+head of the right caudate nucleus,anatomy,59,Gray matter of right precuneus,0.5619481599830236
+left pca,anatomy,59,Left posterior cerebral artery,0.6605229368678163
+left temporoparietal,anatomy,59,Left temporoparietalis,0.8761667835165657
+pineal gland,anatomy,59,Pineal body,0.8802052340346204
+upper cervical spine,anatomy,59,Cervical part of vertebral artery,0.6440703850324407
+posterior parietal lobe,anatomy,58,Parietal lobe,0.89091649012715
+grey-white matter distinction,anatomy,58,Segment of white matter of neuraxis,0.6680629657050918
+lentiform nucleus,anatomy,58,Sublentiform nucleus,0.8260807383537139
+air cell,anatomy,58,Endo-epithelial cell,0.6455601996138379
+right occipital bone,anatomy,58,Right lateral part of occipital bone,0.8878398426955085
+right orbital,anatomy,57,Right orbital cavity,0.8821156902670464
+left supraorbital,anatomy,57,Orbital part of left maxilla,0.716735595761716
+right frontal skull,anatomy,57,Right side of frontal bone,0.8875200487328126
+left occipital bone,anatomy,57,Left lateral part of occipital bone,0.8920986141469806
+right middle cerebral artery territory,anatomy,57,Right middle cerebral artery,0.9009290432554262
+orbital walls,anatomy,57,Lateral wall of orbit,0.8525266973020231
+air cells,anatomy,57,Endo-epithelial cell,0.6197917217919531
+retrobulbar,anatomy,57,Retrobulbar space,0.8675222895095266
+facial bones,anatomy,57,Set of bones of skull,0.8093438716090207
+underlying brain,anatomy,57,Brain,0.8458483719056524
+left anterior frontal lobe,anatomy,56,Left frontal lobe,0.9495298852461735
+cardiac silhouette,anatomy,56,Cribriform plate,0.4183900209051834
+hematoma,anatomy,56,Subdural space,0.40584555853718063
+cerebral deep white matter,anatomy,56,White matter of neuraxis,0.8488909133322328
+resection cavity,anatomy,56,Organ cavity,0.7431232507778455
+right posterior fossa,anatomy,56,Right temporal fossa,0.702712516663912
+posterior parietal,anatomy,56,Parietal part of head,0.7015471265070697
+nasal,anatomy,56,Nose,0.9531260583729567
+right parieto-occipital,anatomy,55,Right occipitalis,0.7851111267391743
+anterior limb internal capsule,anatomy,55,Capsule of anterior lens,0.7011701716262999
+facet joints,anatomy,55,Set of joints of head,0.637810873795452
+uncal,anatomy,55,Capsule,0.5678075436977356
+cerebral ventricles,anatomy,55,Cerebral ventricle,0.9782996643168322
+tip,anatomy,55,Tip of nose,0.6405687171612949
+right middle cerebral artery distribution,anatomy,55,Right middle cerebral artery,0.9552417295336629
+tentorium cerebelli,anatomy,55,Tentorium cerebelli,0.9665815020407618
+temporal horn of the left lateral ventricle,anatomy,55,Temporal horn of left lateral ventricle,0.9579492619941724
+right temporoparietal region,anatomy,54,Right temporoparietalis,0.8544015223330269
+right parietal cortical,anatomy,54,Cortex of right parietal lobe,0.8539559637768902
+right parietal convexity,anatomy,54,Right parietal tuber,0.7169496286943665
+falcine,anatomy,54,Habenula,0.4741342079582538
+right frontal operculum,anatomy,53,Right frontomarginal gyrus,0.7849524183611578
+middle ear cavity,anatomy,53,Tympanic cavity,0.915535541634185
+retro-orbital soft tissues,anatomy,53,Superficial fascia of orbital part of face,0.7154736132074586
+subjacent calvarial,anatomy,53,Calvarium,0.7029417057766654
+left supraorbital scalp,anatomy,53,Left parietal zone of scalp,0.7596817277593879
+right occipital horn,anatomy,53,Right occipital pole,0.7878808661290201
+right sided,anatomy,53,Right side of head,0.6515182499459928
+posterior frontal,anatomy,53,Frontal pole,0.8068106857047257
+internal capsules,anatomy,53,Capsule of lens,0.8175898838050029
+left orbital,anatomy,53,Left orbital cavity,0.8734868516676189
+craniectomy site,anatomy,52,Cranial cavity,0.6499376951607692
+genu of the right internal capsule,anatomy,52,Capsule of right lens,0.6285152942832223
+paraclinoid internal carotid arteries,anatomy,52,Internal carotid artery,0.8254313224865244
+right pca,anatomy,52,Posteromedial central branch of right posterior cerebral artery,0.625303593977441
+right forehead scalp,anatomy,52,Right occipital zone of scalp,0.8145716406202269
+posterior limb internal capsule,anatomy,52,Capsule of posterior lens,0.6805283215807806
+sellar,anatomy,52,Sella turcica,0.829217468180626
+left mastoids,anatomy,52,Left mastoid process,0.9413470402702132
+frontal white matter,anatomy,52,White matter of frontal lobe,0.8965888567479637
+mca,anatomy,51,Occipitalis,0.5172818245712894
+right maxillary sinuses,anatomy,51,Right maxillary sinus,0.9865014581747195
+scutum,anatomy,51,Nasal sill,0.5683425398071619
+nasal passages,anatomy,51,Nasal cavity,0.9548091432981082
+bilateral paranasal sinuses,anatomy,51,Paranasal sinus,0.8367938487612715
+prevertebral soft tissues,anatomy,51,Wall of trunk of posterior spinal artery,0.6197840101226287
+right parietal cortex,anatomy,51,Cortex of right parietal lobe,0.9138214423205543
+visualized calvarium,anatomy,51,Calvarium,0.7029740456216745
+c4-c5,anatomy,51,Craniocervical region,0.5853927897552207
+both vertebral arteries,anatomy,50,Vertebral artery,0.9032217115937747
+bilateral sphenoid sinuses,anatomy,50,Right sphenoidal sinus,0.8741687050779215
+deep periventricular white matter regions,anatomy,50,Segment of white matter of neuraxis,0.754070430510194
+gray white differentiation,anatomy,50,Reticular formation,0.5545699051144969
+left cerebral peduncle,anatomy,50,Cerebral peduncle,0.8309868766681546
+ethmoid sinus cells,anatomy,50,Left anterior ethmoidal cell,0.826720139458871
+visualize globes,anatomy,50,Eyeball,0.7199670552531753
+posterior parietal lobes,anatomy,50,Parietal lobe,0.8783900927245705
+bilateral cavernous carotid arteries,anatomy,50,Cavernous branch of left internal carotid artery,0.8210904284815215
+bilateral cerebellum,anatomy,50,Cerebellum,0.849992921858823
+basilar,anatomy,50,Trunk of basilar artery,0.7116642475647379
+craniotomy,anatomy,50,Cranial cavity,0.6021243163621183
+subcutaneous tissues,anatomy,50,Superficial fascia,0.8485765018743223
+mastoid sinus,anatomy,49,Mastoid antrum,0.8843484902419594
+right lateral,anatomy,49,Right lateral half of face,0.6374031544281448
+ethmoidal,anatomy,49,Ethmoid,0.9583712315896376
+zygomatic arch,anatomy,49,Zygomatic arch,0.983933225859271
+left superior frontal gyrus,anatomy,49,Left superior frontal gyrus,0.9898640487076327
+inferior right mastoid air cells,anatomy,49,Mastoid air cell of right temporal bone,0.8728747684249749
+included vertebral arteries,anatomy,49,Vertebral artery,0.8414931042804115
+posterior right ethmoid air cells,anatomy,49,Right posterior ethmoidal cell,0.9173581965405619
+ethmoid regions,anatomy,49,Zone of ethmoid,0.9189097741922045
+head of the left caudate nucleus,anatomy,49,Gray matter of left substantia nigra,0.508068996969947
+adjacent brain parenchyma,anatomy,49,Cardinal segment of brain,0.7790748998323678
+left side of sphenoid sinus,anatomy,49,Left sphenoidal sinus,0.9461008383886661
+catheter tract,anatomy,49,Solitary tract,0.620121799587956
+right ethmoid air cell,anatomy,49,Right posterior ethmoidal cell,0.9119047430627045
+bilateral external auditory canals,anatomy,49,Left external ear,0.7874313617966506
+both cerebellar hemispheres,anatomy,48,Right hemisphere of cerebellum,0.82381405568401
+inferior frontal lobes,anatomy,48,Frontal lobe,0.919718029084598
+temporal horns of the lateral ventricles,anatomy,48,Temporal horn of lateral ventricle,0.901361799221304
+paraventricular,anatomy,48,Right lateral ventricle,0.6141697288424368
+heart,anatomy,48,Content of superior mediastinum,0.4826832679111537
+posterior right frontal,anatomy,48,Right frontal pole,0.8370994412983419
+anterior horn of the right lateral ventricle,anatomy,48,Frontal horn of right lateral ventricle,0.8005218082960778
+major intracranial vascular structures,anatomy,48,Vasculature of brain,0.8071470585863636
+c1,anatomy,48,Cervical part of common carotid artery,0.47983225763661874
+central pons,anatomy,48,Pons,0.8507477127716406
+cervical lordosis,anatomy,48,Occipital protuberance,0.4835474532446222
+right tympanic cavity,anatomy,48,Right tympanic cavity,0.9864236372184498
+inner ear structures,anatomy,48,Bony labyrinth,0.876125209550453
+right mastoid sinus,anatomy,47,Right mastoid antrum,0.8983508868056055
+craniectomy defect,anatomy,47,Bone of skull bone,0.6124262607933276
+left forehead scalp,anatomy,47,Left occipital zone of scalp,0.8069091038570737
+lungs,anatomy,47,Lobular organ,0.5317917456361567
+skullbase skull,anatomy,47,Skull,0.9019734649043899
+anterior wall,anatomy,47,Wall of organ,0.6692423625356418
+temporal horn of the right lateral ventricle,anatomy,47,Temporal horn of right lateral ventricle,0.9585118284577419
+major vascular structures,anatomy,47,Systemic artery,0.7632822397654909
+left inferior frontal lobe,anatomy,47,Left frontal lobe,0.9307816140925378
+inferior frontal sinuses,anatomy,47,Frontal sinus,0.885951831115181
+c7-t1,anatomy,47,Trunk of transverse cervical vein,0.42618791010035784
+globus pallidus nuclei,anatomy,46,Nucleus raphe pallidus,0.7590127228341427
+right posterior frontal lobe,anatomy,46,Right frontal lobe,0.922978157830674
+interpeduncular cistern,anatomy,46,Interpeduncular cistern,0.9900402912795915
+left parieto-occipital,anatomy,46,Left parieto-occipital sulcus,0.7828020552712138
+anterior horn of the left lateral ventricle,anatomy,46,Frontal horn of left lateral ventricle,0.7998744907387035
+odontoid process,anatomy,46,Zone of occipital bone,0.6215938538491713
+right frontal parietal,anatomy,46,Right frontal pole,0.8027216481467295
+quadrigeminal plate cistern,anatomy,46,Interpeduncular cistern,0.7751612642718431
+both basal ganglia,anatomy,45,Hindbrain,0.6235684301913187
+frontal calvarium,anatomy,45,Frontal bone,0.7885632393410351
+meninges,anatomy,45,White matter of posterior segment of left paracentral lobule,0.8444991978343814
+atrium,anatomy,45,Atrium of lateral ventricle,0.6702998490391622
+right parietal calvarium,anatomy,45,Right parietal bone,0.8297652450843613
+bifrontal extra-axial spaces,anatomy,45,Subfrontal region of epidural space,0.5892927678674267
+right supraorbital scalp,anatomy,44,Right parietal zone of scalp,0.732770605658706
+cervical,anatomy,44,Craniocervical region,0.7440823142624517
+bone flap,anatomy,44,Irregular bone,0.612036725444322
+medial left frontal lobe,anatomy,44,Left frontal lobe,0.8776323395284698
+left ventricle,anatomy,44,Left lateral ventricle,0.7401031698877304
+biventricular,anatomy,44,Third ventricle,0.4818375408785007
+deep soft tissue spaces,anatomy,44,Anatomical compartment space,0.7672956027358704
+right anterior frontal lobe,anatomy,44,Right frontal lobe,0.9462211078343596
+pca territory,anatomy,44,Area postrema,0.4681991980477642
+posterior vertex,anatomy,44,Crown of head,0.6711156706374501
+cerebellar tonsillar,anatomy,44,Cerebellar medulla,0.7290267312929853
+adjacent white matter,anatomy,44,Segment of white matter of neuraxis,0.8706952098326934
+posterior right parietal lobe,anatomy,43,Right parietal lobe,0.9093774348612897
+mediastinal contour,anatomy,43,Content of superior mediastinum,0.5741167249576917
+bilateral carotid siphons,anatomy,43,Left carotid siphon,0.8685468548116702
+bilateral occipital lobes,anatomy,43,Left occipital lobe,0.8516245082444778
+lamina papyracea,anatomy,43,Lamina propria,0.675991417591206
+both hemispheres,anatomy,43,Cerebral hemisphere,0.827337716068024
+intra-parenchymal,anatomy,43,Organ segment,0.5435327563356881
+right mastoids,anatomy,43,Right mastoid process,0.9409187035139727
+caudate nucleus,anatomy,43,Sublentiform nucleus,0.7346669381397656
+left nasal cavity,anatomy,43,Left nasal cavity,0.9942789128245579
+larynx,anatomy,43,Epiglottis,0.8243847733068868
+salivary glands,anatomy,43,Set of major salivary glands,0.932120888338131
+thyroid,anatomy,43,Superior thyroid artery,0.6755114909893901
+right suboccipital,anatomy,43,Right occipitalis,0.7753442389333671
+ostiomeatal units,anatomy,43,Set of auditory ossicles,0.585554574850791
+atrium of the left lateral ventricle,anatomy,42,Atrium of left lateral ventricle,0.9570256958747553
+right frontotemporal region,anatomy,42,Right frontomarginal gyrus,0.7834782204432426
+sphenoid sinus air cells,anatomy,42,Sphenoidal sinus,0.6736530421423563
+lung,anatomy,42,Lobular organ,0.5274835676381187
+left periventricular,anatomy,42,Left lateral ventricle,0.7420937501765641
+bilateral ethmoid,anatomy,42,Ethmoid,0.8767221592109631
+nasopharyngeal,anatomy,42,Nasopharynx,0.9357308249655548
+right internal carotid artery,anatomy,42,Right internal carotid artery,0.9712959108874416
+high right frontal,anatomy,42,Right side of frontal bone,0.7171672464661227
+left mastoid sinus,anatomy,42,Left mastoid antrum,0.8964181220974725
+visualized face,anatomy,42,Face,0.7254617894732456
+body of the left lateral ventricle,anatomy,42,Body of left lateral ventricle,0.9697412700239395
+ventricles system,anatomy,42,Ventricular system of brain,0.8197131726942172
+inferior left frontal sinus,anatomy,41,Left frontal sinus,0.9045183947251684
+atria,anatomy,41,Right foramen ovale,0.6244096675524183
+left tentorial,anatomy,41,Left thalamus,0.6739224089095149
+pulmonary vascularity,anatomy,41,Vasculature of nose,0.4913551959133662
+bilateral frontal lobe,anatomy,41,Left frontal lobe,0.9147615635159938
+posterior right parietal,anatomy,41,Right parietal part of head,0.785553426160475
+craniocervical junction,anatomy,41,Craniocervical region,0.7936088715090948
+medial right orbital wall,anatomy,41,Medial wall of right orbit,0.9402158307310629
+adjacent sulci,anatomy,41,Central sulcus,0.846289122001985
+sphenoid air cells,anatomy,41,Left anterior ethmoidal cell,0.6651481346940391
+surgical bed,anatomy,41,Anatomical compartment space,0.5242825507848846
+inferior right maxillary antrum,anatomy,41,Right maxillary sinus,0.8106190502199618
+orbital floor,anatomy,41,Floor of left orbit,0.855151714113819
+left frontal operculum,anatomy,41,Left frontomarginal gyrus,0.7902473208040287
+visualized orbit soft tissues,anatomy,41,Orbital content,0.6555186643995274
+pituitary gland,anatomy,40,Hypothalamus,0.8508199372899127
+right transverse sinus,anatomy,40,Right transverse sinus,0.996551490517422
+ethmoidal sinuses,anatomy,40,Ethmoidal sinus,0.9922569935312527
+inferior left mastoid air cells,anatomy,40,Mastoid air cell of left temporal bone,0.8493980038420464
+anterior frontal lobes,anatomy,40,Frontal lobe,0.9534040609636273
+occipital regions,anatomy,40,Occipital part of head,0.8931230038252344
+bilateral occipital,anatomy,40,Left occipitalis,0.7622031697538777
+medulla,anatomy,40,Medulla oblongata,0.7745161637982192
+biventricular diameter,anatomy,40,Right lateral ventricle,0.42749858388838535
+left middle cerebral artery distribution,anatomy,40,Left middle cerebral artery,0.9629142653883956
+left middle ear cavity,anatomy,40,Left middle ear,0.9242996841921841
+bilateral maxillary sinus,anatomy,40,Left maxillary sinus,0.9068101306686073
+right frontal cortical,anatomy,40,Cortex of right frontal lobe,0.9038189218975847
+left posterior frontal lobe,anatomy,40,Left frontal lobe,0.9266688243956352
+temporal region,anatomy,40,Temporal part of head,0.8952465380890104
+lateral,anatomy,39,Lateral half of face,0.6276438586030881
+right frontoparietal scalp,anatomy,39,Right parietal zone of scalp,0.8081047589441126
+left parieto-occipital region,anatomy,39,Left parieto-occipital sulcus,0.7968184783013593
+cavernous internal carotid artery,anatomy,39,Cavernous branch of internal carotid artery,0.9420507387299626
+left posterior temporal,anatomy,39,Left temporal part of head,0.869833214229688
+posterior left parietal,anatomy,39,Left parietal part of head,0.7727646144595006
+inferior right cerebellum,anatomy,39,Right hemisphere of cerebellum,0.8656080664150093
+left sphenoid sinuses,anatomy,39,Left sphenoidal sinus,0.983271862786096
+left temporomandibular,anatomy,39,Left temporomandibular joint,0.848979942347131
+left parietal cortex,anatomy,39,Cortex of left parietal lobe,0.9136886271474278
+lymph nodes,anatomy,39,Primary nodular lymphoid tissue,0.6728098424505594
+intracranially,anatomy,39,Cranial cavity,0.8181263874029776
+right pca distribution,anatomy,39,Posteromedial central branch of right posterior cerebral artery,0.541196545314235
+carotid vascular,anatomy,39,Internal carotid artery,0.8529593338966315
+basal ganglia regions,anatomy,39,Nucleus of brain,0.7071321223922701
+left eye,anatomy,39,Left eye,0.9987846947023846
+anterior right ethmoid air cells,anatomy,38,Right anterior ethmoidal cell,0.9078540906578844
+left insular cortex,anatomy,38,Left insula,0.8031841832453521
+medial left orbital wall,anatomy,38,Medial wall of left orbit,0.9421136013883156
+left tympanic cavity,anatomy,38,Left tegmen tympani,0.8478309064055032
+right eye,anatomy,38,Right eye,0.9974998582696848
+right inferior frontal lobe,anatomy,38,Right frontal lobe,0.9314569882202409
+bilateral cerebral hemispheres,anatomy,38,Cerebral hemisphere,0.8464945569546801
+vermis,anatomy,38,Vermis of cerebellum,0.774324453634548
+right posterior temporal lobe,anatomy,38,Right temporal lobe,0.9286878152505434
+right side of the sphenoid sinus,anatomy,38,Right sphenoidal sinus,0.9129421061584918
+right frontal cortex,anatomy,38,Right frontal lobe,0.9508831060132246
+body of the right lateral ventricle,anatomy,38,Body of right lateral ventricle,0.956488172433764
+oropharynx,anatomy,38,Oropharynx,0.9966720450399879
+anterior limb left internal capsule,anatomy,38,Capsule of left lens,0.6742569369686555
+right temporal tip,anatomy,38,Temple region of right temporal part of head,0.7343823447981319
+bilateral thalamic,anatomy,38,Left thalamus,0.8875472931457169
+gray-white matter junction,anatomy,38,Gray matter of midbrain,0.6880034390907537
+bilateral vertebral artery,anatomy,38,Left vertebral artery,0.9140836788192784
+right superior frontal gyrus,anatomy,37,Right superior frontal gyrus,0.9899091718837909
+medial wall of the right orbit,anatomy,37,Medial wall of right orbit,0.9769333751653143
+right periventricular,anatomy,37,Right lateral ventricle,0.7538960794109544
+bilateral mastoids,anatomy,37,Right mastoid process,0.8103514673247838
+medial right frontal lobe,anatomy,37,Right frontal lobe,0.9130236896631587
+territory,anatomy,37,Zone of continuity,0.4916874811182457
+suprasellar region,anatomy,37,Suprasellar part of cranial cavity,0.8234204317619098
+floor,anatomy,37,Floor of mouth,0.5496349869438191
+posterior nasopharynx,anatomy,37,Nasopharynx,0.8674248569077829
+subependymal,anatomy,37,Epithalamus,0.7234311914788825
+left side of the sphenoid sinus,anatomy,37,Left sphenoidal sinus,0.9297126320360672
+mca distribution,anatomy,37,Capsule,0.4785268971088579
+bilateral ethmoidal air cells,anatomy,37,Left anterior ethmoidal cell,0.8248762816424504
+right ethmoid sinuses,anatomy,37,Right ethmoidal sinus,0.9699011995062444
+arteries,anatomy,37,Systemic artery,0.833593649360152
+anterior limb of the internal capsule,anatomy,37,Capsule of anterior lens,0.6128535833822897
+left frontal skull,anatomy,37,Left side of frontal bone,0.8738266945623722
+frontoparietal region,anatomy,37,Prefrontal cortex,0.7334210038375216
+cerebral aqueduct,anatomy,37,Cerebral aqueduct,0.9897180489927392
+basal gangliar,anatomy,37,Nucleus of brain,0.703949727710973
+anterior ethmoid,anatomy,37,Ethmoid,0.9242999083291468
+right temporomandibular,anatomy,37,Right temporomandibular joint,0.8319572911598807
+right subdural,anatomy,36,Right cerebral hemisphere segment of dura mater,0.7560931840588392
+left temporoparietal region,anatomy,36,Left temporoparietalis,0.8147167466542715
+temporomandibular joint,anatomy,36,Temporomandibular joint,0.9680435396618772
+central skull base,anatomy,36,Neurocranium,0.7805227581285133
+right frontal parietal region,anatomy,36,Right parietal part of head,0.8180168441707377
+extraaxial space,anatomy,36,Anatomical compartment space,0.7258694919994026
+left posterior temporal lobe,anatomy,36,Left temporal lobe,0.9032099503206549
+posterior left parietal lobe,anatomy,36,Left parietal lobe,0.868742192152396
+frontal operculum,anatomy,36,Frontomarginal gyrus,0.7607071274747198
+left calvarium,anatomy,36,Calvarium,0.7787139194794465
+left internal carotid artery,anatomy,36,Left internal carotid artery,0.9471118459988783
+right frontoparietal lobe,anatomy,36,Right frontomarginal gyrus,0.8078100166857106
+left mastoid air cell,anatomy,36,Mastoid air cell of left temporal bone,0.9328823627507182
+bony orbits,anatomy,36,Orbital compartment,0.7904047823822904
+cerebellar vermis,anatomy,36,Vermis of cerebellum,0.9112195174196991
+left frontotemporal region,anatomy,36,Left frontomarginal gyrus,0.7737534314329834
+right middle ear cavity,anatomy,36,Right middle ear,0.9140498787042665
+cavernous carotid artery,anatomy,35,Cavernous branch of internal carotid artery,0.8935682653036351
+supra,anatomy,35,Precuneus,0.4803931056316606
+infratentorium,anatomy,35,Habenula,0.4272478922321876
+insular region,anatomy,35,Intermediate hypothalamic region,0.6914390837473048
+left uncal,anatomy,35,Left uncal artery,0.728743069797716
+medial left temporal lobe,anatomy,35,Left temporal lobe,0.8673959300381939
+visualized bony structures,anatomy,35,Irregular bone,0.648794278444021
+parietal scalp,anatomy,35,Parietal zone of scalp,0.8955875967159408
+right inferior cerebellar,anatomy,35,Right hemisphere of cerebellum,0.8301320628128733
+right basal ganglial,anatomy,35,Right thalamus,0.750548365679829
+inferior frontal sinus,anatomy,35,Frontal sinus,0.8930777508984016
+left ethmoid sinuses,anatomy,35,Left ethmoidal sinus,0.9781620989254977
+endotracheal,anatomy,35,Mucosa of respiratory tract,0.5038939812108565
+mid brain,anatomy,35,Brain,0.8553480577776056
+frontoparietal,anatomy,35,Frontal lobe,0.6656982784806775
+superior ophthalmic veins,anatomy,35,Superior ophthalmic vein,0.9865903663940643
+left posterior,anatomy,35,Posterior pole of left eyeball,0.6471646139586745
+medial orbital wall,anatomy,35,Medial wall of left orbit,0.8944222306517526
+midline frontal scalp,anatomy,34,Frontal zone of scalp,0.6750064307196021
+both maxillary antra,anatomy,34,Left maxillary sinus,0.776058173740756
+craniocervical relationship,anatomy,34,Set of joints of head,0.6132913337216921
+right parieto-occipital region,anatomy,34,Right parieto-occipital sulcus,0.7962530068541335
+left facial,anatomy,34,Left side of face,0.8963213819878162
+cavernous sinuses,anatomy,34,Cavernous sinus,0.9573338488041641
+left occipital pole,anatomy,34,Left occipital pole,0.9929344968851315
+right uncal,anatomy,34,Right uncal artery,0.7393285222120015
+left parietal cortical,anatomy,34,Cortex of left parietal lobe,0.8498756191906854
+left basal ganglia region,anatomy,34,Left thalamus,0.7465805097658005
+anterior cranial fossa,anatomy,34,Zone of cranial cavity,0.8229928069390733
+leptomeningeal,anatomy,34,Leptomeningeal sac,0.830296750118786
+medial wall of the left orbit,anatomy,34,Medial wall of left orbit,0.980159366490193
+right maxilla,anatomy,34,Right maxilla,0.9920560911061099
+right mastoid tip,anatomy,34,Right mastoid process,0.836089742651236
+nose,anatomy,34,Nose,0.999147572464902
+right supraorbital region,anatomy,34,Right peri-orbital region of face,0.8526991755177611
+inferior left maxillary sinus,anatomy,34,Left maxillary sinus,0.8859372394692886
+adjacent left lateral ventricle,anatomy,33,Left lateral ventricle,0.9471428028198595
+craniotomy flap,anatomy,33,Neurocranium,0.5923849761593105
+cerebellar parenchyma,anatomy,33,Cerebellar cortex,0.8636709690104556
+right lateral ventricles,anatomy,33,Right lateral ventricle,0.972580935205723
+left ocular,anatomy,33,Left eye,0.9724499495352146
+inferior left cerebellum,anatomy,33,Left hemisphere of cerebellum,0.8321319952068954
+lower right mastoid air cells,anatomy,33,Mastoid air cell of right temporal bone,0.8766730246207698
+tmj,anatomy,33,Temporomandibular joint,0.7965881226021972
+bilateral periventricular white matter,anatomy,33,White matter of left cerebral hemisphere,0.7057152927837516
+supraorbital,anatomy,33,Supra-orbital part of frontal bone,0.5956721590905637
+left frontoparietal scalp,anatomy,33,Left parietal zone of scalp,0.8249486173723016
+operative bed,anatomy,33,Anatomical compartment space,0.5123896661561703
+left globus pallidus,anatomy,33,Left thalamus,0.7078281879644741
+facet,anatomy,33,Midface,0.5649986452483152
+right insular cortex,anatomy,33,Right insula,0.7914326130807197
+left frontal periventricular white matter,anatomy,33,White matter of left frontal lobe,0.804773632602382
+left lateral,anatomy,33,Left lateral sulcus,0.6512617816538887
+left temporal tip,anatomy,33,Left temporal part of head,0.7257044778891207
+medial wall right orbit,anatomy,33,Medial wall of right orbit,0.9549136223930106
+dentition,anatomy,33,Dentition,0.9930182767844856
+left frontal cortex,anatomy,33,Left frontal lobe,0.9447456297479531
+lateral masses,anatomy,33,Lens fiber mass,0.5654112006590128
+basilar perforator distribution,anatomy,32,Bony part of frontal bone,0.6506520131493664
+basilar arteries,anatomy,32,Basilar artery,0.9877335344497058
+inferior left basal ganglia,anatomy,32,Left thalamus,0.6811971116088686
+right lateral convexity,anatomy,32,Right lateral sulcus,0.6753637560439593
+left mastoid tip,anatomy,32,Left mastoid process,0.8230164349629988
+straight sinus,anatomy,32,Straight sinus,0.9945300513408195
+posterior horn of the left lateral ventricle,anatomy,32,Body of left lateral ventricle,0.8264026708265362
+anterior parietal lobe,anatomy,32,Parietal lobe,0.8886642398434875
+spleen,anatomy,32,Pharyngeal tonsil,0.5492386508199117
+lower left mastoid air cells,anatomy,32,Mastoid air cell of left temporal bone,0.8436760816789136
+intraconal,anatomy,32,Organ cavity,0.42702702544686155
+posterior frontal lobe,anatomy,32,Frontal lobe,0.9297922851623465
+left parietal calvarium,anatomy,32,Left parietal bone,0.8352722256214271
+left midbrain,anatomy,32,Left side of midbrain,0.9606135088750933
+medial wall left orbit,anatomy,32,Medial wall of left orbit,0.9516925271065282
+optic nerve,anatomy,32,Optic nerve,0.993308712819065
+left side of the pons,anatomy,32,Gray matter of pons,0.6851799446500821
+internal carotid arterial,anatomy,32,Internal carotid artery,0.9694683557132228
+insular,anatomy,31,Limbic system,0.48586606299428636
+carotid siphon skull,anatomy,31,Left carotid siphon,0.8162843755976474
+base the brain,anatomy,31,Brain,0.8860305179315765
+sinus wall,anatomy,31,Paranasal sinus,0.6798114804476192
+anterior frontal,anatomy,31,Frontal crest,0.7908169193360642
+right posterior temporal,anatomy,31,Right temporal part of head,0.8581530676175267
+posterior left frontal,anatomy,31,Left frontal pole,0.8248985346159147
+left basal ganglial,anatomy,31,Left thalamus,0.7444425351222487
+right side of sphenoid sinus,anatomy,31,Right sphenoidal sinus,0.918657087538958
+supraorbital scalp,anatomy,31,Subdivision of scalp,0.6851914621072555
+visualized maxillary sinuses,anatomy,31,Maxillary sinus,0.7285625893153869
+ventricular volumes,anatomy,31,Inferior ventricular vein,0.5656745965367116
+3rd ventricle,anatomy,31,Third ventricle,0.9461781297501609
+pineal,anatomy,31,Pineal body,0.8058525820633003
+interhemispheric falx,anatomy,31,Falx cerebri,0.6754826681419341
+pancreas,anatomy,31,Lobular organ,0.5963572390436791
+gray / white differentiation,anatomy,31,Reticular formation,0.4954286187188848
+torcula,anatomy,31,Temporoparietalis,0.6637536616019516
+left transverse sinus,anatomy,31,Left transverse sinus,0.9933650867569728
+supraorbital region,anatomy,31,Peri-orbital region of face,0.7810644700337596
+tympanic cavity,anatomy,31,Tympanic cavity,0.9887945375651653
+left anterior frontal region,anatomy,31,Left frontal pole,0.8373911342287169
+right tentorial,anatomy,31,Right thalamus,0.6636867136455648
+aorta,anatomy,31,Systemic arterial trunk,0.7608596028783033
+gray-white matter interface,anatomy,31,Gray matter of midbrain,0.7212298385873833
+aca territory,anatomy,31,Marginal sulcus,0.33574969288613654
+mid pons,anatomy,30,Pons,0.8549253256342746
+anterior temporal lobe,anatomy,30,Temporal lobe,0.9208106890287233
+paravertebral,anatomy,30,Left posterior spinal artery,0.5576880953967415
+mandibles,anatomy,30,Mandible,0.9648233216592964
+posterior left ethmoid air cells,anatomy,30,Left posterior ethmoidal cell,0.8985250128542147
+bilateral occipital lobe,anatomy,30,Left occipital lobe,0.8579700212576431
+right pterional,anatomy,30,Right foramen rotundum,0.5974032582973733
+posterior left parietal region,anatomy,30,Left parietal part of head,0.7999380021621807
+sigmoid sinuses,anatomy,30,Sigmoid sinus,0.9649854677493489
+left temporal parietal,anatomy,30,Temporal process of left parietal bone,0.8181698305279707
+left carotid siphon,anatomy,30,Left carotid siphon,0.9456431733278315
+right superior cerebellum,anatomy,30,Right hemisphere of cerebellum,0.8926674678098732
+deep white matter capsules,anatomy,30,White matter of neuraxis,0.6709762838128752
+posterior temporal lobe,anatomy,30,Temporal lobe,0.9043119059031375
+left temporoparietal lobe,anatomy,30,Left parietal lobe,0.7688719464941317
+anterior right thalamus,anatomy,30,Right thalamus,0.912346722266715
+bilateral lateral ventricles,anatomy,30,Left lateral ventricle,0.8490257758828571
+left temporomandibular joint,anatomy,30,Left temporomandibular joint,0.9657821854199117
+right holo hemispheric,anatomy,30,Right half of hypothalamus,0.6519966253951316
+preseptal,anatomy,30,Pretectal region,0.49309680836027026
+right cavernous sinus,anatomy,30,Right cavernous sinus,0.9971524665038741
+carotid artery siphons,anatomy,30,Carotid siphon,0.8933567159764261
+left subdural,anatomy,30,Subdural space,0.7790425815561699
+right occipital pole,anatomy,30,Right occipital pole,0.9416242425421226
+left pterional,anatomy,30,Left arcuate eminence,0.5886625482277935
+inferior frontal,anatomy,29,Zone of frontal bone,0.7602879727660146
+left parietal white matter,anatomy,29,White matter of left parietal lobe,0.8313763939207482
+major vascular distribution,anatomy,29,Systemic artery,0.7043836781532058
+left lateral ventricles,anatomy,29,Left lateral ventricle,0.9330866319405619
+skin,anatomy,29,Segment of skin,0.8616059803421185
+left cavernous sinus,anatomy,29,Left cavernous sinus,0.9882848246019759
+inferior right maxillary sinus,anatomy,29,Right maxillary sinus,0.8630434924074573
+left frontotemporal scalp,anatomy,29,Left parietal zone of scalp,0.8182655762492346
+left occipital lobes,anatomy,29,Left occipital lobe,0.9437776403269054
+mediastinal,anatomy,29,Content of superior mediastinum,0.8368702471336859
+anterior circulation,anatomy,29,Superior anastomotic vein,0.6211163441120965
+adjacent right lateral ventricle,anatomy,29,Right lateral ventricle,0.9490437087052936
+posterior right mca territory,anatomy,29,Right posterior subcentral sulcus,0.6391596878404917
+fissures,anatomy,29,Longitudinal fissure,0.7741800566141569
+cavernous segment of the internal carotid arteries,anatomy,29,Cavernous branch of internal carotid artery,0.9554659373993549
+globes orbital soft tissues,anatomy,29,Fascial sheath of eyeball,0.8111674786906775
+periventricular white matter regions,anatomy,29,Segment of white matter of neuraxis,0.8130145262705957
+left suboccipital,anatomy,29,Left occipitalis,0.7812005004091545
+right ica,anatomy,29,Right insular artery,0.7201680198318666
+right basal ganglia region,anatomy,29,Right thalamus,0.755930272856496
+intraorbital soft tissues,anatomy,29,Superficial fascia of orbital part of face,0.6883908069399547
+ostiomeatal complexes,anatomy,29,Set of auditory ossicles,0.6665546336164252
+left posterior convexity,anatomy,29,Left posterior marginal sulcus,0.5964714124958875
+temporal tips,anatomy,29,External acoustic tube,0.6397020796594366
+both sphenoid sinuses,anatomy,29,Left sphenoidal sinus,0.8674776760359373
+mesial temporal lobe,anatomy,29,Temporal lobe,0.8599551180025795
+anterior limb right internal capsule,anatomy,29,Capsule of right lens,0.6881804630227318
+right temporal parietal,anatomy,29,Temporal process of right parietal bone,0.8154470541244093
+high left frontal,anatomy,29,Frontal crest,0.7077120778121989
+c1-c2,anatomy,29,Craniocervical region,0.6217081478707978
+left maxilla,anatomy,29,Left maxilla,0.9968799103445656
+left frontal cortical,anatomy,28,Cortex of left frontal lobe,0.8995062723027094
+right frontal periventricular white matter,anatomy,28,White matter of right frontal lobe,0.7980691050119715
+bony nasal septum,anatomy,28,Skeleton of nasal septum,0.9292089797623729
+parietal white matter,anatomy,28,White matter of parietal lobe,0.8589064895282829
+left anterior temporal lobe,anatomy,28,Left temporal lobe,0.9393318441442328
+caudate nuclei,anatomy,28,Linear nucleus,0.7422996751451095
+posterior limb of the internal capsule,anatomy,28,Capsule of posterior lens,0.687229976778161
+left medial orbital,anatomy,28,Medial wall of left orbit,0.8523952932792639
+posterior frontal region,anatomy,28,Frontal part of head,0.8202644932847317
+left ear,anatomy,28,Left ear,0.9963714750651465
+high left parietal region,anatomy,28,Left parietal part of head,0.8018057236663458
+inferior right frontal sinus,anatomy,28,Right frontal sinus,0.9198152462658343
+midline fourth ventricle basal cisterns,anatomy,28,Cavity of fourth ventricle,0.7796380082066572
+underlying skull,anatomy,28,Skull,0.8893915104520941
+sigmoid sinus,anatomy,28,Sigmoid sinus,0.9965512068913511
+subdural hematomas,anatomy,28,Subdural space,0.5801824834948929
+anterior left ethmoid air cells,anatomy,28,Left anterior ethmoidal cell,0.907503934496816
+left middle cerebral artery territory,anatomy,28,Zone of middle cerebral artery,0.902449041982744
+right posterior,anatomy,28,Posterior pole of right eyeball,0.6431691809040082
+sulcus,anatomy,28,Central sulcus,0.8555143755599907
+left parieto-occipital scalp,anatomy,28,Left parietal zone of scalp,0.8995400062496249
+left cerebral,anatomy,28,Left cerebral hemisphere,0.9036564650000127
+right facial,anatomy,28,Right side of face,0.9048136880423291
+external capsule region,anatomy,28,Capsule of lens,0.797267868233036
+right parietal white matter,anatomy,28,White matter of right parietal lobe,0.8714563205552085
+aqueduct,anatomy,28,Cerebral aqueduct,0.866818063347863
+retro-orbital,anatomy,28,Vermilion of lower lip,0.7233710526751934
+right temporal scalp,anatomy,28,Right temporal zone of scalp,0.9183378629237002
+left aca,anatomy,28,Left insular artery,0.6077899118048848
+right side of the falx,anatomy,28,Right fusiform gyrus,0.6999910617340152
+left supraorbital region,anatomy,28,Left peri-orbital region of face,0.8370317688146085
+inferior right basal ganglia,anatomy,28,Right thalamus,0.689197171404064
+floor of the right maxillary sinus,anatomy,28,Right maxillary sinus,0.7919200136572654
+right temporomandibular joint,anatomy,28,Right temporomandibular joint,0.9945017983287846
+skeleton,anatomy,28,Heterogeneous set of bones,0.8249326787959973
+periventricular regions,anatomy,28,Cerebral part of head,0.7235436269679615
+right anterior frontal region,anatomy,28,Right frontal pole,0.8463836351765507
+left parietal lobes,anatomy,28,Left parietal lobe,0.9663268457597748
+subcutaneous fat,anatomy,28,Superficial fascia,0.7749837022836377
+splenium of the corpus callosum,anatomy,28,Callosal sulcus,0.5977352607435436
+collection,anatomy,28,Capsule,0.4568988320118359
+pelvis,anatomy,28,Organ cluster,0.5435563938755289
+tegmen tympani,anatomy,28,Tegmen tympani,0.992026808401552
+atria of the lateral ventricles,anatomy,28,Atrium of lateral ventricle,0.8617386826949065
+left frontal parietal region,anatomy,28,Left parietal part of head,0.8305814192298578
+surgical site,anatomy,28,Organ segment,0.6527574865918939
+odontoid,anatomy,28,Left suprameatal spine,0.5441161027819728
+inferior left maxillary antrum,anatomy,28,Left maxillary sinus,0.8171143912940383
+posterior left mca territory,anatomy,28,Left posterior subcentral sulcus,0.6567602217642968
+left frontoparietal convexity,anatomy,28,Inferomedial segment of left frontal lobe,0.6574492323122735
+intracranial internal carotid arteries,anatomy,27,Internal carotid artery,0.9051292852959252
+genu of the corpus callosum,anatomy,27,Callosal sulcus,0.6244385213260932
+right anterior temporal lobe,anatomy,27,Right temporal lobe,0.9458178120972789
+bilateral parietal,anatomy,27,Left parietal part of head,0.6855294380965924
+basilar skull,anatomy,27,Neurocranium,0.7720550546029392
+right-sided scalp,anatomy,27,Right occipital zone of scalp,0.7931368393646285
+m1 segment,anatomy,27,Zone of masseter,0.541352643952091
+clinoid segments,anatomy,27,Left anterior clinoid process,0.6730193786182489
+dural margin of the vertebral arteries,anatomy,27,Segment of vertebral artery,0.7564265680648372
+right frontal temporal,anatomy,27,Right temporal part of frontal bone,0.8802726461247934
+deep gray matter,anatomy,27,Subcortical gray matter,0.8842193822906801
+right posterior convexity,anatomy,27,Right marginal sulcus,0.5773317120149306
+left frontal parietal lobe,anatomy,27,Left frontal lobe,0.904033056779968
+right side of the pons,anatomy,27,Right side of brainstem,0.8274487283721004
+liver,anatomy,27,Lobular organ,0.4858532487205579
+parotid,anatomy,27,Parotid gland,0.8791615893192003
+subcortical left frontal lobe,anatomy,27,Left frontal lobe,0.9179433455925493
+inferior frontal lobe,anatomy,27,Frontal lobe,0.918624455945577
+left ica,anatomy,27,Left insular artery,0.7081490856278658
+left division of the sphenoid sinus,anatomy,27,Left sphenoidal sinus,0.9111857221576378
+periventricular subcortical white matter,anatomy,27,White matter of metencephalon,0.7616711175090107
+anterior left thalamus,anatomy,27,Left thalamus,0.9376683071973698
+posterior temporal lobes,anatomy,27,Temporal lobe,0.932406865409585
+right parotid gland,anatomy,27,Right parotid gland,0.9958273875205159
+endotracheal tube,anatomy,27,Pharyngotympanic tube,0.6238472113707825
+left parotid gland,anatomy,27,Left parotid gland,0.9841433492691739
+cavernous segments,anatomy,27,Cavernous artery,0.7250040745159864
+optic chiasm,anatomy,27,Optic nerve-tract complex,0.7627711223345259
+right parietal vertex,anatomy,27,Right parietal part of head,0.7206828394749543
+midportion of the nasal septum,anatomy,26,Nasal septum,0.8028775646079538
+internal auditory canals,anatomy,26,Internal ear,0.8905376598627727
+high right frontal region,anatomy,26,Right side of frontal bone,0.7640278765768835
+right occipital skull,anatomy,26,Right lateral part of occipital bone,0.8533534801374624
+head of the caudate,anatomy,26,Wall of cerebral aqueduct,0.5632124949190285
+globes orbits,anatomy,26,Orbital cavity,0.8416781633004979
+parietal convexity,anatomy,26,Parietal zone of longitudinal fissure,0.6643678235152192
+left occipital cortex,anatomy,26,Cortex of left occipital lobe,0.9415589946286635
+sphenoid sinus cells,anatomy,26,Sphenoidal sinus,0.747346417480649
+subcortical brain,anatomy,26,Subcortical gray matter,0.8609050111382375
+left caudate body,anatomy,26,Juxtarestiform body,0.5556666070302388
+craniotomy defect,anatomy,26,Cranial cavity,0.5738246346567157
+quadrigeminal plate cisterns,anatomy,26,Interpeduncular cistern,0.7725899759911805
+inferior aspect,anatomy,26,Lower eyelid,0.5173238628443849
+carotid siphons skull,anatomy,26,Left carotid siphon,0.8193974213286359
+gyri,anatomy,26,Straight gyrus,0.8065300417580514
+fourth ventricular,anatomy,26,Fourth ventricle,0.9297798320064691
+left subdural space,anatomy,26,Subdural space,0.8882115470293185
+left frontoparietal lobe,anatomy,26,Left frontal lobe,0.8220909307486424
+left anterior ethmoid air cells,anatomy,26,Left anterior ethmoidal cell,0.8984584445549478
+left side of the falx,anatomy,26,Left fusiform gyrus,0.6649727352638716
+posterior elements,anatomy,26,Posterior polar zone of lens,0.6455867836293341
+lateral wall,anatomy,26,Wall of organ,0.6789181631058533
+intracranial vessels of the skullbase,anatomy,26,Vasculature of skull bone,0.7928131529554934
+right posterior frontal region,anatomy,26,Right frontalis,0.827383093586303
+frontal bones,anatomy,25,Frontal bone,0.9809890028721061
+inner table of the skull,anatomy,25,Neurocranium,0.6406879318068014
+right frontotemporal scalp,anatomy,25,Right parietal zone of scalp,0.8137963144166089
+subinsular white matter,anatomy,25,Segment of white matter of neuraxis,0.8131734120542268
+anterior left frontal,anatomy,25,Left side of frontal bone,0.8194671118031603
+zygoma,anatomy,25,Zygomatic bone,0.7983481130776339
+left frontal temporal,anatomy,25,Left temporal part of frontal bone,0.8813897840853978
+extraaxial spaces,anatomy,25,Anatomical compartment space,0.7520952932063806
+occipital horns of both lateral ventricles,anatomy,25,Occipital horn of lateral ventricle,0.867062191981078
+medial right temporal lobe,anatomy,25,Right temporal lobe,0.9158692941103899
+periorbital region,anatomy,25,Peri-orbital region of face,0.9091576722749377
+posterior wall,anatomy,25,Wall of posterior segment of eyeball,0.6170740134895191
+left inferior cerebellar,anatomy,25,Left hemisphere of cerebellum,0.7945455864796017
+cavum vergae,anatomy,25,Cuneus,0.44864551995079593
+maxillofacial,anatomy,25,Face,0.7756654895239945
+overlying soft tissues,anatomy,25,Superficial fascia,0.6774821181832165
+left inferior frontal gyrus,anatomy,25,Left inferior frontal gyrus,0.9952253802387608
+bony orbital structures,anatomy,25,Orbital compartment,0.7947282145354674
+disc spaces,anatomy,25,Set of anatomical spaces,0.6649808163168467
+remainder the brain,anatomy,25,Brain,0.8539835353471148
+posterior left maxillary sinus,anatomy,25,Left maxillary sinus,0.9098633246643928
+planum sphenoidale,anatomy,25,Greater wing of sphenoid,0.8017284617739627
+optic nerve sheath complexes,anatomy,25,Optic nerve-tract complex,0.8811892860635726
+right frontal subcortical white matter,anatomy,25,White matter of right frontal lobe,0.8994182930519778
+extra axial spaces,anatomy,25,Subarachnoid space,0.7411776572007283
+resection site,anatomy,25,Organ segment,0.6550859167665023
+inferior left temporal lobe,anatomy,25,Left temporal lobe,0.9339298794205526
+hemorrhage,anatomy,25,Anatomical orifice,0.3637535161529326
+calvarium / soft tissues,anatomy,25,Calvarium,0.674218176891699
+sinuses / mastoids,anatomy,25,Mastoid antrum,0.8109974516446257
+anterior aspect,anatomy,25,Anterior pole of eyeball,0.684875082193567
+c3-c4,anatomy,25,Craniocervical region,0.5259872607462392
+right parietal skull,anatomy,24,Right parietal bone,0.901381588915523
+right ear,anatomy,24,Right ear,0.9988384085849541
+left posterior frontal region,anatomy,24,Left frontalis,0.826344235375626
+retro cerebellar,anatomy,24,Cerebellar medulla,0.7471323892885919
+cranial,anatomy,24,Skull,0.8960962907636575
+right periorbital region,anatomy,24,Right peri-orbital region of face,0.9203510265742234
+parietal bone,anatomy,24,Parietal bone,0.9968467033859046
+left ica terminus,anatomy,24,Left insular artery,0.5624724960160115
+lateral right frontal lobe,anatomy,24,Right frontal lobe,0.9390205677063442
+posterior left sphenoid sinus,anatomy,24,Left sphenoidal sinus,0.9271316974694636
+submandibular glands,anatomy,24,Submandibular gland,0.9728350898376668
+left pca distribution,anatomy,24,Posteromedial central branch of left posterior cerebral artery,0.5425199350242979
+left sphenoid wing,anatomy,24,Left greater wing of sphenoid,0.9436270876585298
+bilateral globes,anatomy,24,Right eyeball,0.8033986161013682
+stomach,anatomy,24,Gingiva,0.4832164504546417
+anterior parietal lobes,anatomy,24,Parietal lobe,0.8735020052491993
+bones soft tissues,anatomy,24,Irregular bone,0.7778060603824577
+right globus pallidus,anatomy,24,Right thalamus,0.7113733841687642
+right mastoid air cell,anatomy,24,Mastoid air cell of right temporal bone,0.9406024023098073
+cerebral peduncle,anatomy,24,Cerebral peduncle,0.9920383926514704
+biparietal,anatomy,24,Parietal tuber,0.48000521497921134
+para falcine,anatomy,24,Solitary tract,0.42248012624455966
+anterior cerebral artery,anatomy,24,Anterior cerebral artery,0.9992504726519345
+c[date],anatomy,23,Cuneus,0.33509969846192433
+bridge of the nose,anatomy,23,Tip of nose,0.8021444501635157
+anterior right ethmoid air cell,anatomy,23,Right anterior ethmoidal cell,0.93599784302224
+left inferior cerebellum,anatomy,23,Left hemisphere of cerebellum,0.8488310024090235
+anterior frontal lobe,anatomy,23,Frontal lobe,0.9529232849779375
+lens,anatomy,23,Lens,0.9995189591119541
+posterior horn of the right lateral ventricle,anatomy,23,Body of right lateral ventricle,0.8213813170317328
+right parieto-occipital scalp,anatomy,23,Right occipital zone of scalp,0.9087735416307825
+right division of the sphenoid sinus,anatomy,23,Right sphenoidal sinus,0.8868311853631072
+posterior limb left internal capsule,anatomy,23,Capsule of left lens,0.6896394797687129
+left occipital skull,anatomy,23,Left lateral part of occipital bone,0.8564008538649702
+left occiput,anatomy,23,Left occipitalis,0.7971051304662107
+posterior right parietal region,anatomy,23,Right parietal part of head,0.8436571292511278
+catheter,anatomy,23,External acoustic tube,0.5141099093613665
+bilateral corona radiata,anatomy,23,Dentatothalamic tract,0.5154724476780423
+right medial orbital,anatomy,23,Medial wall of right orbit,0.8615551745593184
+lenses,anatomy,23,Lens,0.9622891974457136
+superior cerebellum,anatomy,23,Cerebellum,0.9195748709390998
+posterior left lateral ventricle,anatomy,23,Left lateral ventricle,0.892192216099307
+visualized bones,anatomy,23,Flat bone,0.6401632665326673
+subdural collection,anatomy,23,Subdural space,0.7311839891975136
+right aca territory,anatomy,23,Right marginal sulcus,0.5443211251027189
+right parietal lobes,anatomy,23,Right parietal lobe,0.9662478776019585
+orbital floors,anatomy,23,Floor of left orbit,0.7877280199594192
+right cerebral,anatomy,23,Right cerebral hemisphere,0.909158723974982
+cavernous internal carotid,anatomy,23,Cavernous branch of internal carotid artery,0.8548032397559505
+left lateral convexity,anatomy,23,Left lateral sulcus,0.6866723732606367
+left superior cerebellum,anatomy,23,Left hemisphere of cerebellum,0.8843849371180654
+left thalamic nucleus,anatomy,23,Left thalamus,0.8659276452724176
+parapharyngeal spaces,anatomy,23,Peripharyngeal space,0.8887784765903003
+left temporal scalp,anatomy,23,Left temporal zone of scalp,0.9238696527373947
+anterior arch of c1,anatomy,23,Cervical part of internal carotid artery,0.656488955231222
+extra-ocular muscles,anatomy,23,Extra-ocular muscle,0.9826481005437359
+right jugular bulb,anatomy,23,Superior bulb of right internal jugular vein,0.8380945738858311
+vertebral bodies,anatomy,23,Axial skeletal system,0.5830554052812391
+inferior cerebellum,anatomy,23,Cerebellum,0.8653969280978039
+subcortical right frontal lobe,anatomy,23,Right frontal lobe,0.9085932316445863
+floor of the left maxillary sinus,anatomy,23,Left maxillary sinus,0.7737138178751548
+underlying brain parenchyma,anatomy,23,Cardinal segment of brain,0.7962695434815654
+right thalamic nucleus,anatomy,23,Right thalamus,0.8431706960241053
+right frontal horn of the lateral ventricle,anatomy,22,Frontal horn of right lateral ventricle,0.908210370251168
+left frontal subcortical white matter,anatomy,22,White matter of left frontal lobe,0.8884252542738632
+sinus walls,anatomy,22,Paranasal sinus,0.7050316300488693
+prepontine cistern,anatomy,22,Pontine cistern,0.7366562562805681
+paraspinal,anatomy,22,Axial skeletal system,0.6693595229902781
+hilar,anatomy,22,Lobular organ,0.5980101743390482
+frontal horn left lateral ventricle,anatomy,22,Frontal horn of left lateral ventricle,0.9483981741367248
+cingulate gyrus,anatomy,22,Cingulate sulcus,0.7825308716821688
+anterior third ventricle,anatomy,22,Third ventricle,0.883306334372412
+internal cerebral veins,anatomy,22,Internal cerebral vein,0.9858026373937976
+left cerebellar peduncle,anatomy,22,Cerebellar peduncle,0.8592516802068181
+third ventricular,anatomy,22,Third ventricle,0.9228248889545376
+frontal skull,anatomy,22,Frontal bone,0.8970455226091171
+facets,anatomy,22,Midface,0.550220500315696
+parietal cortex,anatomy,22,Cortex of parietal lobe,0.9205878950829076
+remaining brain parenchyma,anatomy,22,Cardinal segment of brain,0.7627324253600521
+temporoparietal region,anatomy,22,Superior temporal gyrus,0.6716286128213628
+high right parietal,anatomy,22,Right parietal part of head,0.6963731440321775
+adjacent brain,anatomy,22,Brain,0.8281662060560087
+high right parietal region,anatomy,22,Right parietal part of head,0.787781336603625
+right sphenoid sinus cell,anatomy,22,Right sphenoidal sinus,0.8018291241717282
+right inferior cerebellum,anatomy,22,Right hemisphere of cerebellum,0.8507063508667545
+left aca territory,anatomy,22,Left marginal sulcus,0.5055695309523968
+left posterior ethmoid air cells,anatomy,22,Left posterior ethmoidal cell,0.9138092419026894
+posterior frontal lobes,anatomy,22,Frontal lobe,0.9355093305717334
+scalp vessel,anatomy,22,Scalp,0.7740449461031799
+posterior limb right internal capsule,anatomy,22,Capsule of right lens,0.6674606742523301
+frontal convexities,anatomy,22,Frontal crest,0.7833829404451034
+inferior right frontal,anatomy,22,Right side of frontal bone,0.8139554221291463
+bilateral parietal lobes,anatomy,22,Left parietal lobe,0.8524935054011971
+otic capsule,anatomy,22,External acoustic tube,0.6859719150446837
+right temporal lobes,anatomy,22,Right temporal lobe,0.9848142039213305
+ventricles sulci,anatomy,22,Central sulcus,0.6526990409736135
+right frontal lobe white matter,anatomy,22,White matter of right frontal lobe,0.9459591689849884
+left lentiform nuclei,anatomy,22,Nucleus of left lens,0.7789922716935104
+nasal arch,anatomy,22,Lateral half of nose,0.8269644795456972
+pericardial,anatomy,22,Pericardial tributary of accessory hemiazygos vein,0.5306111733700634
+mastoid tip,anatomy,22,Right mastoid process,0.7516890612970796
+sigmoid plate,anatomy,22,Sigmoid sinus,0.5479287020186431
+caudate heads,anatomy,22,Wall of cerebral aqueduct,0.5401793539905184
+right cerebellopontine angle,anatomy,22,Right hemisphere of cerebellum,0.7230032662667272
+right frontotemporal lobe,anatomy,22,Right frontal lobe,0.8141762089776835
+petrous apex,anatomy,22,Petrous part proper of temporal bone,0.8037579927767485
+c[date] articulation,anatomy,22,Occipital condyle,0.3851680649443664
+subcutaneous soft tissues,anatomy,22,Superficial fascia,0.8428387219780931
+left frontal lobe white matter,anatomy,22,White matter of left frontal lobe,0.9482017037728642
+right petrous apex,anatomy,22,Petrous part of right temporal bone,0.8364441283729037
+left ventricular,anatomy,21,Left lateral ventricle,0.6982104229788677
+mid left cerebellum,anatomy,21,Left hemisphere of cerebellum,0.8350463048767516
+left mca m1 segment,anatomy,21,Left mammillary artery,0.6343910388299417
+cerebellar cortical,anatomy,21,Cerebellar cortex,0.9272926906886683
+left temporal fossa,anatomy,21,Left temporal fossa,0.9934218156677861
+posterior aspect of the left maxillary sinus,anatomy,21,Left maxillary sinus,0.7754013434374922
+right lateral scalp,anatomy,21,Right temporal zone of scalp,0.8400684745794819
+left frontal horn of the lateral ventricle,anatomy,21,Frontal horn of left lateral ventricle,0.9290985700889332
+vergae,anatomy,21,Vermilion,0.5226757638927968
+right caudate body,anatomy,21,Juxtarestiform body,0.5761390145458573
+transtentorial,anatomy,21,Temporal lobe,0.728404057868232
+left parietal vertex,anatomy,21,Left parietal part of head,0.7180420286740813
+right occipital lobes,anatomy,21,Right occipital lobe,0.9733737741270384
+right insular,anatomy,21,Right insular artery,0.6683211894933782
+anterior right parietal lobe,anatomy,21,Right parietal lobe,0.9174414364920873
+right carotid terminus,anatomy,21,Right common carotid artery,0.7643489104075134
+parotid glands,anatomy,21,Parotid gland,0.9837550155612885
+left inferior basal ganglia,anatomy,21,Left thalamus,0.7095255025212143
+left superior cerebellar,anatomy,21,Left hemisphere of cerebellum,0.8602501731763837
+right sphenoid wing,anatomy,21,Right greater wing of sphenoid,0.9364488208797933
+diploic space,anatomy,21,Mucosa of malleus,0.6901064654234511
+right parietooccipital,anatomy,21,Right occipitalis,0.7590143334900742
+appendix,anatomy,21,Organ cluster,0.4665992664546885
+anterior margin,anatomy,21,Supra-orbital margin,0.7010651621532963
+posterior temporal,anatomy,21,Temporal part of head,0.7956872945526721
+cerebellar hemisphere,anatomy,21,Cerebellar cortex,0.90515564845594
+posterior horns of the lateral ventricles,anatomy,21,Occipital horn of lateral ventricle,0.8051083945524791
+left subinsular,anatomy,21,Left substantia nigra,0.6114075602613626
+right aca,anatomy,21,Right prefrontal artery,0.5881642105211672
+right tentorium cerebelli,anatomy,21,Tentorium cerebelli,0.7900391652224886
+right frontal sinuses,anatomy,21,Right frontal sinus,0.9678889959607916
+aca,anatomy,21,Amiculum,0.4604972712722638
+right lentiform nuclei,anatomy,21,Nucleus of right lens,0.7966720146080772
+inferior right temporal lobe,anatomy,21,Right temporal lobe,0.922205186584001
+right temporoparietal lobe,anatomy,21,Right parietal lobe,0.7819898476401583
+medial walls,anatomy,21,Wall of organ,0.6821969066410672
+left mandibular condyle,anatomy,21,Left condylar process of mandible,0.8958909421911061
+posterior left lentiform nucleus,anatomy,21,Sublentiform nucleus,0.7398676311684396
+right frontal parietal lobe,anatomy,21,Right frontal lobe,0.9075452614759393
+posterior ethmoid air cell,anatomy,21,Left posterior ethmoidal cell,0.8471733228619598
+upper neck,anatomy,21,Craniocervical region,0.7068437927962681
+right zygoma,anatomy,21,Right zygomatic bone,0.8955806620901372
+infundibulum,anatomy,20,Amiculum,0.48872784354953924
+sulcal prominence,anatomy,20,Central sulcus,0.7562162933861282
+left frontal sinuses,anatomy,20,Left frontal sinus,0.973391587976859
+gray and white matter,anatomy,20,White matter of neuraxis,0.8421596030595863
+right ica terminus,anatomy,20,Right insular artery,0.5588033154590922
+right anterior frontal,anatomy,20,Right frontal pole,0.8492609033043361
+left parietooccipital,anatomy,20,Left occipitalis,0.739554174890465
+bilateral white matter,anatomy,20,White matter of left cerebral hemisphere,0.8076990296596188
+left basil ganglia,anatomy,20,Artery of left semilunar ganglion,0.6688562220170948
+ventricular volume,anatomy,20,Inferior ventricular vein,0.5830374122097814
+parafalcine region,anatomy,20,Frontal zone of longitudinal fissure,0.5713987522267043
+right operculum,anatomy,20,Right insula,0.6876031022074457
+frontotemporal,anatomy,20,Prefrontal cortex,0.6649361878200337
+region,anatomy,20,Organ region cluster,0.746927961629632
+bilateral basal ganglia regions,anatomy,20,Right thalamus,0.6450031942522555
+axial,anatomy,20,Axial skeletal system,0.5185600762151771
+anterior temporal lobes,anatomy,20,Temporal lobe,0.9286495561506783
+left vertebral,anatomy,20,Spinal branch of left vertebral artery,0.6626314937790201
+cavum septum,anatomy,20,Gracile fasciculus,0.5715760692289287
+posterior left parietal scalp,anatomy,20,Left parietal zone of scalp,0.9010616046701746
+superior right frontal lobe,anatomy,20,Right frontal lobe,0.9583504536575217
+parieto-occipital,anatomy,20,Occipital part of head,0.696793438650719
+left extra-axial,anatomy,20,Anterior branch of left posterior spinal artery,0.5563981841872679
+right calvarium,anatomy,20,Calvarium,0.7926450570073108
+left mca bifurcation,anatomy,20,Left mammillary artery,0.6306687454885999
+left tmj,anatomy,20,Left temporomandibular joint,0.873812729360362
+vertebral body,anatomy,20,Axial skeletal system,0.5974950908572286
+right sphenoid sinuses,anatomy,20,Right sphenoidal sinus,0.9714050596103472
+right mastoid region,anatomy,20,Right mastoid part of head,0.9518495617867532
+right frontal area,anatomy,20,Right frontal pole,0.8604829387375198
+right anterior basal ganglia,anatomy,20,Right thalamus,0.715205363096799
+underlying left frontal bone,anatomy,20,Left side of frontal bone,0.9272152420045823
+right midbrain,anatomy,20,Right side of midbrain,0.955560214891851
+right cingulate gyrus,anatomy,20,Right cingulate sulcus,0.8307037389474075
+right parotid,anatomy,20,Right parotid gland,0.929606448753694
+posterior parietal scalp,anatomy,20,Parietal zone of scalp,0.8586542090925562
+left holo hemispheric,anatomy,20,Left half of hypothalamus,0.6589754985501276
+c1-c2 articulation,anatomy,20,Set of joints of head,0.6163915086764835
+right superior convexity,anatomy,20,Right superior rostral sulcus,0.5749623479496844
+right pica territory,anatomy,20,Right angular gyrus,0.49196970339094404
+precentral gyrus,anatomy,20,Precentral gyrus,0.9842720381846771
+c2,anatomy,20,Craniocervical region,0.4271168400041171
+anterior left ethmoid air cell,anatomy,20,Left anterior ethmoidal cell,0.9244286588790636
+posterior right maxillary sinus,anatomy,20,Right maxillary sinus,0.9112969196305252
+lateral left thalamus,anatomy,20,Left thalamus,0.9289900371716864
+right occiput,anatomy,20,Right occipitalis,0.8079898734264808
+medial left parietal lobe,anatomy,19,Left parietal lobe,0.8461882526631125
+right parietal occipital,anatomy,19,Right occipital lobe,0.8319038721126706
+posterior c1 ring,anatomy,19,Posterior lens,0.49351624148600326
+anterior falx cerebri,anatomy,19,Falx cerebri,0.8414280204269724
+posterior right scalp,anatomy,19,Right occipital zone of scalp,0.8642621357478307
+nasal bridge,anatomy,19,External nose,0.8201443984682827
+left anterior frontal,anatomy,19,Left frontal pole,0.8430085019084744
+left posterior ethmoid,anatomy,19,Left ethmoidal sinus,0.8665369995606994
+anterior right basal ganglia,anatomy,19,Right insula,0.7026825525249022
+anterior sphenoid sinus,anatomy,19,Sphenoidal sinus,0.875279879865435
+anterior wall of the right maxillary sinus,anatomy,19,Right maxillary sinus,0.8276079208637194
+right convexities,anatomy,19,Right angle of mouth,0.592803084308855
+4th ventricles,anatomy,19,Fourth ventricle,0.9157499104086776
+inferior left cerebellar hemisphere,anatomy,19,Left hemisphere of cerebellum,0.8720121465432086
+periorbital soft tissues,anatomy,19,Superficial fascia of eyelid,0.7736200776542236
+genu of the internal capsule,anatomy,19,Capsule of lens,0.653514763488945
+sphenoid bone,anatomy,19,Sphenoid bone,0.9971894543655857
+hard palate,anatomy,19,Hard palate,0.9924069332850611
+lateral right thalamus,anatomy,19,Right thalamus,0.9339429302417025
+left frontal vertex,anatomy,19,Left side of frontal bone,0.792174845270813
+both cerebral convexities,anatomy,19,Left cerebral crus,0.7209796418237855
+posterior right lentiform nucleus,anatomy,19,Nucleus of right lens,0.7685649214309905
+facial sinuses,anatomy,19,Paranasal sinus,0.867402868711505
+right anterior ethmoid air cells,anatomy,19,Right anterior ethmoidal cell,0.8959384184761429
+orbital rims,anatomy,19,Lateral wall of orbit,0.7790555924983762
+periphery,anatomy,19,Organ cluster,0.6633212448070167
+large vessel,anatomy,19,Systemic artery,0.5414869621029929
+anterior inferior right frontal lobe,anatomy,19,Right frontal lobe,0.8804807807291167
+left zygoma,anatomy,19,Left zygomatic bone,0.905373360353342
+adrenal glands,anatomy,19,Organ component gland,0.703716979220363
+parietal convexities,anatomy,19,Parietal zone of longitudinal fissure,0.6531078764522722
+base of the right maxillary sinus,anatomy,19,Right maxillary sinus,0.8192912454874838
+adenoid,anatomy,19,Palatine tonsil,0.8164993819387433
+cerebral cortex,anatomy,19,Cerebral cortex,0.9956297174606289
+high right frontoparietal region,anatomy,19,Right frontal lobe,0.6579405184658025
+cortical surface,anatomy,19,Cerebral cortex,0.7262292480738853
+posterior right temporal,anatomy,19,Right temporal part of head,0.8622024142387782
+anterior right lentiform nucleus,anatomy,19,Nucleus of right lens,0.7622478222789972
+subcortical regions,anatomy,19,Subcortical gray matter,0.817790325259688
+thyroid gland,anatomy,19,Superior thyroid artery,0.6563823310259046
+ambient cistern,anatomy,19,Superior cistern,0.8597029149416042
+visualized skull,anatomy,19,Skull,0.7289260247532126
+right posterior ethmoid air cells,anatomy,19,Right posterior ethmoidal cell,0.9097948071455446
+right face,anatomy,19,Right side of face,0.9153499002798454
+defect,anatomy,19,Anatomical orifice,0.5555270446234944
+right superior cerebellar,anatomy,19,Right hemisphere of cerebellum,0.8753388643719986
+left lateral orbital wall,anatomy,19,Medial wall of left orbit,0.8567528893439798
+cribriform plate,anatomy,19,Cribriform plate,0.9719820391625202
+posterior right parietal scalp,anatomy,19,Right parietal zone of scalp,0.9061405167001387
+left petrous apex,anatomy,19,Petrous part of left temporal bone,0.8318626438148019
+c1 ring,anatomy,19,Subdural space of parietal region,0.4807226220819296
+left temporal parietal lobe,anatomy,19,Left temporal lobe,0.8844533508612482
+overlying cortex,anatomy,19,Cortex of occipital lobe,0.7860455687340141
+lateral masses of c1,anatomy,19,His' perivascular space,0.4756107203014357
+right mandibular condyle,anatomy,19,Right condylar process of mandible,0.9157281037477004
+petrous air cells,anatomy,19,Mastoid air cell,0.8251606391382569
+tegmen,anatomy,19,Tegmen tympani,0.539764918138503
+right cerebrum,anatomy,19,Right cerebral hemisphere,0.8741106285980035
+lateral wall of the right orbit,anatomy,18,Medial wall of right orbit,0.8884062866496389
+both occipital lobes,anatomy,18,Left occipital lobe,0.8212804930772956
+right frontal pole,anatomy,18,Right frontal pole,0.9896841514077205
+subinsular,anatomy,18,Region of submucosa,0.5886302104292102
+mass,anatomy,18,Lens fiber mass,0.6036052191831097
+left sphenoid sinus cell,anatomy,18,Left sphenoidal sinus,0.8097234390173701
+right posterior convexity scalp,anatomy,18,Right occipital zone of scalp,0.7939139748134915
+anterior limb of the left external capsule,anatomy,18,Capsule of left lens,0.6794783572343813
+lenses of the globes,anatomy,18,Lens,0.8852918163045854
+left paranasal sinuses,anatomy,18,Left maxillary sinus,0.8806635404302213
+cerebellar vermian,anatomy,18,Vermis of cerebellum,0.9038412070804838
+right white matter,anatomy,18,White matter of right cerebral hemisphere,0.8799626417074
+left occipital cortical,anatomy,18,Cortex of left occipital lobe,0.8762227158359872
+mid right cerebellum,anatomy,18,Right hemisphere of cerebellum,0.8766590064452376
+left posterior cerebral artery distribution,anatomy,18,Left posterior cerebral artery,0.9485684694895393
+outer table of the skull,anatomy,18,Set of bones of skull,0.6547230417993046
+posterior cranial fossa,anatomy,18,Subarachnoid fossa,0.7894091787603437
+left face,anatomy,18,Left side of face,0.8977588227606101
+lateral to the left orbit,anatomy,18,Medial wall of left orbit,0.7804107391793682
+inferior cerebellar,anatomy,18,Cerebellar medulla,0.8322561995063955
+visualized left maxillary sinus,anatomy,18,Left maxillary sinus,0.8092135243567783
+mastoid region,anatomy,18,Mastoid part of head,0.9201868175566984
+right frontal lobes,anatomy,18,Right frontal lobe,0.9881345863929161
+radiating white matter tracts,anatomy,18,Tract of neuraxis,0.7163072804946887
+frontal horn of right lateral ventricle,anatomy,18,Frontal horn of right lateral ventricle,0.9698060490140648
+cavernous segment of the carotid arteries,anatomy,18,Cavernous branch of internal carotid artery,0.9117003230939298
+frontal horn of left lateral ventricle,anatomy,18,Frontal horn of left lateral ventricle,0.9798389376654302
+left side of the tentorium,anatomy,18,Tentorium cerebelli,0.6347037005248102
+left upper lobe,anatomy,18,Left parietal lobe,0.6089160721863649
+right basil ganglia,anatomy,18,Artery of right semilunar ganglion,0.6796525009791637
+left orbital roof,anatomy,18,Roof of left orbit,0.9358287046770409
+trachea,anatomy,18,Tracheal vein,0.6915431313278806
+paravertebral soft tissues,anatomy,18,Axial skeletal system,0.5626642658991902
+right superior orbital rim,anatomy,18,Medial wall of right orbit,0.8213229749732155
+white matter vascular,anatomy,18,White matter of neuraxis,0.7355382829065357
+posterior aspect of the right maxillary sinus,anatomy,18,Right maxillary sinus,0.8309868366849334
+airway,anatomy,18,Nasopharynx,0.6465328808840475
+right inferior frontal gyrus,anatomy,18,Right inferior frontal gyrus,0.9959124713588164
+right sphenoid sinus air cell,anatomy,18,Right anterior ethmoidal cell,0.7668094890804887
+medial aspect of the left occipital lobe,anatomy,18,Left medial occipitotemporal gyrus,0.8449043115658265
+dural margins,anatomy,18,Region of dura mater,0.7913186901284287
+visualized nasopharynx,anatomy,18,Nasopharynx,0.6471652495883969
+neural foramina,anatomy,18,Portion of neural tissue,0.6668559104663907
+left anterior cerebral artery,anatomy,18,Left anterior cerebral artery,0.9976624965838579
+corticomedullary interface,anatomy,18,Membrane organ,0.5644723467982913
+appearance,anatomy,18,Face,0.6104852649774197
+pleural,anatomy,18,Serous sac,0.600711601348684
+retro-orbital fat,anatomy,18,Orbital fat body,0.8309533879394897
+left tympanic membrane,anatomy,18,Left tympanic membrane,0.9795472371338468
+posterior parietal regions,anatomy,18,Cortex of parietal lobe,0.7575170142214899
+external ear canals,anatomy,18,External ear,0.8719447460721097
+posterior apex,anatomy,18,Apex of pinna,0.6006118016377524
+inferior basal ganglia,anatomy,18,Sublentiform nucleus,0.6999694675009651
+facial soft tissue structures,anatomy,18,Superficial fascia of face,0.8131065838922424
+frontoethmoidal recess,anatomy,18,Fronto-orbital sulcus,0.6849261125980878
+lobar,anatomy,18,Lobule,0.7785275789412917
+subcortical region,anatomy,17,Subcortical gray matter,0.8251000695512954
+right temporal pole,anatomy,17,Right temporal fossa,0.822059591646397
+visualized right maxillary sinus,anatomy,17,Right maxillary sinus,0.8068757991049755
+pineal region,anatomy,17,Pineal body,0.8157543811485234
+pituitary sella,anatomy,17,Sella turcica,0.9216426005920878
+facial nerve canal,anatomy,17,Neural network of face,0.6944162200468801
+left frontal pole,anatomy,17,Left frontal pole,0.9981140024789781
+right middle cerebellar peduncle,anatomy,17,Right base of midbrain peduncle,0.8073188625876639
+subinsular region,anatomy,17,Retrobulbar space,0.6069643592073456
+right tmj,anatomy,17,Right temporomandibular joint,0.8786758343262862
+medial orbital,anatomy,17,Medial wall of left orbit,0.7900350282459828
+bilateral lentiform nuclei,anatomy,17,Sublentiform nucleus,0.7145888086010018
+mega cisterna magna,anatomy,17,Superior cistern,0.7966915584953381
+either orbit,anatomy,17,Right orbital cavity,0.7483015235912333
+inferior maxillary sinuses,anatomy,17,Maxillary sinus,0.8484435574531529
+visualized orbit,anatomy,17,Orbital cavity,0.728559452330603
+both occipital horns,anatomy,17,Occipital protuberance,0.6802744985118835
+right posterior approach,anatomy,17,Posterior branch of right posterior spinal artery,0.5305443087493291
+left posterior convexity scalp,anatomy,17,Left occipital zone of scalp,0.7916929247915468
+outer table,anatomy,17,Cribriform plate,0.40883285686471094
+parietal calvarium,anatomy,17,Calvarium,0.7811686885338938
+posterior left hemisphere,anatomy,17,Left cerebral hemisphere,0.8433750849573654
+right subdural space,anatomy,17,Subdural space,0.8464886791809842
+right upper lobe,anatomy,17,Right parietal lobe,0.623278050069416
+visible pharynx,anatomy,17,Velopharynx,0.7248615537515645
+sphenoid sinus regions,anatomy,17,Sphenoidal sinus,0.9338997010482435
+forehead scalp,anatomy,17,Scalp,0.8807402763423037
+inferior aspect of the right maxillary sinus,anatomy,17,Right maxillary sinus,0.8046361878633553
+right iac,anatomy,17,Right anterior cerebral artery,0.6532695696812838
+left cerebellopontine angle,anatomy,17,Horizontal fissure of cerebellum,0.6877913892931624
+posterior left basal ganglia,anatomy,17,Sublentiform nucleus,0.6825707427528491
+bilateral deep gray nuclei,anatomy,17,Gracile nucleus,0.6844153014424351
+right ethmoidal air cells,anatomy,17,Right anterior ethmoidal cell,0.8951188868843247
+ventricles vascular,anatomy,17,Cerebral ventricle,0.695519193634202
+c4 on c5,anatomy,17,Cervical branch of vertebral artery,0.44525100191625855
+posterior left maxillary antrum,anatomy,17,Left maxillary sinus,0.831559200584849
+inferior right cerebellar hemisphere,anatomy,17,Right hemisphere of cerebellum,0.8876707800671525
+occipital condyles,anatomy,17,Occipital condyle,0.9402137157271097
+right parietal occipital lobe,anatomy,17,Right occipital lobe,0.8848925833477258
+posterior right maxillary antrum,anatomy,17,Right maxillary sinus,0.8527242707943276
+vertebral basilar,anatomy,17,Trunk of basilar artery,0.617392400031818
+foramina monroe,anatomy,17,Right foramen spinosum,0.6143964559010969
+left preseptal,anatomy,17,Left precuneus,0.5900716312243618
+superior right cerebellum,anatomy,17,Right hemisphere of cerebellum,0.9058386304457607
+high left parietal scalp,anatomy,17,Left parietal zone of scalp,0.8181052345437911
+body of the corpus callosum,anatomy,17,Callosal sulcus,0.6203712815007256
+supratentorial ventricles,anatomy,17,Ventricular system of brain,0.8173396669123598
+anterior cerebral arteries,anatomy,17,Anterior cerebral artery,0.9908349948441281
+cerebral convexity,anatomy,17,Cerebral crus,0.7645692254512054
+both thalami,anatomy,17,Left thalamus,0.8552038861115412
+parietal bones,anatomy,17,Parietal bone,0.9673046995322201
+mediastinum,anatomy,17,Content of superior mediastinum,0.8518837699997067
+central cortical,anatomy,17,Cerebral cortex,0.8011397756681596
+lambdoid suture,anatomy,17,Lambdoid suture,0.9917776123856751
+tmjs,anatomy,17,Masseter,0.49407254367671394
+left frontotemporal lobe,anatomy,17,Inferomedial segment of left frontal lobe,0.7883057561074295
+inferior left frontal,anatomy,17,Left side of frontal bone,0.7876949316466214
+left anterior cranial fossa,anatomy,17,Left infratemporal fossa,0.7925684097944277
+gray white matter differentiation,anatomy,17,Gray matter of neuraxis,0.686056422583
+right inferior frontal,anatomy,17,Right side of frontal bone,0.8282260258304477
+midline falx,anatomy,17,Falx cerebri,0.5173666495532317
+incus,anatomy,17,Incus,0.9947330763715023
+vitreous,anatomy,17,Vitreous body,0.941693050441824
+posterior right frontal region,anatomy,17,Right frontal pole,0.8200171238872499
+bilateral vertebral arteries,anatomy,17,Left vertebral artery,0.89878224808398
+posterior aspect of the falx,anatomy,17,Falx cerebri,0.6739111995032584
+left frontal area,anatomy,17,Left frontal pole,0.8587834088873074
+oral cavity,anatomy,17,Cavity of mouth,0.9322514588917649
+left nasal passage,anatomy,17,Left nasal cavity,0.9351454174576975
+carotid canal,anatomy,17,Common carotid artery,0.8028034087689911
+vertex scalp,anatomy,16,Scalp,0.8636543050609465
+medial walls of the maxillary sinuses,anatomy,16,Mucosa of maxillary sinus,0.7785318726927449
+greater wing of the sphenoid,anatomy,16,Greater wing of sphenoid,0.9331192357867372
+left frontal calvarial,anatomy,16,Left temporal part of frontal bone,0.8124780417255323
+right frontotemporoparietal,anatomy,16,Right frontal pole,0.7044864259833118
+left frontoethmoidal recess,anatomy,16,Left frontal sinus,0.7529402724690694
+anterior wall of the left maxillary sinus,anatomy,16,Left maxillary sinus,0.8202649416067155
+anterior centra semiovale,anatomy,16,Right arcuate eminence,0.5608773834871819
+right ventricular,anatomy,16,Atrium of right lateral ventricle,0.6903933029555565
+right eac,anatomy,16,Right ear,0.7768908189064221
+cranial vertex,anatomy,16,Neurocranium,0.7068314036046335
+right preseptal,anatomy,16,Right pre-optic artery,0.6526833977011991
+left central sulcus,anatomy,16,Left central sulcus,0.9993199167670652
+right frontotemporal parietal,anatomy,16,Right parietal part of head,0.7520996003907602
+medial aspect,anatomy,16,Marginal sulcus,0.6566843536981894
+siphons,anatomy,16,Carotid siphon,0.5178971301585135
+remaining cerebrum,anatomy,16,Cerebral hemisphere,0.779355629837934
+left cerebrum,anatomy,16,Left cerebral hemisphere,0.8846133200081735
+lenticular nucleus,anatomy,16,Nucleus of lens,0.8352886415599294
+left-to-right midline,anatomy,16,Midline region of external nose,0.46490310439796423
+left lateral scalp,anatomy,16,Left temporal zone of scalp,0.8444543687092708
+gallbladder,anatomy,16,Organ cavity,0.44976386294808357
+bowel,anatomy,16,Organ cluster,0.5179417077950347
+meningeal surfaces,anatomy,16,White matter of posterior segment of left paracentral lobule,0.7729868549391715
+left tentorium cerebelli,anatomy,16,Tentorium cerebelli,0.8298226181605697
+vertebral basilar system,anatomy,16,Axial skeletal system,0.672835964052063
+right occipital cortex,anatomy,16,Cortex of right occipital lobe,0.9483249780523717
+medial temporal lobes,anatomy,16,Temporal lobe,0.8888204995417758
+proximal basilar artery,anatomy,16,Basilar artery,0.9373731996720414
+superior right temporal lobe,anatomy,16,Right temporal lobe,0.949732308770896
+venous,anatomy,16,Inferior anastomotic vein,0.6914953681433506
+left mid brain,anatomy,16,Left cerebral hemisphere,0.8009024096102193
+inner table of the right frontal bone,anatomy,16,Right side of frontal bone,0.7749888389956475
+intracranial carotid,anatomy,16,Internal carotid artery,0.8512112654026525
+level of the septum pellucidum,anatomy,16,Left half of septum pellucidum,0.6967848805479885
+visualized mastoids,anatomy,16,Left mastoid process,0.7538991889283381
+cava septum pellucidum,anatomy,16,Left half of septum pellucidum,0.7695273425154991
+left insular,anatomy,16,Left insular artery,0.684505422568444
+deep white matter regions,anatomy,16,Segment of white matter of neuraxis,0.8344248620693191
+deep white matter tracts,anatomy,16,Set of white matter structures of neuraxis,0.7963516872986419
+anterior right middle cranial fossa,anatomy,16,Right infratemporal fossa,0.785483743688975
+c7,anatomy,16,Craniocervical region,0.5565606643087498
+medial left thalamus,anatomy,16,Left thalamus,0.9114164798806085
+temporal tip,anatomy,16,Temporal zone of scalp,0.6512790858281716
+c4,anatomy,16,Cervical branch of vertebral artery,0.5407024291141473
+dermal,anatomy,16,Integumentary system,0.8400912922795497
+right posterior basal ganglia,anatomy,16,Right thalamus,0.7102494812645064
+both convexities,anatomy,16,Angle of mouth,0.5885639682641168
+posterior mid left cerebellum,anatomy,16,Left hemisphere of cerebellum,0.8165475334258404
+right cp angle,anatomy,16,Right angle of mandible,0.5637985323024749
+right frontoparietal convexity,anatomy,16,Right frontomarginal gyrus,0.6611585220619187
+disc space,anatomy,16,Set of anatomical spaces,0.6482330787942685
+left periorbital region,anatomy,16,Left peri-orbital region of face,0.9067378670052925
+medial left orbit,anatomy,16,Medial wall of left orbit,0.8853302615724373
+surgical cavity,anatomy,16,Organ cavity,0.7912905904974967
+anterior left maxillary sinus,anatomy,16,Left maxillary sinus,0.9318869427473978
+scleral,anatomy,16,Sclera,0.9601238680360086
+transverse ligament,anatomy,16,Sphenomandibular ligament,0.6815938219995529
+anterior septum pellucidum,anatomy,16,Left half of septum pellucidum,0.8229487529525028
+anterior aspect of the right temporal lobe,anatomy,16,Cortex of right temporal lobe,0.8485532295970812
+right skull base,anatomy,16,Neurocranium,0.7471643602373457
+attic,anatomy,16,Organ cavity,0.6961485857907532
+extreme capsule,anatomy,16,Capsule,0.822305189699677
+subjacent left cerebral hemisphere,anatomy,16,Left cerebral hemisphere,0.8324379045237948
+aditus ad antrum,anatomy,16,Olfactory gland,0.4875260627964674
+oval soft tissues,anatomy,16,Membrane organ,0.6464409147958231
+infarct,anatomy,16,Wall of artery,0.3796352252091151
+bone cortex,anatomy,16,Irregular bone,0.8225168527060691
+right cerebellar tonsil,anatomy,16,Right hemisphere of cerebellum,0.7390699956387009
+ordering clinician,anatomy,16,Male adult human body,0.35968370081617795
+right temporal occipital,anatomy,16,Right temporal part of head,0.8421064783528123
+left parietal occipital,anatomy,16,Left parieto-occipital sulcus,0.83081645642896
+medial temporal lobe,anatomy,16,Temporal lobe,0.8763611959433845
+left parietal occipital region,anatomy,16,Left parieto-occipital sulcus,0.8207117656060269
+posterior right basal ganglia,anatomy,16,Right thalamus,0.6945389068397854
+genu,anatomy,16,Irregular bone,0.48981842072038373
+anterior inferior left frontal lobe,anatomy,15,Left frontal lobe,0.8784574138202378
+frontoethmoidal recesses,anatomy,15,Fronto-orbital sulcus,0.6625766650672638
+subcortical deep white matter,anatomy,15,White matter of neuraxis,0.8069951120697109
+right partition of the sphenoid sinus,anatomy,15,Right sphenoidal sinus,0.8940555755685549
+prussak's space,anatomy,15,Mucosa of malleus,0.6486170172706727
+nasal turbinate,anatomy,15,Ethmoid,0.7507119376962589
+left-sided scalp,anatomy,15,Scalp,0.7655853373912461
+occipital calvarium,anatomy,15,Occipital bone,0.8117697916155914
+cst,anatomy,15,Temporal lobe,0.37895995567450813
+posterior right corona radiata,anatomy,15,Posteromedial central branch of right posterior cerebral artery,0.6154726831603307
+right frontoparietal lobes,anatomy,15,Right frontomarginal gyrus,0.8431318637988611
+sulcation,anatomy,15,Marginal sulcus,0.5020680755315354
+posterior convexity,anatomy,15,Angle of mouth,0.6054860153646883
+perimesencephalic cistern,anatomy,15,Basal cistern,0.8690036598023914
+right lateral orbital wall,anatomy,15,Medial wall of right orbit,0.8718226841089796
+transverse sinuses,anatomy,15,Transverse sinus,0.9698877543333788
+3rd ventricles,anatomy,15,Third ventricle,0.9150671437039183
+visualized portions,anatomy,15,Segment of lens,0.6478488355832092
+right posterior ethmoid,anatomy,15,Right ethmoidal sinus,0.8767793705429016
+bilateral caudate,anatomy,15,Wall of cerebral aqueduct,0.5151524593670764
+left inferior frontal,anatomy,15,Left side of frontal bone,0.8223347205597604
+left mandible,anatomy,15,Left ramus of mandible,0.8782595198597343
+right half of the sphenoid sinus,anatomy,15,Right sphenoidal sinus,0.9113255386185302
+anterior right frontal,anatomy,15,Right side of frontal bone,0.8391517486808078
+posterior aspect of the right lateral ventricle,anatomy,15,Right lateral ventricle,0.8365569054742532
+inferior mastoids,anatomy,15,Left mastoid process,0.8117458547350589
+kidneys,anatomy,15,Lobular organ,0.5052011417280173
+visualized vertebral arteries,anatomy,15,Vertebral artery,0.8146714774731474
+anterior limbs,anatomy,15,Cubital fossa,0.5643998417505618
+subfrontal,anatomy,15,Prefrontal cortex,0.6575546513463583
+paraspinal soft tissues,anatomy,15,Fasciculus of spinal cord,0.6210883995873866
+callosal angle,anatomy,15,Callosal sulcus,0.7202631252822029
+visualized orbital regions,anatomy,15,Set of eyes,0.736663414128096
+left anterior ethmoid,anatomy,15,Left ethmoidal sinus,0.8827443590046519
+enteric tubes,anatomy,15,Pharyngotympanic tube,0.604608700469373
+right anterior ethmoid,anatomy,15,Right ethmoidal sinus,0.894811071784525
+intraconal fat,anatomy,15,Fat body,0.6278997214662669
+sub insular,anatomy,15,Left insula,0.4867874039605504
+adjacent fourth ventricle,anatomy,15,Fourth ventricle,0.9448963074268659
+left subinsular region,anatomy,15,Left retrobulbar space,0.6339995152479779
+left cerebellar tentorium,anatomy,15,Tentorium cerebelli,0.7785448949704198
+left lobe,anatomy,15,Left parietal lobe,0.65128548375874
+subdural spaces,anatomy,15,Subdural space,0.9856376449328386
+disc,anatomy,15,Cribriform plate,0.5950509052254169
+left insular region,anatomy,15,Left insula,0.7607016838223429
+posterior calvarium,anatomy,15,Calvarium,0.8549232300891991
+transverse sinus,anatomy,15,Transverse sinus,0.997465291838453
+vermian,anatomy,15,Vermis of cerebellum,0.6648513190238531
+epidural space,anatomy,15,Spinal epidural space,0.975746440789432
+lateral left temporal lobe,anatomy,15,Left temporal lobe,0.9171477694964515
+left calvarial,anatomy,15,Calvarium,0.7667227469683391
+anterior middle cranial fossa,anatomy,15,Infratemporal fossa,0.7634421584075659
+musculoskeletal,anatomy,15,Musculature,0.5562619013511432
+posterior left corona radiata,anatomy,15,Posterior polar zone of lens,0.6127041087046802
+cortical sulcation,anatomy,15,Interlobar cerebral sulcus,0.6907181672248791
+superior left temporal lobe,anatomy,15,Left temporal lobe,0.9332253368529982
+cavernous internal carotid artery's,anatomy,15,Cavernous branch of internal carotid artery,0.9424611366629766
+high left frontoparietal region,anatomy,15,Left frontal lobe,0.6668514857096342
+right tympanic membrane,anatomy,15,Right tympanic membrane,0.9835506402659644
+cerebral hemispheric deep white matter,anatomy,15,White matter of telencephalon,0.8011665579934132
+eac,anatomy,15,Ear,0.581528000329068
+posterior right lateral ventricle,anatomy,15,Right lateral ventricle,0.9146590620337437
+right aspect of the pons,anatomy,15,Right side of brainstem,0.8071141936185613
+midline septum,anatomy,15,Zone of continuity,0.613940322818962
+left parietal skull,anatomy,15,Left parietal bone,0.9141099111348231
+mesial temporal,anatomy,15,Middle temporal gyrus,0.729786996344216
+superior left cerebellum,anatomy,15,Left hemisphere of cerebellum,0.8827606471765631
+left frontotemporal parietal,anatomy,15,Left parietal part of head,0.7330426927028562
+dural venous sinus,anatomy,15,Dural venous sinus,0.9893195480106781
+basal cistern,anatomy,14,Superior cistern,0.8102386879280529
+left posterior ethmoid air cell,anatomy,14,Left posterior ethmoidal cell,0.942328987680565
+high left frontal region,anatomy,14,Left side of frontal bone,0.7580432849777209
+left mastoid region,anatomy,14,Left mastoid part of head,0.9542003000442812
+axial plane,anatomy,14,Longitudinal fissure,0.5067546334864078
+cavernous carotid artery regions,anatomy,14,Cavernous branch of internal carotid artery,0.8779149805336642
+anterior frontal region,anatomy,14,Frontal part of head,0.8469343311076883
+venous structures,anatomy,14,Subdivision of superior systemic venous tree,0.6759357066262859
+epitympanum,anatomy,14,Middle ear,0.8119787086172973
+posterior interhemispheric fissure,anatomy,14,Cerebrocerebellar fissure,0.7874594927296907
+lateral orbital wall,anatomy,14,Lateral wall of orbit,0.9072515546676109
+left parietooccipital region,anatomy,14,Left parietal zone of scalp,0.7431933411812479
+skull base vasculature,anatomy,14,Vasculature of brain,0.842020524978051
+skull vertex,anatomy,14,Skull,0.8030843610334442
+craniotomy bone flap,anatomy,14,Bone of skull bone,0.5955351703880692
+anterior ethmoids,anatomy,14,Ethmoid,0.9238068970567396
+underlying white matter,anatomy,14,Segment of white matter of neuraxis,0.8660909643220283
+anterior right centrum semiovale,anatomy,14,Right arcuate eminence,0.6710385795577862
+right superior frontal,anatomy,14,Right side of frontal bone,0.8645256280415796
+right temporal parietal region,anatomy,14,Right temporal part of head,0.8275841572796641
+right side of the tentorium,anatomy,14,Right temporal fossa,0.6650281515699714
+mastoid air cells sinuses,anatomy,14,Mastoid air cell,0.8655176769675778
+mid left frontal lobe,anatomy,14,Left frontal lobe,0.8988725493367414
+left occipital calvarium,anatomy,14,Left lateral part of occipital bone,0.8174292108682742
+medial right thalamus,anatomy,14,Right thalamus,0.9226939639716343
+right lower lobe,anatomy,14,Right paracentral lobule,0.5273550227025648
+inferior right cerebellar,anatomy,14,Right hemisphere of cerebellum,0.8230950382938564
+right mca m1 segment,anatomy,14,Right middle cerebral artery,0.6153138563628291
+posterior left thalamus,anatomy,14,Left thalamus,0.9405077239885686
+posterior right cerebellum,anatomy,14,Right hemisphere of cerebellum,0.8958032528369994
+right lateral frontal lobe,anatomy,14,Right frontal lobe,0.9499516130742587
+anterior limb of the right external capsule,anatomy,14,Capsule of right lens,0.7111048747842192
+posterior margin,anatomy,14,Supra-orbital margin,0.6727400049406391
+subjacent sulci,anatomy,14,Central sulcus,0.7966263910598398
+parieto-occipital region,anatomy,14,Occipital part of head,0.7905097380587449
+intracranial blood pool,anatomy,14,Cavity of brain,0.7520581268106366
+bilateral parietal lobe,anatomy,14,Left parietal lobe,0.8827403972530635
+adrenals,anatomy,14,Organ component gland,0.5866330104674904
+right lateral ventricular,anatomy,14,Right lateral ventricle,0.9358044095678177
+left sphenoid air cell,anatomy,14,Left anterior ethmoidal cell,0.8138946399548042
+left lateral basal ganglia,anatomy,14,Left thalamus,0.7256081919704425
+eustachian tube,anatomy,14,Pharyngotympanic tube,0.8679118978033514
+urinary bladder,anatomy,14,Organ with organ cavity,0.43371111309259214
+hippocampus,anatomy,14,Hippocampal sulcus,0.808809079186462
+right brainstem,anatomy,14,Right side of brainstem,0.930963228938641
+subcortical periventricular deep white matter,anatomy,14,White matter of metencephalon,0.7285040588200073
+right sigmoid sinus,anatomy,14,Right sigmoid sinus,1.0
+both internal capsules,anatomy,14,Capsule of left lens,0.7605223355178535
+right temporal parietal lobe,anatomy,14,Right temporal lobe,0.9215510355358733
+right-to-left midline,anatomy,14,Midline region of external nose,0.47144852986434005
+occipital horns of lateral ventricles,anatomy,14,Occipital horn of lateral ventricle,0.9272244615226649
+right kidney,anatomy,14,Right retina,0.4896355289124892
+left-sided ethmoid air cells,anatomy,14,Left posterior ethmoidal cell,0.8572480594624791
+region of the third ventricle,anatomy,14,Third ventricle,0.8858964427039112
+left anterior basal ganglia,anatomy,14,Left thalamus,0.7185863115947405
+left deep gray matter nuclei,anatomy,14,Gray matter of left substantia nigra,0.7242266102677951
+right posterior ethmoid air cell,anatomy,14,Right posterior ethmoidal cell,0.9489855670886024
+right carotid siphon,anatomy,14,Right carotid siphon,0.9939509531587726
+upper pons,anatomy,14,Pons,0.8499696342706528
+anterior to the right frontal lobe,anatomy,14,Right frontal lobe,0.8848679960617429
+left parotid,anatomy,14,Left parotid gland,0.912283874818585
+cervical vertebral bodies,anatomy,14,Cervical branch of vertebral artery,0.610239102571291
+cervical vertebrae,anatomy,14,Axial skeletal system,0.6900222355924329
+posterior arch c1,anatomy,14,Posteromedial central branch of posterior communicating artery,0.6158291017627453
+posterior left scalp,anatomy,14,Left occipital zone of scalp,0.8463941747966182
+cardiomediastinal silhouette,anatomy,14,Pigmented layer of retina,0.4574859879437443
+occipital skull,anatomy,14,Occipital bone,0.9223108113001636
+inferior left cerebellar,anatomy,14,Left hemisphere of cerebellum,0.7911048583627812
+left carotid terminus,anatomy,14,Left carotid siphon,0.7568448012476797
+dural margin of the left vertebral artery,anatomy,14,Meningeal branch of left vertebral artery,0.7332238727453412
+right cerebellar tentorium,anatomy,14,Tentorium cerebelli,0.8059535120352455
+right paranasal sinuses,anatomy,14,Right maxillary sinus,0.8827967254553565
+bilateral inferior frontal,anatomy,14,Left frontalis,0.7252547529189123
+left iac,anatomy,14,Left anterior cerebral artery,0.680491695785582
+left temporal parietal region,anatomy,14,Left temporal part of head,0.8134446004922947
+colon,anatomy,14,Vein of foramen cecum,0.4486850974908826
+claustrum,anatomy,14,Precuneus,0.5798777492984063
+stapes,anatomy,14,Stapes,0.9997158489414147
+bilateral sphenoid sinus,anatomy,14,Right sphenoidal sinus,0.88623750031704
+high left parietal,anatomy,14,Left parietal part of head,0.7092849417577107
+right parietooccipital lobe,anatomy,14,Right occipital lobe,0.8854862314872487
+hypopharynx,anatomy,14,Velopharynx,0.8248113260916735
+subjacent ventricle,anatomy,14,Cerebral ventricle,0.7191920028108084
+quadrigeminal cistern,anatomy,14,Interpeduncular cistern,0.8287533101134719
+supraclinoid carotid arteries,anatomy,14,Subdivision of common carotid artery,0.7973488971762818
+left tentorial leaflet,anatomy,14,Temporal horn of left lateral ventricle,0.5790408207988785
+posterior body of the right lateral ventricle,anatomy,14,Body of right lateral ventricle,0.8862498344139563
+right deep white matter,anatomy,14,White matter of right cerebral hemisphere,0.8303591440205131
+left insular ribbon,anatomy,14,Left central insular sulcus,0.6237498079092623
+posterior skull,anatomy,14,Neurocranium,0.8238258127718414
+right anterior ethmoid air cell,anatomy,14,Right anterior ethmoidal cell,0.9257181863837816
+surface of the brain,anatomy,14,Cerebral hemisphere,0.724842316348744
+base of the left maxillary sinus,anatomy,14,Left maxillary sinus,0.8173144771218676
+lacrimal gland,anatomy,14,Lacrimal gland,0.9981976031528662
+c5,anatomy,14,Trunk of deep cervical vein,0.5655503148898464
+left side of the forehead,anatomy,14,Left side of frontal bone,0.773701534193672
+frontal cortex,anatomy,14,Cortex of frontal lobe,0.9445121867069213
+left aspect of the pons,anatomy,14,Gray matter of pons,0.6999245528590248
+left anterior ethmoid air cell,anatomy,13,Left anterior ethmoidal cell,0.9243307691408365
+high convexity,anatomy,13,Angle of mouth,0.5867386529143723
+bilateral internal carotid arteries,anatomy,13,Left internal carotid artery,0.9067599148510259
+left lateral temporal lobe,anatomy,13,Left temporal lobe,0.9308397169347709
+anterior falcine,anatomy,13,Frontal zone of longitudinal fissure,0.6888626257507864
+carina,anatomy,13,Epiglottis,0.5278777117711211
+vertex of the skull,anatomy,13,Subdivision of skull,0.782589021695273
+cervicomedullary junction,anatomy,13,Posterior commissure,0.613048343303199
+dentate nucleus,anatomy,13,Sublentiform nucleus,0.6906483874887542
+left posterior parietal cortex,anatomy,13,Cortex of left parietal lobe,0.8515713843311055
+catheter tip,anatomy,13,Carotid siphon,0.45112803184131756
+choroid,anatomy,13,Choroid,0.9977419229148585
+right maxillary region,anatomy,13,Right maxilla,0.8918337060921125
+splenium,anatomy,13,Splenial artery,0.5221263892643753
+right anterior convexity,anatomy,13,Right angle of mouth,0.6151428427938963
+left inferior cerebellar hemisphere,anatomy,13,Left hemisphere of cerebellum,0.8654564687925294
+blood products,anatomy,13,Portion of vitreous humor,0.335128032488468
+anterior ethmoid air cell,anatomy,13,Left anterior ethmoidal cell,0.8622178927770738
+left subinsular white matter,anatomy,13,White matter of left cerebral hemisphere,0.7403800683690483
+lateral left frontal lobe,anatomy,13,Left frontal lobe,0.921668509706309
+right caudate nucleus head,anatomy,13,Gray matter of right precuneus,0.5826029718986506
+anterior left lentiform nucleus,anatomy,13,Nucleus of left lens,0.7393215500223402
+posterior nasal cavity,anatomy,13,Nasal cavity,0.915287135278288
+right posterior frontal cortex,anatomy,13,Right frontal lobe,0.886690235587417
+occipital cortex,anatomy,13,Cortex of occipital lobe,0.9310480640814861
+left quadrigeminal plate cistern,anatomy,13,Lateral cerebellomedullary cistern,0.6922706410299472
+left lung,anatomy,13,Left paracentral lobule,0.4759115737584658
+inferior margin,anatomy,13,Supra-orbital margin,0.7042029610681956
+right-sided ethmoid air cells,anatomy,13,Right posterior ethmoidal cell,0.8525384144712249
+right lens,anatomy,13,Right lens,0.9986967385388523
+left vertex scalp,anatomy,13,Scalp,0.8116017639747172
+anterior nasal septum,anatomy,13,Nasal septum,0.9359390143575244
+left half of the sphenoid sinus,anatomy,13,Left sphenoidal sinus,0.9231945244104526
+superior margin,anatomy,13,Supra-orbital margin,0.764127161544755
+left frontal lobes,anatomy,13,Left frontal lobe,0.9862232439947847
+adjacent lateral ventricle,anatomy,13,Lateral ventricle,0.9439186797679644
+visualized facial bones,anatomy,13,Bone of skull bone,0.60539845667165
+occipital bones,anatomy,13,Occipital bone,0.9691448283429986
+supratentorial region,anatomy,13,Oral mucosa of hard palate,0.877413731849479
+posterior left frontal region,anatomy,13,Left frontal pole,0.8141755421634982
+left lateral ventricle frontal horn,anatomy,13,Frontal horn of left lateral ventricle,0.9502142272590688
+frontal sulci,anatomy,13,Superior frontal sulcus,0.8924104894224589
+right mca bifurcation,anatomy,13,Right middle cerebral artery,0.6433068290401188
+lung bases,anatomy,13,Lobule,0.49714113769182344
+temporoparietal,anatomy,13,Temporoparietalis,0.7155028635336741
+cerebral hemispheric,anatomy,13,Cerebral hemisphere,0.797606133527841
+chest,anatomy,13,Content of superior mediastinum,0.607388954146093
+right inferior basal ganglia,anatomy,13,Right thalamus,0.706371900798099
+negative skull,anatomy,13,Skull,0.689498799437874
+body,anatomy,13,Cardinal body part,0.7018557712750381
+supraclinoid internal carotid arteries,anatomy,13,Internal carotid artery,0.8516653178115903
+right extra-axial space,anatomy,13,Subarachnoid space,0.6332682750648905
+retrocerebellar,anatomy,13,Occipital lobe,0.6093866583319035
+anterior left parietal lobe,anatomy,13,Left parietal lobe,0.9052861247828885
+superior right maxillary antrum,anatomy,13,Right maxillary sinus,0.8770783851977035
+posterior right sphenoid sinus,anatomy,13,Right sphenoidal sinus,0.9309264921362647
+carotic siphons,anatomy,13,Carotid siphon,0.6462636063230097
+midline intracranial structures,anatomy,13,Cerebral crus,0.6523011865345798
+frontal and parietal lobes,anatomy,13,Frontal lobe,0.8781249896467559
+periphery of the basal ganglia,anatomy,13,Sublentiform nucleus,0.7050812648858049
+vertebrobasilar arteries,anatomy,13,Vertebral artery,0.879828609001071
+periventricular region,anatomy,13,Cerebral part of head,0.7401277190326618
+left ambient cistern,anatomy,13,Superior cistern,0.8442959736086106
+bilateral occipital horns,anatomy,13,Occipital protuberance,0.6752753707750482
+ossicular chain,anatomy,13,Set of auditory ossicles,0.8509236574019888
+intracranial compartment,anatomy,13,Cranial compartment,0.9073547944053305
+craniectomy,anatomy,13,Bone of skull bone,0.5931251397020757
+right parietal occipital region,anatomy,13,Right occipital lobe,0.8422011860410294
+left kidney,anatomy,13,Left retina,0.4774504339692147
+mastoid regions,anatomy,13,Mastoid part of head,0.9013536842661474
+adenoids,anatomy,13,Palatine tonsil,0.8314309126033805
+left m1 segment,anatomy,13,Muscular branch of left vertebral artery,0.535268415426197
+frontal periventricular white matter,anatomy,13,White matter of frontal lobe,0.8172764559242437
+suprasellar cisterns,anatomy,13,Basal cistern,0.8122307029732896
+bilateral cerebellar hemisphere,anatomy,13,Right hemisphere of cerebellum,0.8656935372515792
+cerebral hemisphere,anatomy,13,Cerebral hemisphere,0.9982172549599824
+middle ear ossicles,anatomy,13,Skeletal system of middle ear,0.8754801897995689
+central pontine,anatomy,13,Pontine tegmentum,0.8067207067514255
+posteromedial temporal lobe,anatomy,13,Temporal lobe,0.85432945163362
+posterior c1 arch,anatomy,13,Cervical part of vertebral artery,0.6446586669502102
+posterior left cerebellum,anatomy,13,Left hemisphere of cerebellum,0.8655360795702409
+anterior and posterior circulation,anatomy,13,Vasculature of eye,0.6720753264851007
+cord plexus,anatomy,13,Portion of neural tissue,0.6289949228848173
+anterior recess of the third ventricle,anatomy,13,Cavity of third ventricle,0.8503241428994844
+inferior rectus muscle,anatomy,13,Extra-ocular muscle,0.7071535187264352
+postseptal,anatomy,13,Pretectal region,0.5237189516925161
+anterior left lateral ventricle,anatomy,13,Left lateral ventricle,0.9105126927634083
+inner ear,anatomy,13,Bony labyrinth,0.88550917804634
+pelvic,anatomy,13,Organ cluster,0.5496791324571023
+right carotid siphon region,anatomy,13,Right carotid siphon,0.8736832555641598
+prussak space,anatomy,13,Mucosa of malleus,0.6997574681491264
+lateral margin,anatomy,13,Supra-orbital margin,0.6709673161975943
+lateral frontal lobe,anatomy,13,Frontal lobe,0.9336067578659724
+subdural hematoma,anatomy,13,Subdural space,0.5730048736738607
+anterior limbs of the internal capsules,anatomy,13,Capsule of anterior lens,0.6915209632544166
+anterior aspect of the left middle cranial fossa,anatomy,13,Left infratemporal fossa,0.7240280073854857
+lentiform,anatomy,13,Lens,0.6496303341424161
+right posterior parietal calvarium,anatomy,13,Right parietal bone,0.7891722608661923
+right occipital cortical,anatomy,13,Cortex of right occipital lobe,0.9032859199840911
+left convexities,anatomy,13,Angle of mouth,0.597464589385019
+frontal horn of the lateral ventricle,anatomy,13,Frontal horn of lateral ventricle,0.9571948889449992
+central canal,anatomy,13,Medulla part of central canal,0.8015287884854965
+carotid bifurcations,anatomy,13,Segment of common carotid artery,0.7453173341656715
+central sulcus,anatomy,13,Central sulcus,0.9994653477104394
+left sigmoid sinus,anatomy,13,Left sigmoid sinus,0.9963889194858945
+anterior left basal ganglia,anatomy,13,Left insula,0.6943033145179908
+lateral basal ganglia,anatomy,13,Sublentiform nucleus,0.678224856297229
+mid right frontal lobe,anatomy,13,Right frontal lobe,0.922266208588486
+nasal turbinates,anatomy,13,Nasal bone,0.7532217771284396
+posterior left temporal,anatomy,13,Left temporal part of head,0.8671938374652277
+anterior insula,anatomy,12,Left insula,0.8937583693734044
+left sphenoid sinus region,anatomy,12,Left sphenoidal sinus,0.9620588892509166
+inner table of the calvarium,anatomy,12,Calvarium,0.6674072849347598
+gyral,anatomy,12,Habenula,0.5335176879223368
+distal tip,anatomy,12,Tip of nose,0.6216933179208369
+cortical gray matter,anatomy,12,Subcortical gray matter,0.8772312277420303
+left superior orbital rim,anatomy,12,Medial wall of left orbit,0.814622357309021
+frontal convexity,anatomy,12,Frontal crest,0.7573000714954216
+anterior ethmoid sinus,anatomy,12,Anterior ethmoidal sinus,0.9840187659235287
+medial wall of the right maxillary sinus,anatomy,12,Right maxillary sinus,0.806174021333129
+encephalomalacia,anatomy,12,Brain,0.5147583883778181
+right lateral thalamus,anatomy,12,Right thalamus,0.9294942141624856
+bifrontal cortical,anatomy,12,Prefrontal cortex,0.8316318418864533
+anterior to the left frontal lobe,anatomy,12,Left frontal lobe,0.8501842706102101
+right m1 segment,anatomy,12,Right temporoparietalis,0.5323424174702408
+left frontal temporal lobe,anatomy,12,Left temporal lobe,0.9044986174864507
+right holohemispheric,anatomy,12,Right central retinal artery,0.45612815795126793
+right extra-axial,anatomy,12,Anterior branch of right posterior spinal artery,0.5673719400880749
+left anterior thalamus,anatomy,12,Left thalamus,0.9399652045103027
+left posterior falx,anatomy,12,Posterior segment of left paracentral lobule,0.6956316558254346
+superior right thalamus,anatomy,12,Right thalamus,0.9555242585911589
+lesion,anatomy,12,Atypical epithelium,0.5157984172656258
+pica territory,anatomy,12,Medullopontine sulcus,0.3608878609605607
+right lambdoid suture,anatomy,12,Lambdoid suture,0.8730284992573069
+right suboccipital scalp,anatomy,12,Right occipital zone of scalp,0.9036510388601873
+right thalamic region,anatomy,12,Right thalamus,0.9284125632445571
+nasogastric tube,anatomy,12,Pharyngotympanic tube,0.6578275315649152
+left thalamic region,anatomy,12,Left thalamus,0.940385273961243
+middle cerebellar peduncle,anatomy,12,Cerebellar peduncle,0.9138999910190815
+anterior corpus callosum,anatomy,12,Callosal sulcus,0.7098992504996264
+cavum velum interpositum,anatomy,12,Cistern of lamina terminalis,0.5710205116125993
+left temporal lobes,anatomy,12,Left temporal lobe,0.9879320778094414
+bladder,anatomy,12,Organ with organ cavity,0.40201146469413784
+right-sided ethmoid air cell,anatomy,12,Right posterior ethmoidal cell,0.8766565458065729
+right ambient cistern,anatomy,12,Superior cistern,0.8322925014905261
+anterior to the left temporal lobe,anatomy,12,Cortex of left temporal lobe,0.8492207050683993
+left forehead region,anatomy,12,Forehead,0.8221295779724113
+right temporal fossa,anatomy,12,Right temporal fossa,0.998384212049485
+iac,anatomy,12,Amiculum,0.4471300632731334
+pericallosal,anatomy,12,Pericallosal cistern,0.609386719729012
+posterior ethmoid,anatomy,12,Ethmoid,0.9473852486377875
+left uncus,anatomy,12,Left bony labyrinth,0.6306551424340919
+right sphenoid air cell,anatomy,12,Right anterior ethmoidal cell,0.824254442128482
+lower cervical spine,anatomy,12,Axial skeletal system,0.6317034550967707
+septum cavum pellucidum,anatomy,12,Left half of septum pellucidum,0.7988909953521216
+posterior parafalcine,anatomy,12,Posterior commissure,0.5083995014370064
+anterior ethmoid sinuses,anatomy,12,Anterior ethmoidal sinus,0.9801351268795534
+left cerebellar hemispheres,anatomy,12,Left hemisphere of cerebellum,0.9377106008904287
+visualized orbital structures,anatomy,12,Orbital cavity,0.7373936606488681
+adjacent skull,anatomy,12,Skull,0.8847845032208442
+underlying right cerebral hemisphere,anatomy,12,Right cerebral hemisphere,0.9543881592256368
+right anterior limb internal capsule,anatomy,12,Capsule of right lens,0.7034618455804317
+left parietal occipital lobe,anatomy,12,Left occipital lobe,0.8791803902718943
+right parietal-occipital lobe,anatomy,12,Right occipital lobe,0.8944573470208043
+left superior convexity,anatomy,12,Left angle of mouth,0.5790261609466593
+extraconal orbital fat,anatomy,12,Orbital fat body,0.808502564923678
+right ethmoid sinus cells,anatomy,12,Right anterior ethmoidal cell,0.9058293979869576
+right posterior cerebral artery distribution,anatomy,12,Right posterior cerebral artery,0.9511688583607124
+left temporal occipital,anatomy,12,Left temporal part of head,0.8528198348337624
+right pica,anatomy,12,Right anterior parietal artery,0.6387635136558814
+posterior aspect of the right frontal lobe,anatomy,12,Posterior part of right superior frontal gyrus,0.8992635403858885
+infarcted brain,anatomy,12,Cavity of brain,0.5550002469027859
+other sinuses,anatomy,12,Paranasal sinus,0.8496618363208981
+right frontal parietal scalp,anatomy,12,Right parietal zone of scalp,0.8747846426400957
+maxillary sinus walls,anatomy,12,Mucosa of maxillary sinus,0.7722276183295574
+superficial scalp,anatomy,12,Scalp,0.9103511248024794
+posterior periphery,anatomy,12,Posterior pole of eyeball,0.8232526647204974
+left sphenoid sinus air cell,anatomy,12,Left sphenoidal sinus,0.7727498752008917
+left frontoparietal calvarium,anatomy,12,Left temporal part of frontal bone,0.7162647954991732
+epiglottis,anatomy,12,Epiglottis,0.9970105026918267
+cranioplasty,anatomy,12,Skull,0.6016467822263418
+left skull base,anatomy,12,Left temporal bone,0.7378141877637147
+fossae,anatomy,12,Temporal fossa,0.7004691927122529
+left pica territory,anatomy,12,Left supramarginal gyrus,0.5406366424815117
+skull base internal carotid arteries,anatomy,12,Internal carotid artery,0.8775593350018264
+right posterior frontal cortical,anatomy,12,Posterior part of right superior frontal gyrus,0.8650543901832755
+left parieto-occipital lobe,anatomy,12,Left occipital lobe,0.8669844525597721
+inferior maxillary antrum,anatomy,12,Maxillary sinus,0.7563145723839564
+left lateral cerebellum,anatomy,12,Left hemisphere of cerebellum,0.8751240166515807
+deep brain,anatomy,12,Brain,0.8408916692717798
+infarct territory,anatomy,12,Decussation,0.5090130129067336
+teeth,anatomy,12,Set of teeth,0.9478228484175865
+zygomatic,anatomy,12,Zygomatic bone,0.8747599428085715
+left posterior vertex,anatomy,12,Left frontal pole,0.6519305021580561
+reservoir,anatomy,12,Anatomical compartment space,0.5988363093399135
+superior left frontal lobe,anatomy,12,Left frontal lobe,0.9573903616146988
+inter hemispheric,anatomy,12,Segment of forebrain,0.6212913159436225
+right frontal temporal lobe,anatomy,12,Right temporal lobe,0.924365797259447
+high right parietal calvarium,anatomy,12,Right parietal bone,0.6966260182687221
+left posterior occipital region,anatomy,12,Left occipital lobe,0.8370920363881662
+cerebellar tentorium,anatomy,12,Tentorium cerebelli,0.9494413387423444
+left temporal pole,anatomy,12,Left temporal fossa,0.8196613289656466
+apex,anatomy,12,Apex of pinna,0.6133376067360954
+lateral convexity,anatomy,12,Longitudinal fissure,0.6675433650180077
+lateral wall of the left maxillary sinus,anatomy,12,Left maxillary sinus,0.7740357174089613
+posterior insula,anatomy,12,Left insula,0.8941495679127016
+right frontal vertex,anatomy,12,Right side of frontal bone,0.8105649814832141
+right seventh nerve,anatomy,12,Neural network of right cheek,0.6005997549690967
+right cerebral hemispheric,anatomy,12,Right cerebral hemisphere,0.8607044112160694
+left ethmoidal air cells,anatomy,12,Left anterior ethmoidal cell,0.8854590212334431
+right mca branch,anatomy,12,Right insular artery,0.695750592936901
+tip of the basilar artery,anatomy,12,Branch of basilar artery,0.8528300513068063
+both parietal lobes,anatomy,12,Parietal lobe,0.8666471383946619
+right lobe,anatomy,12,Right parietal lobe,0.6517662900572868
+distal internal carotid artery,anatomy,12,Internal carotid artery,0.8713750305835668
+anterior right sphenoid sinus,anatomy,12,Right sphenoidal sinus,0.9036567985842191
+adjacent cortex,anatomy,12,Cerebral cortex,0.7717712697670793
+left lentiform,anatomy,12,Left lens,0.8482726073562684
+mastoid tips,anatomy,12,Right mastoid process,0.7730366373037911
+left cavernous carotid artery,anatomy,12,Cavernous branch of left internal carotid artery,0.9149564544338558
+right posterior vertex,anatomy,12,Right side of frontal bone,0.6739645909410628
+right side of the forehead,anatomy,12,Right side of frontal bone,0.794466748963934
+right posterior communicating artery,anatomy,12,Right posterior communicating artery,0.9976587923483328
+left parietooccipital lobe,anatomy,12,Left parietal lobe,0.8235456183756928
+coronal suture,anatomy,12,Coronal suture,0.9932383401791534
+spinal cord,anatomy,12,Fasciculus of spinal cord,0.7576926758219485
+semi circular canals,anatomy,12,Bony labyrinth,0.7005544802880305
+left carotid siphon region,anatomy,12,Left carotid siphon,0.8779065846458792
+right anterior cerebral artery,anatomy,12,Right anterior cerebral artery,0.9957526883779287
+right anterior,anatomy,12,Anterior segment of right eyeball,0.6189048714047085
+articulation,anatomy,12,Set of joints of head,0.6111145787661716
+intracranial circulation,anatomy,12,Cerebral vein,0.7523663515388925
+left eac,anatomy,12,Left ear,0.750928396398833
+cervicothoracic junction,anatomy,12,Axial skeletal system,0.5372182307003898
+posterior element,anatomy,12,Posterior polar zone of lens,0.6296325488645892
+left caudate nucleus head,anatomy,12,Sublentiform nucleus,0.5652102278811018
+left cp angle,anatomy,12,Left angle of mandible,0.5678374816851957
+right sphenoid sinus region,anatomy,11,Right sphenoidal sinus,0.9556536459543158
+right frontal subcortical,anatomy,11,Right frontal lobe,0.8546745030558562
+left sphenoid bone,anatomy,11,Sphenoid bone,0.8901248157549289
+internal and external capsules,anatomy,11,Capsule of lens,0.8131624660166982
+posterior left temporal region,anatomy,11,Left temporal part of head,0.882148684201928
+posterior mid right cerebellum,anatomy,11,Right hemisphere of cerebellum,0.8564010125267069
+frontal horns of both lateral ventricles,anatomy,11,Frontal horn of left lateral ventricle,0.878007867533532
+posterior right convexity,anatomy,11,Right posterior marginal sulcus,0.5575320481258781
+vertebral arterial,anatomy,11,Vertebral artery,0.9783066072242761
+right anterior scalp,anatomy,11,Right occipital zone of scalp,0.8372697067367656
+right to left midline,anatomy,11,Midline region of external nose,0.5595365360450689
+lateral recess,anatomy,11,Organ cavity,0.7252244377563526
+right frontal lobe region,anatomy,11,Right frontal lobe,0.9645562104448813
+right posterior ethmoid sinus,anatomy,11,Right ethmoidal sinus,0.8930708663435957
+superior ophthalmic vein,anatomy,11,Superior ophthalmic vein,0.9920852187551943
+right side of the face,anatomy,11,Right side of face,0.9755144062890756
+right deep gray matter nuclei,anatomy,11,Gray matter of right substantia nigra,0.7385437430702411
+left ethmoid region,anatomy,11,Left ethmoidal sinus,0.8952551424834141
+medial left cerebellum,anatomy,11,Left hemisphere of cerebellum,0.8257693027119561
+infratentorial,anatomy,11,Main nasal cavity,0.8027224119994281
+vertebral artery's,anatomy,11,Vertebral artery,0.9746780412527666
+right nasal,anatomy,11,Right nasalis,0.9361967098200806
+ventricle sulci,anatomy,11,Central sulcus,0.6855321713449798
+operative site,anatomy,11,Organ segment,0.6291173424499258
+anterior limb of right internal capsule,anatomy,11,Capsule of right lens,0.6519587188050727
+anterior left middle cranial fossa,anatomy,11,Left infratemporal fossa,0.7844056013865085
+subcortical white matter region,anatomy,11,Segment of white matter of neuraxis,0.8533004769109468
+nares,anatomy,11,External naris,0.8187858524581862
+pre pontine cistern,anatomy,11,Pontine cistern,0.9249332550124271
+posterior right ethmoid sinus air cell,anatomy,11,Right posterior ethmoidal cell,0.8737812886174543
+cavernous sinus region,anatomy,11,Cavernous sinus,0.8355560291450865
+superior cerebellar vermis,anatomy,11,Vermis of cerebellum,0.8893848671192492
+posterior lentiform nucleus,anatomy,11,Sublentiform nucleus,0.8251249221823955
+posterior left sylvian fissure,anatomy,11,Posterior cerebellar lobe fissure,0.7889997658277628
+aortic arch,anatomy,11,Brachiocephalic artery,0.668700626860241
+great vessels,anatomy,11,Systemic arterial trunk,0.6354246944530498
+right posterior cerebral artery,anatomy,11,Right posterior cerebral artery,0.9998751545190976
+parotid gland,anatomy,11,Parotid gland,0.9984967798259053
+scanner,anatomy,11,Lens,0.5216869931240188
+venous sinuses,anatomy,11,Circular sinus,0.7931321220043536
+endplate,anatomy,11,Cribriform plate,0.5722309769576195
+distal basilar artery,anatomy,11,Basilar artery,0.9220225267432905
+abdomen,anatomy,11,Organ cluster,0.5543603584511375
+mastoid antrum,anatomy,11,Mastoid antrum,0.9971683226766929
+right anterior corona radiata,anatomy,11,Iridial part of right retina,0.6187465802545031
+left subdural collection,anatomy,11,Subdural space,0.7105187818676721
+subjacent right cerebral hemisphere,anatomy,11,Right cerebral hemisphere,0.8420223544767167
+lateral left cerebellum,anatomy,11,Left hemisphere of cerebellum,0.8904860103409017
+nasal cavities,anatomy,11,Nasal cavity,0.9593727891493451
+floor the right maxillary sinus,anatomy,11,Right maxillary sinus,0.7554670821514183
+axillary,anatomy,11,Axillary vein,0.7084763666561918
+deep white matter capsule,anatomy,11,White matter of metencephalon,0.6874039852183909
+left posterior cerebral artery territory,anatomy,11,Zone of posterior cerebral artery,0.8809919112309305
+bilateral ethmoid sinus,anatomy,11,Left ethmoidal sinus,0.8971305752405624
+icas,anatomy,11,Organ cluster,0.4681416556861089
+panventricular,anatomy,11,Third ventricle,0.563713076898832
+occipital horn of right lateral ventricle,anatomy,11,Occipital horn of right lateral ventricle,0.9596056362171337
+right skullbase,anatomy,11,Right temporal bone,0.8000053598217423
+lateral to the right orbit,anatomy,11,Medial wall of right orbit,0.7928797500589394
+right orbital roof,anatomy,11,Roof of right orbit,0.9405792522466904
+uterus,anatomy,11,Set of organs,0.4454694715720182
+right nasal cavity,anatomy,11,Right nasal cavity,0.9993615340485722
+underlying parenchyma,anatomy,11,Nonparenchymatous organ,0.747065174625214
+left paramedian pons,anatomy,11,Pons,0.7343014301550566
+both middle ear cavities,anatomy,11,Left middle ear,0.8192346988873013
+inferior bifrontal,anatomy,11,Inferior frontal gyrus,0.6986994912761214
+cerebellopontine angles,anatomy,11,Posterior cerebellar incisure,0.7191412031759128
+left seventh nerve,anatomy,11,Neural network of left temporal bone,0.609117717795602
+inferior left mastoid,anatomy,11,Left mastoid process,0.8973947373762031
+floor of the anterior cranial fossa,anatomy,11,Infratemporal fossa,0.6964288751752566
+right of midline,anatomy,11,Midline region of external nose,0.5684591255569936
+malleus,anatomy,11,Malleus,0.9989842555461924
+bony cover,anatomy,11,Skull,0.6371440930320605
+left operculum,anatomy,11,Left lingual gyrus,0.6979428057585465
+posterior aspect of the left frontal lobe,anatomy,11,Posterior part of left superior frontal gyrus,0.8756019541846113
+posterior horns,anatomy,11,Right lesser horn,0.6290386172544014
+eye globes,anatomy,11,Eyeball,0.9578339899860527
+anterior right lateral ventricle,anatomy,11,Right lateral ventricle,0.9162543339773452
+right occipital parietal,anatomy,11,Right occipital pole,0.8252014860867508
+bones sinuses,anatomy,11,Paranasal sinus,0.7613059789981327
+lateral wall of the left orbit,anatomy,11,Medial wall of left orbit,0.8950553518352746
+alveolar ridge,anatomy,11,Alveolar part of maxilla,0.8546451231950392
+posterior ethmoid sinus,anatomy,11,Posterior ethmoidal sinus,0.985421941664016
+medial left orbital,anatomy,11,Medial wall of left orbit,0.8612845661522959
+right lateral temporal lobe,anatomy,11,Right temporal lobe,0.9372342818826089
+right frontal parietal convexity,anatomy,11,Right side of frontal bone,0.7467346567011864
+high right parietal scalp,anatomy,11,Right parietal zone of scalp,0.8122506591033425
+adjacent bone,anatomy,11,Irregular bone,0.8200047091855182
+right parieto-occipital lobe,anatomy,11,Right occipital lobe,0.8868458307055463
+right inferior cerebellar hemisphere,anatomy,11,Right hemisphere of cerebellum,0.8948053707751942
+c1 level,anatomy,11,Deep cervical vein,0.41068880408060826
+bilateral caudate head,anatomy,11,Cerebral aqueduct,0.5321981822451438
+high parietal lobes,anatomy,11,Parietal lobe,0.7617135747656943
+left sub insular,anatomy,11,Left insula,0.6853755022584572
+trabecular architecture,anatomy,11,Stroma of iris,0.595976627371251
+frontoparietal lobes,anatomy,11,Frontal lobe,0.8500848694097939
+bilateral deep gray matter nuclei,anatomy,10,Nucleus of brain,0.6605979862254046
+screws,anatomy,10,Suture,0.5270638618635944
+shunt,anatomy,10,Anatomical conduit space,0.5671538103920987
+soft tissue scalp,anatomy,10,Superficial fascia of scalp,0.8382124116306338
+left optic globe,anatomy,10,Left eyeball,0.894939065128937
+high right parietal bone,anatomy,10,Right parietal bone,0.8853027386531986
+left parietal subcortical white matter,anatomy,10,White matter of left superior parietal lobule,0.8160563548986131
+right-sided mastoid air cells,anatomy,10,Mastoid air cell of right temporal bone,0.9251387574136843
+right anterior parietal lobe,anatomy,10,Right parietal lobe,0.918653215002815
+anterior left sphenoid sinus,anatomy,10,Left sphenoidal sinus,0.903345285879033
+left parietal area,anatomy,10,Left parietal part of head,0.8474359863735659
+underlying globe,anatomy,10,Eyeball,0.7870621672716288
+glabella,anatomy,10,Glabella,0.995525597451062
+right temporal occipital region,anatomy,10,Right temporal part of head,0.8498068599669201
+cerebellar region,anatomy,10,Cerebellum,0.9117317365980213
+left external ear canal,anatomy,10,Left external ear,0.8619987412001643
+medial right orbit,anatomy,10,Medial wall of right orbit,0.8857925255357426
+left parietal calvarial,anatomy,10,Left parietal bone,0.8448247262358444
+anterior right frontal region,anatomy,10,Right frontal pole,0.8239029530408458
+facial soft tissues,anatomy,10,Superficial fascia of face,0.7859531411336812
+ethmoid sinus air cell,anatomy,10,Left anterior ethmoidal cell,0.7995727729826841
+body habitus,anatomy,10,Fat body,0.600193502919624
+tonsils,anatomy,10,Palatine tonsil,0.9514666111805853
+right frontoethmoidal recess,anatomy,10,Right frontal sinus,0.7339731468832523
+both orbits,anatomy,10,Right orbital cavity,0.7649590638774322
+right caudate lobe,anatomy,10,Right limbic lobe,0.7520841608334187
+regional sulci,anatomy,10,Central sulcus,0.8384174243969736
+anterior left temporal,anatomy,10,Left temporal fossa,0.8550115393154525
+gray and white compartments,anatomy,10,Reticular formation,0.6455595309581457
+white compartments,anatomy,10,Mucosa of malleus,0.6945706447056785
+superior convexity,anatomy,10,Angle of mouth,0.5939070179575651
+paranasal mastoid sinuses,anatomy,10,Mastoid antrum,0.8282336962391565
+posterior right mca distribution,anatomy,10,Posteromedial central branch of right posterior cerebral artery,0.6250024228809767
+deep white matter structures,anatomy,10,White matter of neuraxis,0.8847621273366668
+intraconal contents,anatomy,10,Organ cavity,0.47344768763818157
+left posterior insula,anatomy,10,Left insula,0.9584722541425109
+optic globes,anatomy,10,Eyeball,0.823477638267698
+parieto-occipital regions,anatomy,10,Occipital part of head,0.7527173459088041
+underlying right frontal bone,anatomy,10,Right side of frontal bone,0.9338782106730147
+lateral ventricular system,anatomy,10,Lateral ventricle,0.8934766010114608
+visualized left maxillary antrum,anatomy,10,Left maxillary sinus,0.7783017753477075
+right anterior cranial fossa,anatomy,10,Right infratemporal fossa,0.8065922097518
+right lateral cerebellum,anatomy,10,Right hemisphere of cerebellum,0.8997884582852932
+underlying sulci,anatomy,10,Central sulcus,0.8613177753262568
+right anterior insula,anatomy,10,Right insula,0.9540306295245021
+posterior ring of c1,anatomy,10,Posterior commissure,0.5441170370460913
+right sub insular,anatomy,10,Right insular artery,0.6966517686649003
+right lateral ventricle frontal horn,anatomy,10,Frontal horn of right lateral ventricle,0.9483415658880519
+upper left cerebellum,anatomy,10,Left hemisphere of cerebellum,0.8719747613743012
+deep hemispheric white matter,anatomy,10,Segment of white matter of neuraxis,0.814930106455207
+right maxillary sinus wall,anatomy,10,Right maxillary sinus,0.8117498314550039
+left anterior corona radiata,anatomy,10,Major arterial circle of iris,0.5866782665474115
+watershed distribution,anatomy,10,Zone of continuity,0.5787536796822706
+right putaminal,anatomy,10,Right substantia nigra,0.697090321232023
+caudate nucleus head,anatomy,10,Sublentiform nucleus,0.6726690531843583
+medial right parietal lobe,anatomy,10,Right parietal lobe,0.8828070269272963
+right calvarial,anatomy,10,Calvarium,0.7628664939887444
+right parietal-occipital region,anatomy,10,Right occipital lobe,0.8109288872788591
+small bowel,anatomy,10,Smooth muscle layer,0.4383333643808356
+right frontal sulci,anatomy,10,Right superior frontal sulcus,0.9350778303337202
+right posterior parietal bone,anatomy,10,Right parietal bone,0.9578468627165249
+thoracic spine,anatomy,10,Axial skeletal system,0.5636498367237028
+left suboccipital scalp,anatomy,10,Left occipital zone of scalp,0.8906176515323448
+right paramedian pons,anatomy,10,Right side of brainstem,0.7658436370753778
+posterior left mastoid air cells,anatomy,10,Mastoid air cell of left temporal bone,0.8732889376705054
+cerebral falx,anatomy,10,Falx cerebri,0.8955765352085183
+left frontal sulci,anatomy,10,Left superior frontal sulcus,0.9204832000230975
+periventricular matter,anatomy,10,Neural tissue of brain,0.7123896913142727
+c6-c7 level,anatomy,10,Craniocervical region,0.5959401914147312
+mastoid processes,anatomy,10,Mastoid part of petrous part of temporal bone,0.8796180954618457
+scalp vertex,anatomy,10,Scalp,0.8860785116834443
+right precentral gyrus,anatomy,10,Right precentral gyrus,0.9968509970869716
+anterior aspect of the right lateral ventricle,anatomy,10,Right lateral ventricle,0.8380245439773188
+right lateral orbit,anatomy,10,Right orbital cavity,0.8475215844066799
+anterior aspect of the right maxillary sinus,anatomy,10,Right maxillary sinus,0.8641368173315533
+intraorbital contents,anatomy,10,Orbital content,0.6285877999428543
+posterior horn,anatomy,10,Right lesser horn,0.6554233192962562
+visualized scalp soft tissues,anatomy,10,Scalp,0.7481765986539131
+thecal sac,anatomy,10,Serous sac,0.6777054586621045
+mandibular,anatomy,10,Mandible,0.9471126816557947
+basil cisterns,anatomy,10,Chiasmatic cistern,0.6804763753659069
+anterior limb of the internal capsules,anatomy,10,Capsule of anterior lens,0.6926771511473412
+both frontal regions,anatomy,10,Frontal part of head,0.7991378099051109
+right frontal convexities,anatomy,10,Right side of frontal bone,0.7970099992654343
+skin surface,anatomy,10,Segment of skin,0.7649262600190424
+cerebral vasculature,anatomy,10,Vasculature of brain,0.9570607238165247
+lateral thalamus,anatomy,10,Left thalamus,0.8371458945056027
+external canal,anatomy,10,Anatomical orifice,0.6823091127479577
+--optic nerves,anatomy,10,Optic nerve,0.9722977969841471
+--extraocular muscles,anatomy,10,Extra-ocular muscle,0.9365711656084679
+cavernous icas,anatomy,10,Cavernous artery,0.6517660825024744
+anterior aspect of the right middle cranial fossa,anatomy,10,Right infratemporal fossa,0.7320387400769831
+anterior aspect of the left lateral ventricle,anatomy,10,Left lateral ventricle,0.8216789375951841
+bilateral frontal sinus,anatomy,10,Left frontal sinus,0.882663526766554
+sellar region,anatomy,10,Sella turcica,0.7643738747413682
+right cerebral cortex,anatomy,10,Cortex of right cerebral hemisphere,0.9236780808080762
+midline frontal region,anatomy,10,Midline region of external nose,0.693926091579147
+left m1,anatomy,10,Left masseter,0.6060870279022175
+anterior left frontal convexity,anatomy,10,Left frontal pole,0.7164218107068935
+left ostiomeatal unit,anatomy,10,Left incus,0.7239917190789769
+anterior right ethmoid sinus,anatomy,10,Right ethmoidal sinus,0.9326466045470807
+lower mastoid air cells,anatomy,10,Mastoid air cell,0.9037101387412465
+cavernous sinus carotids,anatomy,10,Cavernous branch of internal carotid artery,0.7838526802865894
+internal carotid vertebral arteries,anatomy,10,Internal carotid artery,0.8809216945541836
+blood,anatomy,10,Set of organs,0.3782170362819125
+cervical medullary junction,anatomy,10,Cervical branch of vertebral artery,0.6209210776902919
+left periatrial white matter,anatomy,10,White matter of left precuneus,0.7409011846660422
+right skull,anatomy,10,Skull,0.8144457400741991
+right parietal-occipital scalp,anatomy,10,Right occipital zone of scalp,0.9143431826899974
+midline occipital scalp,anatomy,10,Occipital part of scalp,0.6891026380315419
+left mca vascular territory,anatomy,10,Left mammillary artery,0.6832429535000712
+inferior aspect of the left frontal lobe,anatomy,10,Left inferior frontal gyrus,0.8744869785199879
+left partition of the sphenoid sinus,anatomy,10,Left sphenoidal sinus,0.9201969149570235
+right brain,anatomy,10,Right cerebral hemisphere,0.893088368635263
+middle cerebral artery territories,anatomy,10,Zone of middle cerebral artery,0.9442096277547074
+suboccipital region,anatomy,10,Craniocervical region,0.748591617633084
+orbital roof,anatomy,10,Roof of left orbit,0.8739774372224586
+right inferior frontal sinus,anatomy,10,Right frontal sinus,0.9195156606950619
+below the left putamen,anatomy,10,Left half of hypothalamus,0.6802272753935685
+left sphenoid chamber,anatomy,10,Left sphenoidal sinus,0.8609444609939291
+left lateral ventricular,anatomy,10,Left lateral ventricle,0.9448244125215067
+major intracranial vessels,anatomy,10,Internal cerebral vein,0.8039088628340485
+superior vermian cistern,anatomy,10,Cerebellomedullary cistern,0.813308592389197
+intraorbital soft tissue planes,anatomy,10,Peri-orbital region of face,0.6653866115085944
+petrous temporal bones,anatomy,10,Temporal bone,0.9011938898147168
+central forehead,anatomy,10,Forehead,0.8576989034867388
+left skull,anatomy,10,Skull,0.8261903832114343
+right lobe of the thalamus,anatomy,10,Right thalamus,0.8997936105625729
+cavernous ica segments,anatomy,10,Insular artery,0.6388567353722755
+margins,anatomy,10,Zone of continuity,0.6887157066596337
+right middle frontal gyrus,anatomy,10,Right middle frontal gyrus,0.996405480172703
+inferior aspect of the left maxillary sinus,anatomy,10,Left maxillary sinus,0.7962991656567682
+gaze,anatomy,10,Eye,0.6548484535254958
+caudate body,anatomy,10,Juxtarestiform body,0.6045652112444658
+left ossicles,anatomy,10,Left stapes,0.8650555568149462
+left cerebral hemispheres,anatomy,10,Left cerebral hemisphere,0.9616640335562241
+orbital apex,anatomy,10,Orbital cavity,0.7362707247669931
+left gyrus rectus,anatomy,10,Left straight gyrus,0.8524546822570042
+c2-c3,anatomy,10,Cervical branch of vertebral artery,0.5461626124486438
+sphenoid wing,anatomy,10,Greater wing of sphenoid,0.9182083923143799
+posterior-superior nasopharynx,anatomy,10,Nasopharynx,0.7451985496179836
+left frontoparietal vertex,anatomy,10,Left frontal pole,0.6368187275486228
+holo hemispheric,anatomy,10,Segment of forebrain,0.5904597671297506
+mesial temporal lobes,anatomy,10,Temporal lobe,0.8488632159662767
+bilateral temporal lobes,anatomy,10,Left temporal lobe,0.9012354224427795
+bilateral sphenoid,anatomy,10,Sphenoid bone,0.815953078132608
+left anterior,anatomy,10,Left anterior lens,0.6261746699447124
+foramen of monroe,anatomy,10,Transverse sinus,0.6704961763993453

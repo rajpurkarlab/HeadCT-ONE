@@ -1,0 +1,8 @@
+{"doc_key": "example1_0", "sentences": [["brain", ":", "a", "right", "parietal", "approach", "ventriculostomy", "catheter", "remains", "in", "place", "with", "tip", "in", "the", "medial", "aspect", "of", "the", "body", "of", "the", "left", "lateral", "ventricle", ",", "unchanged", "."]], "ner": [[]], "relations": [[]]}
+{"doc_key": "example1_1", "sentences": [["mild", "to", "moderate", "lateral", "and", "third", "ventriculomegaly", "is", "unchanged", "."]], "ner": [[]], "relations": [[]]}
+{"doc_key": "example1_2", "sentences": [["there", "is", "no", "evidence", "of", "acute", "infarct", ",", "intracranial", "hemorrhage", ",", "mass", ",", "midline", "shift", ",", "or", "extra-axial", "fluid", "collection", "."]], "ner": [[]], "relations": [[]]}
+{"doc_key": "example1_3", "sentences": [["vascular", ":", "no", "hyperdense", "vessel", "."]], "ner": [[]], "relations": [[]]}
+{"doc_key": "example1_4", "sentences": [["skull", ":", "no", "fracture", "or", "focal", "osseous", "lesion", "."]], "ner": [[]], "relations": [[]]}
+{"doc_key": "example1_5", "sentences": [["sinuses", "/", "orbits", ":", "paranasal", "sinuses", "and", "mastoid", "air", "cells", "are", "clear", "."]], "ner": [[]], "relations": [[]]}
+{"doc_key": "example1_6", "sentences": [["bilateral", "cataract", "extraction", "."]], "ner": [[]], "relations": [[]]}
+{"doc_key": "example1_7", "sentences": [["other", ":", "none", "."]], "ner": [[]], "relations": [[]]}

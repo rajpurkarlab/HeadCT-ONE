@@ -1,0 +1,106 @@
+First level,Second level,Third level,Examples
+quantity,numeric,numeric,"5 lesions,3 fractures"
+quantity,qualitative,single,"isolated,solitary,single"
+quantity,qualitative,multiple,"several,multiple,numerous,a few"
+size,numeric,numeric,"5 mm,10cm"
+size,qualitative,very_small,"tiny,microscopic"
+size,qualitative,small,small
+size,qualitative,medium,"moderate,average,medium size,normal size"
+size,qualitative,large,"large,big,enlarged"
+size,qualitative,very_large,"enormous,huge,very large,gigantic,very enlarged"
+shape,regular,spherical,"round,oval,ovoid"
+shape,regular,laminar,"laminar,sheet-like,layer"
+shape,regular,tubular,"tubular,cylindrical"
+shape,regular,fusiform,fusiform
+shape,irregular,lobulated,lobulated
+shape,irregular,spiculated,spiculated
+shape,irregular,amorphous,amorphous
+homogeneity,homogeneous,homogeneous,homogeneous
+homogeneity,heterogeneous,heterogeneous,heterogeneous
+density,hypodense,hypodense,"hypodense,hypoattenuation,hypodensity"
+density,isodense,isodense,isodense
+density,hyperdense,hyperdense,"hyperdense,hyperattenuation,hyperdensity"
+density,mixed,mixed,mixed density
+margin,well_defined,well_defined,"circumscribed,well defined,well circumscribed,well delimited"
+margin,poorly_defined,poorly_defined,"ill-defined,poorly circumscribed"
+severity,minimal,minimal,minimal
+severity,mild,mild,mild
+severity,moderate,moderate,moderate
+severity,severe,severe,severe
+temporality,acute,acute,"acute,new"
+temporality,subacute,subacute,subacute
+temporality,chronic,chronic,"chronic,old,remote"
+temporality,acute_on_chronic,acute_on_chronic,acute on chronic
+temporality,age_indeterminate,age_indeterminate,"age-indeterminate,indeterminate age"
+distribution,localized,localized,"focal,localized"
+distribution,diffuse,diffuse,diffuse
+distribution,confluent,confluent,confluent
+distribution,scattered,scattered,scattered
+distribution,petechial,petechial,petechial
+distribution,multifocal,multifocal,multifocal
+enhancement,present,homogeneous,homogeneous enhancement
+enhancement,present,heterogeneous,heterogeneous enhancement
+enhancement,present,peripheral,peripheral enhancement
+enhancement,present,central,central enhancement
+enhancement,present,rim,rim-like enhancement
+enhancement,present,patchy,patchy enhancement
+enhancement,absent,absent,no enhancement
+change,resolution,resolution,"resolution,resolved,cleared,dissapeared"
+change,improvement,improvement,"improved,improving"
+change,increase,increase,"increased,increase in size,larger,increasing"
+change,decrease,decrease,"decreaed,decrease in size,decreasing,smaller"
+change,worsening,worsening,"worsened,worsening"
+change,appearance,appearance,"new,appeared,is now present"
+change,mixed_change,mixed_change,one metastasis increased in size and the other one resolved
+change,stable,stable,"stable,unchanged,similar,similar in appareance"
+certainty,definitely_present,definitely_present,"there is, there are,with"
+certainty,probably_present,probably_present,"probably,likely"
+certainty,possibly_present,possibly_present,possibly
+certainty,uncertain,uncertain,cannot rule out
+certainty,definitely_absent,definitely_absent,"no,no evidence of,there is no,without"
+composition,gas,gas,"gas,gaseous,air"
+composition,fluid,simple_fluid,"fluid-like,simple fluid"
+composition,fluid,csf,csf
+composition,fluid,serous,serous
+composition,fluid,hemorrhagic,hemorrhagic
+composition,fluid,mucinous,"mucinous,colloid"
+composition,solid,soft_tissue,soft-tissue density
+composition,solid,fatty,fatty
+composition,solid,fibrous,fibrous
+composition,solid,calcified,"calcific density,calcified"
+composition,solid,sclerotic,sclerotic
+composition,mixed,mixed,"mixed,semisolid,fluid and solid components,solid with hemorrhagic components"
+complexity,simple,simple,simple
+complexity,complex,complex,complex
+normalcy,normal,normal,normal
+normalcy,abnormal,abnormal,abnormal
+caliber,dilated,dilated,"dilated ventricles,dilated vessels"
+caliber,normal,normal,"average lumen,normal cavity,normal calibre"
+caliber,reduced,reduced,"narrowed artery,collapsed veins,collapsed ventricles"
+malignancy_status,definitely_benign,definitely_benign,benign
+malignancy_status,probably_benign,probably_benign,probably benign lesion
+malignancy_status,indeterminate,indeterminate,indeterminate hypodensity
+malignancy_status,probably_malignant,probably_malignant,"probably malignant,suspicious"
+malignancy_status,definitely_malignant,definitely_malignant,"cancerous,malignant"
+patency,patent,patent,"patent,clear"
+patency,mostly_patent,mostly_patent,mostly patent
+patency,obstructed,obstructed,"obstruction,obstructed"
+patency,occluded,occluded,occlusion
+occupancy,empty,empty,"empty,clear,well-aereated"
+occupancy,partially_filled,partially_filled,partially filled with..
+occupancy,fully_filled,fully_filled,"full,fully filled"
+occupancy,engorged,engorged,engorged
+integrity,intact,intact,"intact,unruptured"
+integrity,partially_compromised,partially_compromised,"partially ruptured, partially disrupted"
+integrity,compromised,compromised,"ruptured,disrupted,disruption"
+direction,left_to_right,left_to_right,left-to-right
+direction,right_to_left,right_to_left,right-to-left
+direction,anterior_to_posterior,anterior_to_posterior,anterior-to-posterior
+direction,posterior_to_anterior,posterior_to_anterior,posterior-to-anterior
+direction,upwards,upwards,upwards
+direction,downwards,downwards,downwards
+component_involved,mucosal,mucosal,mucosal
+component_involved,muscular,muscular,muscular
+component_involved,osseous,osseous,"osseous,bony"
+position,normal_position,normal_position,normal position
+position,abnormal_position,abnormal_position,"displaced,abnormal position"
