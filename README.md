@@ -74,15 +74,15 @@ If you use this code in your research, please cite the following paper:
 
 ```bibtex
 @article{HeadCT-ONE,
-  title={HeadCT-ONE: Enabling Granular and Controllable Automated Evaluation of Head CT Radiology Report Generation},
-  author={Acosta, Julián N. and Zhang, Xiaoman and Dogra, Siddhant and Zhou, Hong-Yu and Payabvash, Sam and Falcone, Guido J. and Oermann, Eric K. and Rajpurkar, Pranav},
-  journal={},
-  year={},
-  volume={},
-  number={},
-  pages={},
-  publisher={}
+      title={HeadCT-ONE: Enabling Granular and Controllable Automated Evaluation of Head CT Radiology Report Generation}, 
+      author={Julián N. Acosta and Xiaoman Zhang and Siddhant Dogra and Hong-Yu Zhou and Seyedmehdi Payabvash and Guido J. Falcone and Eric K. Oermann and Pranav Rajpurkar},
+      year={2024},
+      eprint={2409.13038},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2409.13038}, 
 }
+
 ```
 
 Please note that the journal, year, volume, number, pages, and publisher information are not provided in the given text. You should update these fields with the correct information when it becomes available.
