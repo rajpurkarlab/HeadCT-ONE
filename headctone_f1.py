@@ -96,7 +96,6 @@ def calculate_radgraph_weighted_f1(gt_dict: Dict[str, Dict], pred_dict: Dict[str
 
         # Assign weights for ground truth entities and relations
         for e, t in gt_entities:
-            related_entities.add((e,t))
             gt_entity_weights[(e, t)] = entity_weights.get(t, 0.0)
 
         for (s, s_type), (t, t_type), r in gt_relations:
