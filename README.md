@@ -68,21 +68,4 @@ The final results will be saved in the `./kg/data` directory, including:
 
 Ensure that you have the necessary permissions to execute the Python scripts and access the specified directories.
 
-## Citation
 
-If you use this code in your research, please cite the following paper:
-
-```bibtex
-@article{HeadCT-ONE,
-      title={HeadCT-ONE: Enabling Granular and Controllable Automated Evaluation of Head CT Radiology Report Generation}, 
-      author={Julián N. Acosta and Xiaoman Zhang and Siddhant Dogra and Hong-Yu Zhou and Seyedmehdi Payabvash and Guido J. Falcone and Eric K. Oermann and Pranav Rajpurkar},
-      year={2024},
-      eprint={2409.13038},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2409.13038}, 
-}
-
-```
-
-Please note that the journal, year, volume, number, pages, and publisher information are not provided in the given text. You should update these fields with the correct information when it becomes available.
